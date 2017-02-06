@@ -1,0 +1,12 @@
+- name: 'Home'
+  id: 'home'
+  url: '/'
+- name: 'Quick Start'
+  id: 'xamarin-quick-start'
+  url: '/quick-start/'
+- name: 'Tutorials'
+  id: 'xamarin-tutorials'
+  url: '/tutorials/'
+- name: 'API Reference'
+  url: '/xamarin-sdk-docs/'
+

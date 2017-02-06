@@ -1,0 +1,3 @@
+[submodule "xamarin-sdk-docs"]
+	path = xamarin-sdk-docs
+	url = https://github.com/datalogic/xamarin-sdk-docs.git

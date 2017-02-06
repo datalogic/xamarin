@@ -13,7 +13,7 @@ tutorial_api:
 excerpt: "Scan barcodes using a ReadListener: the simplest barcode scanner application"
 ---
 
-<p>Register a {% include man-link.html uri='com.datalogic.decode.ReadListener' %} in your <code>Activity.onResume()</code>
+<p>Register a {% include xamarin-man-link.html uri='com.datalogic.decode.ReadListener' %} in your <code>Activity.onResume()</code>
 to receive read events on successful barcode reads:
 </p>
 
@@ -65,5 +65,5 @@ protected void onPause() {
 The actual barcode scanning is started via any physical scan trigger on the
 device. Though to start scanning when a button on the application is pressed,
 you need to call
-{% include man-link.html uri='com.datalogic.decode.BarcodeManager#startDecode(int)' %}.
+{% include xamarin-man-link.html uri='com.datalogic.decode.BarcodeManager#startDecode(int)' %}.
 </p>
