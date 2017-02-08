@@ -4,9 +4,82 @@ layout: page
 title: Quick Start
 ---
 
-<div id="install" class="section scrollspy">
+<div id="Install Visual Studio" class="section scrollspy">
 <h2>Install Visual Studio</h2>
-
-If you do not already have a copy of Visual Studio (2013 or newer), you can download the <a href="https://www.visualstudio.com/downloads/">Community Edition from Microsoft</a> and...
+<p>Xamarin Development requires either using Visual Studio on Microsoft Windows or Xamarin Studio on MacOS. This tutorial will only cover using the Datalogic Xamarin SDK in Visual Studio, but setup in Xamarin Studio should be possible and follow similar steps. This guide assumes you are using Visual Studio 2015. Using Visual Studio 2013 or 2017 should also be possible, but not covered below. If you do not already have a copy of Visual Studio (2013 or newer), you can download the free <a href="https://www.visualstudio.com/downloads/">Community Edition from Microsoft</a>. Next, follow Microsoft's <a href="https://msdn.microsoft.com/en-us/library/mt613162.aspx">Setup and install directions for Xamarin and Visual Studio 2015</a>.</p>
 </div>
 
+<div id="Create a Xamarin Project" class="section scrollspy">
+<h2>Create a Xamarin Project</h2>
+<p>Open Visual Studio and select <em><strong>New Project...</strong></em></p>
+{% include img.html src='visual-studio-new.png' %}
+<br>
+
+<p>In the New Project window, navigate to <em><strong>Installed &gt; Templates &gt; Visual C# &gt; Cross-Platform</strong></em>. Select <em><strong>Blank App (Native Portable)</strong></em> (or another of the Blank App types, depending on your use case).
+</p>
+{% include img.html src='visual-studio-new-project.png' %}
+<br>
+
+<p>If you get a Xamarin Mac Agent prompt, click <em><strong>Close</strong></em>.</p>
+<p>Your new project should now be created. In <em><strong>Solution Explorer</strong></em>, find and open <em><strong>MainActivity.cs</strong></em>. Your window should now look similar to this:
+</p>
+{% include img.html src='visual-studio-MainActivity.png' %}
+<br>
+
+<p><b>Note:</b> If you would rather just start with an example Xamarin project that is already configured to use the Datalogic Xamarin SDK, check out the <a href="{{ site.baseurl }}/tutorials/decode-listener.html">DecodeListener</a> sample project.</p>
+</div>
+
+<div id="NuGet" class="section scrollspy">
+<h2>NuGet</h2>
+<p>
+<a href="https://www.nuget.org/">NuGet</a> is a widely used package manager for .NET development that comes preinstalled in Visual Studio. Datalogic uses NuGet to distribute the Datalogic Xamarin SDK. First, open NuGet by navigating to <em><strong>Tools &gt; NuGet Package Manager &gt; Manage NuGet Packages for Solution</strong></em>.</p>
+{% include img.html src='visual-studio-nuget-open.png' %}
+<br>
+<p>
+In the 'NuGet - Solution' tab, Click <em><strong>Browse</strong></em>. Check the <em><strong>Include prerelease</strong></em> box. Type <em><strong>datalogic</strong></em> in the search box. Select the result titled <em><strong>datalogic-xamarin-sdk</strong></em>.
+</p>
+{% include img.html src='visual-studio-nuget-browse.png' %}
+<br>
+
+<p>
+Next, select the <em><strong>MyXamarinApp.Droid</strong></em> Project and click <em><strong>Install</strong></em>.
+</p>
+{% include img.html src='visual-studio-nuget-install.png' %}
+<br>
+
+<p>
+Click Installed at the top of the window. You will now see 'datalogic-xamarin-sdk' listed as an installed package.
+</p>
+{% include img.html src='visual-studio-nuget-installed.png' %}
+<br>
+
+<p>You can now close the NuGet tab.</p>
+</div>
+
+<div id="Use the SDK" class="section scrollspy">
+<h2>Use the SDK</h2>
+<p>
+You can now start using the SDK in your code.
+</p>
+For example, open <strong>MainActivity.cs</strong></em> inside the <strong>MyXamarinApp.Droid</strong></em> Project. 
+<p>
+Use object browser to familiarize and read documentation. Documentation is also available here.
+</p>
+</div>
+
+<div id="Android manifest" class="section scrollspy">
+<h2>Android manifest</h2>
+<p>
+Android Manifest
+</p>
+</div>
+
+<div id="Compile" class="section scrollspy">
+<h2>Compile</h2>
+<p>
+Connect device to ADB, compile, run.
+</p>
+<p>
+Check out Sample apps here.
+</p>
+</div>
