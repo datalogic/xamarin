@@ -23,18 +23,8 @@ layout: default
         <p><a class="waves-effect waves-light btn modal-trigger" href="#modal-barcode">
           <i class="fa fa-qrcode"></i> Install</a></p>
 
-        <p><a class='dropdown-button btn' href='#!' data-activates='sourcecode'
-            data-beloworigin="true" data-hover="true">
+        <p><a class="waves-effect waves-light btn" href="{{ site.samples_url.xamarin }}/{{ page.title | replace:' ','' }}">
           <i class="fa fa-github"></i> Source code</a></p>
-
-        <ul id='sourcecode' class='dropdown-content'>
-          <li>
-            <a href="{{ site.samples_url.astudio }}/{{ page.title | replace:' ','' }}"
-              target="_blank">AndroidStudio</a></li>
-          <li>
-            <a href="{{ site.samples_url.eclipse }}/{{ page.title | replace:' ','' }}"
-              target="_blank">Eclipse ADT</a></li>
-        </ul>
 
         {% if page.tutorial_frame %}
         <p><button class="waves-effect waves-light btn btn-accent"

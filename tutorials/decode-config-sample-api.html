@@ -1,0 +1,52 @@
+---
+layout: tutorial
+title: Decode Config Sample API
+
+tutorial_platform: xamarin
+tutorial_enabled: true
+tutorial_order: 30
+tutorial_difficulty: 1
+tutorial_icon: wrench
+
+excerpt: 'Configure barcode scanner properties'
+---
+
+<p>To configure the decoder properties, you need to instantiate
+{% include xamarin-man-link.html uri='T.Com.Datalogic.Decode.BarcodeManager' %}
+and get a
+{% include xamarin-man-link.html uri='T.Com.Datalogic.Decode.Configuration.ScannerProperties' %}
+instance.</p>
+
+{% highlight C# %}
+BarcodeManager manager = null;
+ScannerProperties configuration = null;
+...
+manager = new BarcodeManager();
+...
+configuration = ScannerProperties.Edit(manager);
+{% endhighlight %}
+
+<p>
+Properties are organized hierarchically
+Each property has the method <code>Set</code> that requires a different
+argument depending on the property type (i.e.: int, boolean, String, etc...):</p>
+
+{% highlight C# %}
+configuration.Code39.EnableChecksum.Set(true);
+configuration.Code39.FullAscii.Set(true);
+configuration.Code39.Length1.Set(20);
+...
+configuration.code39.userID.set('x');
+...
+ if (configuration.QrCode.IsSupported)
+{
+	configuration.QrCode.Enable.Set(false);
+}
+{% endhighlight %}
+
+<p>For the configuration to be actually applied, you must call the ScannerProperties' <code>Store</code> method:
+</p>
+
+{% highlight C# %}
+configuration.Store(manager, true);
+{% endhighlight %}

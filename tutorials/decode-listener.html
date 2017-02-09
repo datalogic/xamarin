@@ -10,54 +10,54 @@ tutorial_icon: barcode
 tutorial_api:
     - 16
 
-excerpt: "Scan barcodes using a ReadListener: the simplest barcode scanner application"
+excerpt: "Scan barcodes using an IReadListener: the simplest barcode scanner application"
 ---
 
-<p>Register a {% include xamarin-man-link.html uri='com.datalogic.decode.ReadListener' %} in your <code>Activity.onResume()</code>
+<p>Register an {% include xamarin-man-link.html uri='T.Com.Datalogic.Decode.IReadListener' %} in your <code>Activity.OnResume()</code>
 to receive read events on successful barcode reads:
 </p>
 
-{% highlight java %}
-@Override	
-protected void onResume() {
-    super.onResume();
-    try {
-        if (decoder == null) {
-            decoder = new BarcodeManager();
-            listener = new ReadListener() {
+{% highlight C# %}
+protected override void OnResume()
+{
+	base.OnResume();
 
-                @Override
-                public void onRead(DecodeResult decodeResult) {
-                    mBarcodeText.setText(decodeResult.getText());
-                }
+	if (decoder == null)
+	{
+		decoder = new BarcodeManager();
+	}
 
-            };
-            decoder.addReadListener(listener);
-        }
-
-    } catch (DecodeException e) {
-        // TODO Auto-generated catch block
-        e.printStackTrace();
-    }
+	try
+	{
+		decoder.AddReadListener(this);
+	}
+	catch (DecodeException e)
+	{
+		Log.Error(LOGTAG, "Error while trying to bind a listener to BarcodeManager", e);
+	}
 }
 {% endhighlight %}
 
 <p>
-Unregister the ReadListener in your <code>Acvivity.onPause()</code>:
+Unregister the IReadListener in your <code>Acvivity.onPause()</code>:
 </p>
 
-{% highlight java %}
-@Override
-protected void onPause() {
-    super.onPause();
-    if (decoder != null) {
-        try {
-            decoder.removeReadListener(listener);
-            decoder = null;
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
+{% highlight C# %}
+protected override void OnPause()
+{
+	base.OnPause();
+
+	if (decoder != null)
+	{
+		try
+		{
+			decoder.RemoveReadListener(this);
+		}
+		catch (Exception e)
+		{
+			Log.Error(LOGTAG, "Error while trying to remove a listener from BarcodeManager", e);
+		}
+	}
 }
 {% endhighlight %}
 
@@ -65,5 +65,5 @@ protected void onPause() {
 The actual barcode scanning is started via any physical scan trigger on the
 device. Though to start scanning when a button on the application is pressed,
 you need to call
-{% include xamarin-man-link.html uri='com.datalogic.decode.BarcodeManager#startDecode(int)' %}.
+{% include xamarin-man-link.html uri='M.Com.Datalogic.Decode.BarcodeManager#StartDecode' %}.
 </p>
