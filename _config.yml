@@ -13,3 +13,4 @@ baseurl: /xamarin
 analytics_tracking_id: 'UA-77632025-1'
 samples_url:
   xamarin: 'https://github.com/datalogic/xamarin-samples/tree/master'
+  apk: 'https://github.com/datalogic/xamarin-samples/releases/download/v1.0-beta'

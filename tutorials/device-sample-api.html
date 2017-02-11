@@ -46,12 +46,15 @@ by providing the class
 {% include xamarin-man-link.html uri='T.Com.Datalogic.Device.Location.LocationManager' %}. Here's how to use it:</p>
 
 {% highlight C# %}
-T.Com.Datalogic.Device.Location.LocationManager loc = null;
-try {
+Com.Datalogic.Device.Location.LocationManager loc = null;
+try 
+{
     loc = new Com.Datalogic.Device.Location.LocationManager();
-    loc.setLocationMode(enable ? LocationMode.NETWORK : LocationMode.OFF);
-} catch (DeviceException e) {
-    e.printStackTrace();
+    loc.setLocationMode(enable ? LocationMode.SensorsAndNetwork : LocationMode.Off);
+} 
+catch (DeviceException e) 
+{
+    Log.Error(this.LocalClassName, "Exception while switching location mode ", e);
 }
 {% endhighlight %}
 
@@ -79,7 +82,7 @@ the control is easier.</p>
 
 {% highlight C# %}
 LedManager led = new LedManager();
-led.blinkLed(Led.LED_GREEN_SPOT, 1, 500, 500);
+led.blinkLed(Led.LedGreenSpot, 1, 500, 500);
 {% endhighlight %}
 
 <p><i><small>*Please notice that not all LEDs on a device can be freely controlled by
@@ -118,8 +121,8 @@ has a boolean argument for it.
 {% highlight C# %}
 PowerManager pm = new PowerManager();
 
-pm.setSuspendTimeout(SuspendTimeout.MINUTES_5, false); // battery
-pm.setSuspendTimeout(SuspendTimeout.NEVER, true); // ext power
+pm.setSuspendTimeout(SuspendTimeout.Minutes5, false); // battery
+pm.setSuspendTimeout(SuspendTimeout.Never, true); // ext power
 {% endhighlight %}
 
 <p>Please notice that not all the
@@ -129,9 +132,9 @@ the support before enabling/disabling them.
 </p>
 
 {% highlight C# %}
-if (pm.isWakeupSupported(WakeupSource.TRIG_LEFT) &&
-        !pm.isWakeupActive(WakeupSource.TRIG_LEFT)) {
-    pm.activateWakeup(WakeupSource.TRIG_LEFT);
+if (pm.isWakeupSupported(WakeupSource.TrigLeft) &&
+        !pm.isWakeupActive(WakeupSource.TrigLeft)) {
+    pm.activateWakeup(WakeupSource.TrigLeft);
 }
 {% endhighlight %}
 
