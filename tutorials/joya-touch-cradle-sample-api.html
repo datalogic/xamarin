@@ -1,0 +1,69 @@
+---
+layout: tutorial
+title: JoyaTouch Cradle Sample API 
+
+tutorial_platform: xamarin
+tutorial_enabled: true
+tutorial_order: 40
+tutorial_difficulty: 1
+tutorial_icon: shopping-basket
+
+excerpt: "Control the Joya Touch cradle."
+---
+
+<p>This tutorial exercises functionality provided by the Datalogic Xamarin SDK Self-shopping Extension. The sample app is divided into several Activities, one
+per each topic below.</p>
+
+<h2>Cradle State</h2>
+<p>Access details such as whether or not the device is in a cradle, the cradle's version, device insertion count, slot index, and whether or not fast charging is supported. These details are stored in the {% include xamarin-ext-link.html uri='T.Com.Datalogic.Extension.Selfshopping.Cradle.Joyatouch.StateInfo' %} class. Example usage:</p>
+
+{% highlight C# %}
+ICradleJoyaTouch jtCradle  = (ICradleJoyaTouch) CradleManager.Cradle;
+
+StateInfo state = new StateInfo();
+if (jtCradle.GetCradleState(state))
+  string insCount = "Insertion count: " + state.InsertionCount;
+{% endhighlight %}
+
+<h2>Cradle LEDs</h2>
+<p>Change the state of the LEDs on the cradle by using the {% include xamarin-ext-link.html uri='T.Com.Datalogic.Extension.Selfshopping.Cradle.Joyatouch.LedAction' %} class. Example usage:</p>
+
+{% highlight C# %}
+ICradleJoyaTouch jtCradle  = (ICradleJoyaTouch) CradleManager.Cradle;
+jtCradle.ControlLed(LedAction.BlinkSlow);
+{% endhighlight %}
+
+<h2>Cradle Lock</h2>
+<p>Change the state of the cradle lock using the {% include xamarin-ext-link.html uri='T.Com.Datalogic.Extension.Selfshopping.Cradle.Joyatouch.LockAction' %} class. Example usage:</p>
+
+{% highlight C# %}
+ICradleJoyaTouch jtCradle  = (ICradleJoyaTouch) CradleManager.Cradle;
+jtCradle.ControlLock(Action.UnlockWithLedOn);
+{% endhighlight %}
+
+<h2>Cradle Config Area</h2>
+<p>Use the {% include xamarin-ext-link.html uri='T.Com.Datalogic.Extension.Selfshopping.Cradle.Joyatouch.ConfigArea' %} class to access the current cradle slot's configuration area, consisting of an array of bytes. Also, an exposed method allows to get or set the fast charge value contained in one of the bytes of the configuration area.
+
+{% highlight C# %}
+ICradleJoyaTouch jtCradle  = (ICradleJoyaTouch) CradleManager.Cradle;
+ConfigArea config = new ConfigArea();
+byte[] configValues;
+if (jtCradle.ReadConfigArea(config))
+{
+  configValues = config.GetContent();
+}
+{% endhighlight %}
+
+<h2>Cradle Custom Area</h2>
+<p>Use the {% include xamarin-ext-link.html uri='T.Com.Datalogic.Extension.Selfshopping.Cradle.Joyatouch.CustomArea' %} class to access the custom data area of the cradle slot being occupied.
+
+{% highlight C# %}
+ICradleJoyaTouch jtCradle  = (ICradleJoyaTouch) CradleManager.Cradle;
+CustomArea custom = new CustomArea();
+byte[] customValues;
+if (jtCradle.ReadCustomArea(custom, custom.Size))
+{
+  customValues = custom.GetContent();
+}
+{% endhighlight %}i
+

@@ -8,5 +8,11 @@
   id: 'xamarin-tutorials'
   url: '/tutorials/'
 - name: 'API Reference'
-  url: '/xamarin-sdk-docs/'
+  id: 'docs'
+  url: '/'
+  items:
+    - name: 'SDK'
+      url: '/xamarin-sdk-docs/'
+    - name: 'Self-shopping Extension'
+      url: '/xamarin-sdk-selfshopping/'
 
