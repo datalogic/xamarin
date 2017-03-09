@@ -56,34 +56,6 @@ Click Installed at the top of the window. You will now see 'datalogic-xamarin-sd
 <p>You can now close the NuGet tab.</p>
 </div>
 
-<div id="Android manifest" class="section scrollspy">
-<h3>Android manifest</h3>
-<p>
-You will need to make a small change to the Android manifest file to use the Datalogic Xamarin SDK. In the <em><strong>Solution Explorer</strong></em> window, navigate to <em><strong>MyXamarinApp.Droid &gt; Properties</strong></em>, and double click on <em><strong>AndroidManifest.xml</strong></em>.
-</p>
-<p>
-Add the following line to file, before the closing &lt;/manifest&gt; tag:
-</p>
-{% highlight xml %}
-<uses-library android:name="com.datalogic.device" android:required="true" />
-{% endhighlight %}
-
-{% include img.html src='visual-studio-android-manifest.png' %}
-<br>
-
-<p>
-<b>Note:</b> If you are using the Selfshopping extension SDK, you will need to add the following line as well:
-</p>
-{% highlight xml %}
-
-    <uses-library
-        android:name="com.datalogic.extension.selfshopping"
-        android:required="true" />
-
-{% endhighlight %}
-
-</div>
-
 <div id="Use the SDK" class="section scrollspy">
 <h3>Use the SDK</h3>
 <p>
@@ -118,3 +90,4 @@ Connect your Datalogic mobile computer running Android to your computer via USB 
 Congratulations, you are all set up! Head over to the <a href="{{ site.baseurl }}/tutorials/index.html">Tutorials page</a> to learn how to use various parts of the Datalogic Xamarin SDK.
 </p>
 </div>
+
