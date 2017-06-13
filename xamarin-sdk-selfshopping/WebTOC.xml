@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="2c5facc1-4100-444e-bfcf-c02b2079fa19" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="f8b62b4e-52b8-4aee-991a-425f6a956dc9" Title="Com.Datalogic.Extension.Selfshopping" Url="html/N_Com_Datalogic_Extension_Selfshopping.htm">
+      <HelpTOCNode Id="35c65ec2-46e3-4af4-97f9-f353c93d6e4f" Title="Version Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Version.htm">
+        <HelpTOCNode Title="Version Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Version__ctor.htm" />
+        <HelpTOCNode Id="f90feac9-802c-4eff-9c21-e198980faad4" Title="Version Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Version.htm">
+          <HelpTOCNode Title="DeviceSelfshoppingExtensionVersion Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Version_DeviceSelfshoppingExtensionVersion.htm" />
+          <HelpTOCNode Title="DeviceSelfshoppingExtensionVersionInt Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Version_DeviceSelfshoppingExtensionVersionInt.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7c3e60ca-8e3c-4747-900c-e33e06a894d9" Title="Version Fields" Url="html/Fields_T_Com_Datalogic_Extension_Selfshopping_Version.htm">
+          <HelpTOCNode Title="SelfshoppingExtensionVersion Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Version_SelfshoppingExtensionVersion.htm" />
+          <HelpTOCNode Title="SelfshoppingExtensionVersionInt Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Version_SelfshoppingExtensionVersionInt.htm" />
+          <HelpTOCNode Title="SelfshoppingExtensionVersionMajor Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Version_SelfshoppingExtensionVersionMajor.htm" />
+          <HelpTOCNode Title="SelfshoppingExtensionVersionMinor Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Version_SelfshoppingExtensionVersionMinor.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cebef955-14ff-4107-85f7-cd7442b59475" Title="Com.Datalogic.Extension.Selfshopping.Cradle" Url="html/N_Com_Datalogic_Extension_Selfshopping_Cradle.htm">
+      <HelpTOCNode Id="09221527-fba5-43b5-b96f-ed99ba7a8490" Title="CradleManager Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_CradleManager.htm">
+        <HelpTOCNode Title="CradleManager Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_CradleManager__ctor.htm" />
+        <HelpTOCNode Id="6b2440b8-2758-4cf0-9daa-44166895debc" Title="CradleManager Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_CradleManager.htm">
+          <HelpTOCNode Title="Cradle Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_CradleManager_Cradle.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b0936e83-b872-40d8-9969-a76ef3d42da9" Title="CradleType Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_CradleType.htm">
+        <HelpTOCNode Id="637e983f-7998-42f2-9cc6-786b7e8f618c" Title="CradleType Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_CradleType.htm">
+          <HelpTOCNode Title="JoyaTouchCradle Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_CradleType_JoyaTouchCradle.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="23ebe6fa-8457-41e1-b9ab-8c2bb76ca512" Title="CradleType Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_CradleType.htm">
+          <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_CradleType_ValueOf.htm" />
+          <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_CradleType_Values.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b74f3091-db24-4384-9453-b27fca789a9e" Title="ICradle Interface" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_ICradle.htm">
+        <HelpTOCNode Id="223072d0-7033-44d7-bb38-068ae0a7e43c" Title="ICradle Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_ICradle.htm">
+          <HelpTOCNode Title="IsDeviceInCradle Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_ICradle_IsDeviceInCradle.htm" />
+          <HelpTOCNode Title="Type Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_ICradle_Type.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fad578ca-9a60-420f-bdbb-4522319e9e04" Title="ICradle Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_ICradle.htm">
+          <HelpTOCNode Title="AddCradleInsertionListener Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_ICradle_AddCradleInsertionListener.htm" />
+          <HelpTOCNode Title="RemoveCradleInsertionListener Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_ICradle_RemoveCradleInsertionListener.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="573ae357-6593-4426-a7be-cf92855339dc" Title="ICradleInsertionListener Interface" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_ICradleInsertionListener.htm">
+        <HelpTOCNode Id="ab6d9051-0442-4270-8621-5031baf2b986" Title="ICradleInsertionListener Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_ICradleInsertionListener.htm">
+          <HelpTOCNode Title="OnDeviceExtracted Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_ICradleInsertionListener_OnDeviceExtracted.htm" />
+          <HelpTOCNode Title="OnDeviceInsertedCorrectly Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_ICradleInsertionListener_OnDeviceInsertedCorrectly.htm" />
+          <HelpTOCNode Title="OnDeviceInsertedWrongly Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_ICradleInsertionListener_OnDeviceInsertedWrongly.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b96db595-b350-4713-9c73-7298b726afa4" Title="Com.Datalogic.Extension.Selfshopping.Cradle.Joyatouch" Url="html/N_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch.htm">
+      <HelpTOCNode Id="9d4f34b3-1435-4d70-8592-8b3513903c17" Title="ConfigArea Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea.htm">
+        <HelpTOCNode Id="b4e3318b-63ba-4b83-8d15-c79163f42435" Title="ConfigArea Constructor " Url="html/Overload_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea__ctor.htm">
+          <HelpTOCNode Title="ConfigArea Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea__ctor.htm" />
+          <HelpTOCNode Title="ConfigArea Constructor (Byte[])" Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="782fe258-7f80-455a-8bde-c832452f55f2" Title="ConfigArea Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea.htm">
+          <HelpTOCNode Title="FastChargeEnabled Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea_FastChargeEnabled.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ConfigArea Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ConfigArea.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3902d4d0-d22b-4947-8882-3f9e5b51c7ce" Title="CustomArea Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea.htm">
+        <HelpTOCNode Id="90b65fe3-ea62-4c3f-afe1-aa7707014c65" Title="CustomArea Constructor " Url="html/Overload_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea__ctor.htm">
+          <HelpTOCNode Title="CustomArea Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea__ctor.htm" />
+          <HelpTOCNode Title="CustomArea Constructor (Byte[])" Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea__ctor_1.htm" />
+          <HelpTOCNode Title="CustomArea Constructor (Int32)" Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CustomArea Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea.htm" />
+        <HelpTOCNode Title="CustomArea Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_CustomArea.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="47ba5c38-0414-4e36-b673-1fc7311b9e55" Title="GenericArea Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea.htm">
+        <HelpTOCNode Id="0a450fc8-2de3-4acf-bca1-e12a68860c20" Title="GenericArea Constructor " Url="html/Overload_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea__ctor.htm">
+          <HelpTOCNode Title="GenericArea Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea__ctor.htm" />
+          <HelpTOCNode Title="GenericArea Constructor (Byte[])" Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea__ctor_1.htm" />
+          <HelpTOCNode Title="GenericArea Constructor (Int32)" Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="82f82070-be63-41d2-8a75-0fd5a55460dc" Title="GenericArea Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea.htm">
+          <HelpTOCNode Title="Size Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea_Size.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="cece8f6e-d881-4e07-8f9f-0010d8a09ef1" Title="GenericArea Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea.htm">
+          <HelpTOCNode Title="GetContent Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea_GetContent.htm" />
+          <HelpTOCNode Title="SetContent Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_GenericArea_SetContent.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="87133df2-014c-4a17-98b6-4d98114ecd0a" Title="ICradleJoyaTouch Interface" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch.htm">
+        <HelpTOCNode Id="48ceb3a0-7254-4cdf-9c11-ecb0aa3b31c5" Title="ICradleJoyaTouch Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch.htm">
+          <HelpTOCNode Title="IsFastChargeEnabled Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_IsFastChargeEnabled.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e40c0319-7574-4a76-819e-115c30a921ae" Title="ICradleJoyaTouch Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch.htm">
+          <HelpTOCNode Title="ControlLed Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_ControlLed.htm" />
+          <HelpTOCNode Title="ControlLock Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_ControlLock.htm" />
+          <HelpTOCNode Title="GetCradleState Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_GetCradleState.htm" />
+          <HelpTOCNode Title="ReadConfigArea Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_ReadConfigArea.htm" />
+          <HelpTOCNode Title="ReadCustomArea Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_ReadCustomArea.htm" />
+          <HelpTOCNode Title="Reset Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_Reset.htm" />
+          <HelpTOCNode Title="WriteConfigArea Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_WriteConfigArea.htm" />
+          <HelpTOCNode Title="WriteCustomArea Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_ICradleJoyaTouch_WriteCustomArea.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="bf9bf959-557c-4aea-b14c-54f9179feee6" Title="LedAction Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction.htm">
+        <HelpTOCNode Id="8bae6022-7a30-4d8f-911f-7c9af0ad0bca" Title="LedAction Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction.htm">
+          <HelpTOCNode Title="BlinkFast Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_BlinkFast.htm" />
+          <HelpTOCNode Title="BlinkSlow Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_BlinkSlow.htm" />
+          <HelpTOCNode Title="Off Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_Off.htm" />
+          <HelpTOCNode Title="On Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_On.htm" />
+          <HelpTOCNode Title="Toggle Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_Toggle.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5e452bd7-ae58-45aa-8458-0bc01b0f4081" Title="LedAction Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction.htm">
+          <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_ValueOf.htm" />
+          <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LedAction_Values.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="95db80b5-da91-4051-831c-2662e5bbd4da" Title="LockAction Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction.htm">
+        <HelpTOCNode Id="305627b4-23ac-49c9-b3e5-0aae825738d5" Title="LockAction Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction.htm">
+          <HelpTOCNode Title="Lock Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction_Lock.htm" />
+          <HelpTOCNode Title="LockWithLedOff Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction_LockWithLedOff.htm" />
+          <HelpTOCNode Title="Unlock Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction_Unlock.htm" />
+          <HelpTOCNode Title="UnlockWithLedOn Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction_UnlockWithLedOn.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a60704fe-b55f-4c30-8fd4-e9ee16a9f783" Title="LockAction Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction.htm">
+          <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction_ValueOf.htm" />
+          <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_LockAction_Values.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6048d5d6-858c-401a-8ed9-7e67f0cf47ef" Title="StateInfo Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo.htm">
+        <HelpTOCNode Title="StateInfo Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo__ctor.htm" />
+        <HelpTOCNode Id="f62629f4-206c-4e7d-b567-8b74ad5e1a60" Title="StateInfo Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo.htm">
+          <HelpTOCNode Title="ApplVersion Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo_ApplVersion.htm" />
+          <HelpTOCNode Title="BtldrVersion Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo_BtldrVersion.htm" />
+          <HelpTOCNode Title="InsertionCount Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo_InsertionCount.htm" />
+          <HelpTOCNode Title="IsFastChargeAvailable Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo_IsFastChargeAvailable.htm" />
+          <HelpTOCNode Title="SlotIndex Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Cradle_Joyatouch_StateInfo_SlotIndex.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="801cb0b1-4c23-4ae6-8c04-3a4892a4bba0" Title="Com.Datalogic.Extension.Selfshopping.Led" Url="html/N_Com_Datalogic_Extension_Selfshopping_Led.htm">
+      <HelpTOCNode Id="195e5399-ea1c-49e5-91a3-7dcbd8647ebf" Title="DimmingSequence Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence.htm">
+        <HelpTOCNode Id="fd9c8ebf-ede7-4948-8626-2c7278d1b832" Title="DimmingSequence Constructor " Url="html/Overload_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence__ctor.htm">
+          <HelpTOCNode Title="DimmingSequence Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence__ctor.htm" />
+          <HelpTOCNode Title="DimmingSequence Constructor (DimmingSequencePoint[])" Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="608cdcf2-eba4-4da4-a5f5-e437c5a190d0" Title="DimmingSequence Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence.htm">
+          <HelpTOCNode Title="Add Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence_Add.htm" />
+          <HelpTOCNode Title="Clear Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence_Clear.htm" />
+          <HelpTOCNode Title="GetAt Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence_GetAt.htm" />
+          <HelpTOCNode Title="GetSequenceArray Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence_GetSequenceArray.htm" />
+          <HelpTOCNode Title="Remove Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence_Remove.htm" />
+          <HelpTOCNode Title="RemoveAt Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence_RemoveAt.htm" />
+          <HelpTOCNode Title="Size Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence_Size.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="97d78fdc-809c-4502-84c0-95f46eef839c" Title="DimmingSequence Fields" Url="html/Fields_T_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence.htm">
+          <HelpTOCNode Title="MaxSize Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequence_MaxSize.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1e7f4c8f-f002-4719-9443-b745f5975178" Title="DimmingSequencePoint Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequencePoint.htm">
+        <HelpTOCNode Title="DimmingSequencePoint Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequencePoint__ctor.htm" />
+        <HelpTOCNode Id="c6a4154d-e492-4277-95c7-e296e0bc01dc" Title="DimmingSequencePoint Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequencePoint.htm">
+          <HelpTOCNode Title="Brightness Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequencePoint_Brightness.htm" />
+          <HelpTOCNode Title="Time Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_DimmingSequencePoint_Time.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="71887cdf-3ff9-4ca6-9ad3-747d0917105a" Title="IDimmingLed Interface" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_IDimmingLed.htm">
+        <HelpTOCNode Title="IDimmingLed Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Led_IDimmingLed.htm" />
+        <HelpTOCNode Id="3a1d7279-e8d2-4dad-ae0a-6a535494bb73" Title="IDimmingLed Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Led_IDimmingLed.htm">
+          <HelpTOCNode Title="SetBrightness Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_IDimmingLed_SetBrightness.htm" />
+          <HelpTOCNode Title="StartSequence Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_IDimmingLed_StartSequence.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="51b66ec0-ad8f-4928-9cbb-926a4354f96e" Title="ILed Interface" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_ILed.htm">
+        <HelpTOCNode Id="d3adecb0-4d9c-42aa-9fb6-db430851dba7" Title="ILed Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Led_ILed.htm">
+          <HelpTOCNode Title="Id Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_ILed_Id.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c077aea7-df86-4871-9cb4-7b4e09b0b2e3" Title="ILed Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Led_ILed.htm">
+          <HelpTOCNode Title="Blink Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_ILed_Blink.htm" />
+          <HelpTOCNode Title="TurnOff Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_ILed_TurnOff.htm" />
+          <HelpTOCNode Title="TurnOn Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_ILed_TurnOn.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0d23df16-98b9-4b0d-9d61-6008667ca52f" Title="SelfshoppingLedManager Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager.htm">
+        <HelpTOCNode Id="e51253cf-878d-4070-a327-2eb56d7467a6" Title="SelfshoppingLedManager Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager.htm">
+          <HelpTOCNode Title="AvailableLedEvents Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_AvailableLedEvents.htm" />
+          <HelpTOCNode Title="AvailableLeds Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_AvailableLeds.htm" />
+          <HelpTOCNode Title="Instance Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_Instance.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="581a2c09-2f66-44f9-8152-e3401899059f" Title="SelfshoppingLedManager Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager.htm">
+          <HelpTOCNode Title="AcquireLed Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_AcquireLed.htm" />
+          <HelpTOCNode Title="ApplyAction Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_ApplyAction.htm" />
+          <HelpTOCNode Title="GetLed Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_GetLed.htm" />
+          <HelpTOCNode Title="GetLedEvent Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_GetLedEvent.htm" />
+          <HelpTOCNode Title="ReleaseLed Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_ReleaseLed.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d735f23e-708c-409b-affc-ec899c9b700c" Title="SelfshoppingLedManager Fields" Url="html/Fields_T_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager.htm">
+          <HelpTOCNode Title="EventIdBatteryCharging Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_EventIdBatteryCharging.htm" />
+          <HelpTOCNode Title="EventIdBootAnimation Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_EventIdBootAnimation.htm" />
+          <HelpTOCNode Title="EventIdEndOfCharge Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_EventIdEndOfCharge.htm" />
+          <HelpTOCNode Title="EventIdShutdown Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_EventIdShutdown.htm" />
+          <HelpTOCNode Title="LedIdBottom Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_LedIdBottom.htm" />
+          <HelpTOCNode Title="LedIdLeft Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_LedIdLeft.htm" />
+          <HelpTOCNode Title="LedIdRight Field" Url="html/F_Com_Datalogic_Extension_Selfshopping_Led_SelfshoppingLedManager_LedIdRight.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="45d919df-bfcc-474e-acb1-0c57e6d8f00a" Title="Com.Datalogic.Extension.Selfshopping.Led.Action" Url="html/N_Com_Datalogic_Extension_Selfshopping_Led_Action.htm">
+      <HelpTOCNode Id="1966d132-7b3c-4f4c-8bce-9e57318b6aba" Title="LedAction Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedAction.htm">
+        <HelpTOCNode Title="LedAction Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_Action_LedAction__ctor.htm" />
+        <HelpTOCNode Id="c6dff808-df34-4658-9d64-48eb925f2331" Title="LedAction Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedAction.htm">
+          <HelpTOCNode Title="Id Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_Action_LedAction_Id.htm" />
+          <HelpTOCNode Title="Type Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_Action_LedAction_Type.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="dcbca27b-93a0-4a6d-afe0-4e761f0ed2d3" Title="LedActionBlink Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionBlink.htm">
+        <HelpTOCNode Title="LedActionBlink Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionBlink__ctor.htm" />
+        <HelpTOCNode Id="024b623b-4abc-4dd5-9f08-8b3a0fcd6d08" Title="LedActionBlink Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionBlink.htm">
+          <HelpTOCNode Title="DelayOff Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionBlink_DelayOff.htm" />
+          <HelpTOCNode Title="DelayOn Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionBlink_DelayOn.htm" />
+          <HelpTOCNode Title="NumCycles Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionBlink_NumCycles.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="72383fe5-2fb7-424d-92db-42c712c6f4b2" Title="LedActionDim Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionDim.htm">
+        <HelpTOCNode Title="LedActionDim Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionDim__ctor.htm" />
+        <HelpTOCNode Id="98b16bc6-29f8-4d3a-b2dd-f801e79a11f1" Title="LedActionDim Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionDim.htm">
+          <HelpTOCNode Title="NumCycles Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionDim_NumCycles.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b21c81ad-eab2-4dc6-99e5-7779906a30cd" Title="LedActionDim Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionDim.htm">
+          <HelpTOCNode Title="GetSequence Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionDim_GetSequence.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="700ae546-c302-4795-9166-ac81cc32e777" Title="LedActionSetBrightness Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionSetBrightness.htm">
+        <HelpTOCNode Title="LedActionSetBrightness Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionSetBrightness__ctor.htm" />
+        <HelpTOCNode Id="e5e0cbb2-75cf-4d3a-8d01-5a8704dbe21c" Title="LedActionSetBrightness Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionSetBrightness.htm">
+          <HelpTOCNode Title="Brightness Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionSetBrightness_Brightness.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4e5d735a-236c-43e8-8ce6-3f320bb62f77" Title="LedActionTurnOff Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionTurnOff.htm">
+        <HelpTOCNode Title="LedActionTurnOff Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionTurnOff__ctor.htm" />
+        <HelpTOCNode Title="LedActionTurnOff Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionTurnOff.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4b60c26f-7eed-457d-8c13-773b00fe66eb" Title="LedActionTurnOn Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionTurnOn.htm">
+        <HelpTOCNode Title="LedActionTurnOn Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionTurnOn__ctor.htm" />
+        <HelpTOCNode Title="LedActionTurnOn Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Led_Action_LedActionTurnOn.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="89da65b7-92fb-431c-a9e6-719c51700638" Title="Com.Datalogic.Extension.Selfshopping.Led.Action.Persistence" Url="html/N_Com_Datalogic_Extension_Selfshopping_Led_Action_Persistence.htm">
+      <HelpTOCNode Id="d1d2abf6-77b5-4afc-a944-072eb3b83321" Title="PersistJSON Class" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_Action_Persistence_PersistJSON.htm">
+        <HelpTOCNode Title="PersistJSON Constructor " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_Action_Persistence_PersistJSON__ctor.htm" />
+        <HelpTOCNode Id="19473011-9336-4c4c-9b8d-b4c733f6b958" Title="PersistJSON Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Led_Action_Persistence_PersistJSON.htm">
+          <HelpTOCNode Title="FromJson Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_Action_Persistence_PersistJSON_FromJson.htm" />
+          <HelpTOCNode Title="ToJson Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_Action_Persistence_PersistJSON_ToJson.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7910aa16-8409-45b3-b6c6-b16cea463b02" Title="Com.Datalogic.Extension.Selfshopping.Led.Event" Url="html/N_Com_Datalogic_Extension_Selfshopping_Led_Event.htm">
+      <HelpTOCNode Id="e3a70c1d-1019-4a49-9084-1d12d4511e56" Title="ILedEvent Interface" Url="html/T_Com_Datalogic_Extension_Selfshopping_Led_Event_ILedEvent.htm">
+        <HelpTOCNode Id="65251fed-9031-49fd-8627-f468475c1363" Title="ILedEvent Properties" Url="html/Properties_T_Com_Datalogic_Extension_Selfshopping_Led_Event_ILedEvent.htm">
+          <HelpTOCNode Title="AssignedLedAction Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_Event_ILedEvent_AssignedLedAction.htm" />
+          <HelpTOCNode Title="Description Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_Event_ILedEvent_Description.htm" />
+          <HelpTOCNode Title="Id Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_Event_ILedEvent_Id.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/P_Com_Datalogic_Extension_Selfshopping_Led_Event_ILedEvent_Name.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="78bfe650-220f-4f5a-9d6b-0e65d839c9ee" Title="ILedEvent Methods" Url="html/Methods_T_Com_Datalogic_Extension_Selfshopping_Led_Event_ILedEvent.htm">
+          <HelpTOCNode Title="AssignLedAction Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_Event_ILedEvent_AssignLedAction.htm" />
+          <HelpTOCNode Title="ClearAssignedLedAction Method " Url="html/M_Com_Datalogic_Extension_Selfshopping_Led_Event_ILedEvent_ClearAssignedLedAction.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
