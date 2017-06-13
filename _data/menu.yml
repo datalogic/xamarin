@@ -3,7 +3,7 @@
   url: '/'
 - name: 'Blog'
   id: 'blog'
-  url: '/blog/'
+  url: '/blog.html'
 - name: 'Quick Start'
   id: 'xamarin-quick-start'
   url: '/quick-start/'
