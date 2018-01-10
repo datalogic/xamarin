@@ -15,7 +15,7 @@ title: Quick Start
 {% include img.html src='visual-studio-new.png' %}
 <br>
 
-<p>In the New Project window, navigate to <em><strong>Installed &gt; Templates &gt; Visual C# &gt; Cross-Platform</strong></em>. Select <em><strong>Blank App (Native Portable)</strong></em> (or another of the Blank App types, depending on your use case).
+<p>In the New Project window, navigate to <em><strong>Installed &gt; Templates &gt; Visual C# &gt; Cross-Platform</strong></em>. Select <em><strong>Blank App (Android)</strong></em> (or another of the Blank App types, depending on your use case).
 </p>
 {% include img.html src='visual-studio-new-project.png' %}
 <br>
@@ -36,7 +36,7 @@ title: Quick Start
 {% include img.html src='visual-studio-nuget-open.png' %}
 <br>
 <p>
-In the 'NuGet - Solution' tab, Click <em><strong>Browse</strong></em>. Check the <em><strong>Include prerelease</strong></em> box. Type <em><strong>datalogic</strong></em> in the search box. Select the result titled <em><strong>datalogic-xamarin-sdk</strong></em>.
+In the 'NuGet - Solution' tab, Click <em><strong>Browse</strong></em>. Type <em><strong>datalogic</strong></em> in the search box. Select the result titled <em><strong>datalogic-xamarin-sdk</strong></em>.
 </p>
 {% include img.html src='visual-studio-nuget-browse.png' %}
 <br>
@@ -62,7 +62,7 @@ Click Installed at the top of the window. You will now see 'datalogic-xamarin-sd
 You will need to make a small change to the Android manifest file to use the Datalogic Xamarin SDK. In the <em><strong>Solution Explorer</strong></em> window, navigate to <em><strong>MyXamarinApp.Droid &gt; Properties</strong></em>, and double click on <em><strong>AndroidManifest.xml</strong></em>.
 </p>
 <p>
-Add the following line to file, before the closing &lt;/manifest&gt; tag:
+Add the following line to file, as a child node inside the applicaiton node. In other words, before the closing &lt;/application&gt; tag:
 </p>
 {% highlight xml %}
 <uses-library android:name="com.datalogic.device" android:required="true" />
