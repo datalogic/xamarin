@@ -11,7 +11,7 @@ date: 2017-06-16 11:00:00 +0100
 * Added Digimarc configuration
 * Added new SoftSpot Apis
 * Added Trigger selection/configuration
-* Added IsKeyDisasbled to KeyboardManager
+* Added IsKeyDisabled to KeyboardManager
 * Added AutoScan as a configurable WakeupSource
 
 

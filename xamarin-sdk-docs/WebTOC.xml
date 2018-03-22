@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="ed0b706b-57da-41d2-8386-8f80fbeeb204" Title="Namespaces" Url="html/R_Project_Documentation.htm">
-    <HelpTOCNode Id="78ba0a38-d42f-4805-ab17-b69168d7dfb1" Title="Com.Datalogic.Decode" Url="html/N_Com_Datalogic_Decode.htm">
-      <HelpTOCNode Id="cf87635f-4a98-4139-9b49-91ba80a8ecae" Title="BarcodeDefaults Class" Url="html/T_Com_Datalogic_Decode_BarcodeDefaults.htm">
+  <HelpTOCNode Id="9131c037-af1d-42cb-b9b5-3dc05135e51f" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="1aba3055-8402-485e-bc4a-a82bbc7d31c4" Title="Com.Datalogic.Decode" Url="html/N_Com_Datalogic_Decode.htm">
+      <HelpTOCNode Id="a39a6ae0-fb84-472a-a095-fde5811a3447" Title="BarcodeDefaults Class" Url="html/T_Com_Datalogic_Decode_BarcodeDefaults.htm">
         <HelpTOCNode Title="BarcodeDefaults Constructor " Url="html/M_Com_Datalogic_Decode_BarcodeDefaults__ctor.htm" />
-        <HelpTOCNode Id="d491f8b8-8d28-4f3a-a135-f7541d31be7d" Title="BarcodeDefaults Methods" Url="html/Methods_T_Com_Datalogic_Decode_BarcodeDefaults.htm">
+        <HelpTOCNode Id="954efb13-7e3d-4530-bfa1-ad64e75d43e2" Title="BarcodeDefaults Methods" Url="html/Methods_T_Com_Datalogic_Decode_BarcodeDefaults.htm">
           <HelpTOCNode Title="GetPropertyAvailability Method " Url="html/M_Com_Datalogic_Decode_BarcodeDefaults_GetPropertyAvailability.htm" />
           <HelpTOCNode Title="GetPropertyInts Method " Url="html/M_Com_Datalogic_Decode_BarcodeDefaults_GetPropertyInts.htm" />
           <HelpTOCNode Title="GetPropertyRanges Method " Url="html/M_Com_Datalogic_Decode_BarcodeDefaults_GetPropertyRanges.htm" />
           <HelpTOCNode Title="GetPropertyStrings Method " Url="html/M_Com_Datalogic_Decode_BarcodeDefaults_GetPropertyStrings.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="08fa658e-f323-4689-ba58-4f1bbe90402e" Title="BarcodeID Class" Url="html/T_Com_Datalogic_Decode_BarcodeID.htm">
-        <HelpTOCNode Id="1ffffbef-a405-4fb5-bf3d-e7f4703765a5" Title="BarcodeID Properties" Url="html/Properties_T_Com_Datalogic_Decode_BarcodeID.htm">
+      <HelpTOCNode Id="bf3f84e9-c099-4f55-a803-7fcb9084ff5d" Title="BarcodeID Class" Url="html/T_Com_Datalogic_Decode_BarcodeID.htm">
+        <HelpTOCNode Id="f24c4ad0-6950-4f07-840c-893afd44d13d" Title="BarcodeID Properties" Url="html/Properties_T_Com_Datalogic_Decode_BarcodeID.htm">
           <HelpTOCNode Title="Aztec Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_Aztec.htm" />
           <HelpTOCNode Title="Codabar Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_Codabar.htm" />
           <HelpTOCNode Title="Code128 Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_Code128.htm" />
@@ -21,6 +21,17 @@
           <HelpTOCNode Title="Code39 Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_Code39.htm" />
           <HelpTOCNode Title="Code39Fullascii Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_Code39Fullascii.htm" />
           <HelpTOCNode Title="Code93 Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_Code93.htm" />
+          <HelpTOCNode Title="CompositeCcA Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_CompositeCcA.htm" />
+          <HelpTOCNode Title="CompositeCcB Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_CompositeCcB.htm" />
+          <HelpTOCNode Title="CompositeGs1128A Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_CompositeGs1128A.htm" />
+          <HelpTOCNode Title="CompositeGs1128B Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_CompositeGs1128B.htm" />
+          <HelpTOCNode Title="CompositeGs1128C Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_CompositeGs1128C.htm" />
+          <HelpTOCNode Title="CompositeGs114A Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_CompositeGs114A.htm" />
+          <HelpTOCNode Title="CompositeGs114B Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_CompositeGs114B.htm" />
+          <HelpTOCNode Title="CompositeGs1ExpA Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_CompositeGs1ExpA.htm" />
+          <HelpTOCNode Title="CompositeGs1ExpB Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_CompositeGs1ExpB.htm" />
+          <HelpTOCNode Title="CompositeGs1LimitA Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_CompositeGs1LimitA.htm" />
+          <HelpTOCNode Title="CompositeGs1LimitB Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_CompositeGs1LimitB.htm" />
           <HelpTOCNode Title="Datamatrix Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_Datamatrix.htm" />
           <HelpTOCNode Title="Discrete25 Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_Discrete25.htm" />
           <HelpTOCNode Title="Ean13 Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_Ean13.htm" />
@@ -59,17 +70,17 @@
           <HelpTOCNode Title="UpceAddon2 Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_UpceAddon2.htm" />
           <HelpTOCNode Title="UpceAddon5 Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_UpceAddon5.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5b974f64-e8b8-437c-9e2e-cb9f99f39dc5" Title="BarcodeID Methods" Url="html/Methods_T_Com_Datalogic_Decode_BarcodeID.htm">
+        <HelpTOCNode Id="d35ecfe0-cc5a-4f66-ac9c-e3ef84bb8b38" Title="BarcodeID Methods" Url="html/Methods_T_Com_Datalogic_Decode_BarcodeID.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Decode_BarcodeID_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Decode_BarcodeID_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="94909b4a-f8ff-4f74-a184-a3cefd8aefd8" Title="BarcodeManager Class" Url="html/T_Com_Datalogic_Decode_BarcodeManager.htm">
+      <HelpTOCNode Id="8fe1d1eb-bff9-4639-8d6c-bed03590ff82" Title="BarcodeManager Class" Url="html/T_Com_Datalogic_Decode_BarcodeManager.htm">
         <HelpTOCNode Title="BarcodeManager Constructor " Url="html/M_Com_Datalogic_Decode_BarcodeManager__ctor.htm" />
-        <HelpTOCNode Id="cf0c85cb-5ed5-4c70-87f9-69c9f7eb39e6" Title="BarcodeManager Properties" Url="html/Properties_T_Com_Datalogic_Decode_BarcodeManager.htm">
+        <HelpTOCNode Id="e9b65c42-3b74-4d97-8a86-2120467c41da" Title="BarcodeManager Properties" Url="html/Properties_T_Com_Datalogic_Decode_BarcodeManager.htm">
           <HelpTOCNode Title="KeycodeBarcode Property " Url="html/P_Com_Datalogic_Decode_BarcodeManager_KeycodeBarcode.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="aef85ae0-dc3e-4dd6-bbf6-163805dafcb5" Title="BarcodeManager Methods" Url="html/Methods_T_Com_Datalogic_Decode_BarcodeManager.htm">
+        <HelpTOCNode Id="3bbfe261-b0fb-4adb-b165-6e866f9acc47" Title="BarcodeManager Methods" Url="html/Methods_T_Com_Datalogic_Decode_BarcodeManager.htm">
           <HelpTOCNode Title="AddReadListener Method " Url="html/M_Com_Datalogic_Decode_BarcodeManager_AddReadListener.htm" />
           <HelpTOCNode Title="AddStartListener Method " Url="html/M_Com_Datalogic_Decode_BarcodeManager_AddStartListener.htm" />
           <HelpTOCNode Title="AddStopListener Method " Url="html/M_Com_Datalogic_Decode_BarcodeManager_AddStopListener.htm" />
@@ -93,29 +104,29 @@
           <HelpTOCNode Title="SetDefaults Method " Url="html/M_Com_Datalogic_Decode_BarcodeManager_SetDefaults.htm" />
           <HelpTOCNode Title="SetPropertyInts Method " Url="html/M_Com_Datalogic_Decode_BarcodeManager_SetPropertyInts.htm" />
           <HelpTOCNode Title="SetPropertyStrings Method " Url="html/M_Com_Datalogic_Decode_BarcodeManager_SetPropertyStrings.htm" />
-          <HelpTOCNode Id="7d651307-a4a5-47ea-bcbc-9b1372e6a461" Title="StartDecode Method " Url="html/Overload_Com_Datalogic_Decode_BarcodeManager_StartDecode.htm">
+          <HelpTOCNode Id="26b06351-1759-4e41-afed-6e5d2dbce521" Title="StartDecode Method " Url="html/Overload_Com_Datalogic_Decode_BarcodeManager_StartDecode.htm">
             <HelpTOCNode Title="StartDecode Method " Url="html/M_Com_Datalogic_Decode_BarcodeManager_StartDecode.htm" />
             <HelpTOCNode Title="StartDecode Method (Int32)" Url="html/M_Com_Datalogic_Decode_BarcodeManager_StartDecode_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="StopDecode Method " Url="html/M_Com_Datalogic_Decode_BarcodeManager_StopDecode.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5918be9c-a5fc-4f72-aa97-4d9dfcb5ac43" Title="BarcodeManager Fields" Url="html/Fields_T_Com_Datalogic_Decode_BarcodeManager.htm">
+        <HelpTOCNode Id="d4afa3c7-42a1-410c-aaf2-efc1d2e14428" Title="BarcodeManager Fields" Url="html/Fields_T_Com_Datalogic_Decode_BarcodeManager.htm">
           <HelpTOCNode Title="ActionStartDecode Field" Url="html/F_Com_Datalogic_Decode_BarcodeManager_ActionStartDecode.htm" />
           <HelpTOCNode Title="ActionStopDecode Field" Url="html/F_Com_Datalogic_Decode_BarcodeManager_ActionStopDecode.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="871e9252-d562-4d04-8e8d-c09fbef60b34" Title="DecodeException Class" Url="html/T_Com_Datalogic_Decode_DecodeException.htm">
-        <HelpTOCNode Id="bd875cb5-1a5b-4da6-a0ec-84b8a0ee32c4" Title="DecodeException Constructor " Url="html/Overload_Com_Datalogic_Decode_DecodeException__ctor.htm">
+      <HelpTOCNode Id="8727ad28-a2fd-429e-afcf-654b382031f8" Title="DecodeException Class" Url="html/T_Com_Datalogic_Decode_DecodeException.htm">
+        <HelpTOCNode Id="c6ca3fdf-7383-4ac0-a451-98b4cfbdb99b" Title="DecodeException Constructor " Url="html/Overload_Com_Datalogic_Decode_DecodeException__ctor.htm">
           <HelpTOCNode Title="DecodeException Constructor " Url="html/M_Com_Datalogic_Decode_DecodeException__ctor.htm" />
           <HelpTOCNode Title="DecodeException Constructor (Int32)" Url="html/M_Com_Datalogic_Decode_DecodeException__ctor_2.htm" />
           <HelpTOCNode Title="DecodeException Constructor (String)" Url="html/M_Com_Datalogic_Decode_DecodeException__ctor_3.htm" />
           <HelpTOCNode Title="DecodeException Constructor (DecodeException)" Url="html/M_Com_Datalogic_Decode_DecodeException__ctor_1.htm" />
           <HelpTOCNode Title="DecodeException Constructor (String, Int32)" Url="html/M_Com_Datalogic_Decode_DecodeException__ctor_4.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3091797e-d4ef-4d7a-abcf-72c54bfd3ae8" Title="DecodeException Properties" Url="html/Properties_T_Com_Datalogic_Decode_DecodeException.htm">
+        <HelpTOCNode Id="786c42f1-54a3-494d-ae89-baa652d9b198" Title="DecodeException Properties" Url="html/Properties_T_Com_Datalogic_Decode_DecodeException.htm">
           <HelpTOCNode Title="ErrorNumber Property " Url="html/P_Com_Datalogic_Decode_DecodeException_ErrorNumber.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="716c8c7e-a3ee-4e1c-a6d7-9533f2316a6b" Title="DecodeException Fields" Url="html/Fields_T_Com_Datalogic_Decode_DecodeException.htm">
+        <HelpTOCNode Id="f5b1f55e-65a7-4d01-8c7f-3a89425f4cad" Title="DecodeException Fields" Url="html/Fields_T_Com_Datalogic_Decode_DecodeException.htm">
           <HelpTOCNode Title="BarcodeServiceError Field" Url="html/F_Com_Datalogic_Decode_DecodeException_BarcodeServiceError.htm" />
           <HelpTOCNode Title="DecoderBusyError Field" Url="html/F_Com_Datalogic_Decode_DecodeException_DecoderBusyError.htm" />
           <HelpTOCNode Title="DecoderCannotStart Field" Url="html/F_Com_Datalogic_Decode_DecodeException_DecoderCannotStart.htm" />
@@ -126,41 +137,42 @@
           <HelpTOCNode Title="Success Field" Url="html/F_Com_Datalogic_Decode_DecodeException_Success.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d97eaa29-fc27-464c-bb4f-c78bb59c3594" Title="IDecodeResult Interface" Url="html/T_Com_Datalogic_Decode_IDecodeResult.htm">
-        <HelpTOCNode Id="fdf02772-9513-4cd9-9cb6-595c7925a471" Title="IDecodeResult Properties" Url="html/Properties_T_Com_Datalogic_Decode_IDecodeResult.htm">
+      <HelpTOCNode Id="b2077555-40ac-411c-bc28-7db5a35efff6" Title="IDecodeResult Interface" Url="html/T_Com_Datalogic_Decode_IDecodeResult.htm">
+        <HelpTOCNode Id="bd500b7d-58c0-4d2f-8292-87fa8af0dbe6" Title="IDecodeResult Properties" Url="html/Properties_T_Com_Datalogic_Decode_IDecodeResult.htm">
           <HelpTOCNode Title="BarcodeID Property " Url="html/P_Com_Datalogic_Decode_IDecodeResult_BarcodeID.htm" />
           <HelpTOCNode Title="Text Property " Url="html/P_Com_Datalogic_Decode_IDecodeResult_Text.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ae74c690-73f4-4957-af10-230d50a6883f" Title="IDecodeResult Methods" Url="html/Methods_T_Com_Datalogic_Decode_IDecodeResult.htm">
+        <HelpTOCNode Id="ef241085-5c26-4987-8636-a0d637b92eba" Title="IDecodeResult Methods" Url="html/Methods_T_Com_Datalogic_Decode_IDecodeResult.htm">
           <HelpTOCNode Title="GetRawData Method " Url="html/M_Com_Datalogic_Decode_IDecodeResult_GetRawData.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bad3968c-b1ad-4ea1-8588-c8fd37f77c30" Title="IReadListener Interface" Url="html/T_Com_Datalogic_Decode_IReadListener.htm">
-        <HelpTOCNode Id="a7728545-90ec-4025-8dbe-c66e8aa4bd1d" Title="IReadListener Methods" Url="html/Methods_T_Com_Datalogic_Decode_IReadListener.htm">
+      <HelpTOCNode Id="05cdda72-57e7-43c8-9521-8b4bba69d3db" Title="IReadListener Interface" Url="html/T_Com_Datalogic_Decode_IReadListener.htm">
+        <HelpTOCNode Id="6793f3a0-a0ef-4f64-b4f1-29708c23236e" Title="IReadListener Methods" Url="html/Methods_T_Com_Datalogic_Decode_IReadListener.htm">
           <HelpTOCNode Title="OnRead Method " Url="html/M_Com_Datalogic_Decode_IReadListener_OnRead.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="933e56c6-303f-4962-8e2e-083aec183ccc" Title="IStartListener Interface" Url="html/T_Com_Datalogic_Decode_IStartListener.htm">
-        <HelpTOCNode Id="6df7c43d-35a4-463b-af80-11c4278f3cd1" Title="IStartListener Methods" Url="html/Methods_T_Com_Datalogic_Decode_IStartListener.htm">
+      <HelpTOCNode Id="d8c0a383-9a84-4bb7-86f2-a17270747d24" Title="IStartListener Interface" Url="html/T_Com_Datalogic_Decode_IStartListener.htm">
+        <HelpTOCNode Id="68764882-2655-49ee-b288-4ecc29407872" Title="IStartListener Methods" Url="html/Methods_T_Com_Datalogic_Decode_IStartListener.htm">
           <HelpTOCNode Title="OnScanStarted Method " Url="html/M_Com_Datalogic_Decode_IStartListener_OnScanStarted.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c9a1e1fa-d7f1-42d2-a0c0-d28e46b58848" Title="IStopListener Interface" Url="html/T_Com_Datalogic_Decode_IStopListener.htm">
-        <HelpTOCNode Id="fe59b345-45f3-4946-8271-d3c7a3a3a6cf" Title="IStopListener Methods" Url="html/Methods_T_Com_Datalogic_Decode_IStopListener.htm">
+      <HelpTOCNode Id="041bc856-3510-4f69-8c56-c61560854807" Title="IStopListener Interface" Url="html/T_Com_Datalogic_Decode_IStopListener.htm">
+        <HelpTOCNode Id="e570cee1-d16f-495d-aa02-4084514e7c3b" Title="IStopListener Methods" Url="html/Methods_T_Com_Datalogic_Decode_IStopListener.htm">
           <HelpTOCNode Title="OnScanStopped Method " Url="html/M_Com_Datalogic_Decode_IStopListener_OnScanStopped.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b495d696-6e2a-4c6d-a481-09f6de08d692" Title="ITimeoutListener Interface" Url="html/T_Com_Datalogic_Decode_ITimeoutListener.htm">
-        <HelpTOCNode Id="7459a548-0b76-419b-bb3a-c6cfe0eb5543" Title="ITimeoutListener Methods" Url="html/Methods_T_Com_Datalogic_Decode_ITimeoutListener.htm">
+      <HelpTOCNode Id="eb385d3a-c1d1-49d8-90f1-d769c1653c85" Title="ITimeoutListener Interface" Url="html/T_Com_Datalogic_Decode_ITimeoutListener.htm">
+        <HelpTOCNode Id="f2b4ae20-a70d-4647-85f1-060fb9899c5b" Title="ITimeoutListener Methods" Url="html/Methods_T_Com_Datalogic_Decode_ITimeoutListener.htm">
           <HelpTOCNode Title="OnScanTimeout Method " Url="html/M_Com_Datalogic_Decode_ITimeoutListener_OnScanTimeout.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="882310cb-7ee1-453a-9aa6-b01f2e36ec1d" Title="PropertyID Class" Url="html/T_Com_Datalogic_Decode_PropertyID.htm">
+      <HelpTOCNode Id="3a0f1368-a595-44bb-bf54-06991b4f169a" Title="PropertyID Class" Url="html/T_Com_Datalogic_Decode_PropertyID.htm">
         <HelpTOCNode Title="PropertyID Constructor " Url="html/M_Com_Datalogic_Decode_PropertyID__ctor.htm" />
-        <HelpTOCNode Id="b760acd0-1028-4317-b730-c67527c0a270" Title="PropertyID Fields" Url="html/Fields_T_Com_Datalogic_Decode_PropertyID.htm">
+        <HelpTOCNode Id="7f9a4933-cabf-4df5-95d3-3dfefcf6caa2" Title="PropertyID Fields" Url="html/Fields_T_Com_Datalogic_Decode_PropertyID.htm">
           <HelpTOCNode Title="AimEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_AimEnable.htm" />
           <HelpTOCNode Title="AustralianCodeUserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_AustralianCodeUserId.htm" />
           <HelpTOCNode Title="AustralianPostEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_AustralianPostEnable.htm" />
+          <HelpTOCNode Title="AztecCharacterSetMode Field" Url="html/F_Com_Datalogic_Decode_PropertyID_AztecCharacterSetMode.htm" />
           <HelpTOCNode Title="AztecEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_AztecEnable.htm" />
           <HelpTOCNode Title="AztecLength1 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_AztecLength1.htm" />
           <HelpTOCNode Title="AztecLength2 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_AztecLength2.htm" />
@@ -197,11 +209,16 @@
           <HelpTOCNode Title="Code93Length2 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code93Length2.htm" />
           <HelpTOCNode Title="Code93LengthControl Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code93LengthControl.htm" />
           <HelpTOCNode Title="Code93UserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code93UserId.htm" />
+          <HelpTOCNode Title="CompositeEanUpcMode Field" Url="html/F_Com_Datalogic_Decode_PropertyID_CompositeEanUpcMode.htm" />
+          <HelpTOCNode Title="CompositeEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_CompositeEnable.htm" />
+          <HelpTOCNode Title="CompositeGs1128Mode Field" Url="html/F_Com_Datalogic_Decode_PropertyID_CompositeGs1128Mode.htm" />
+          <HelpTOCNode Title="CompositeUserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_CompositeUserId.htm" />
           <HelpTOCNode Title="D25Enable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_D25Enable.htm" />
           <HelpTOCNode Title="D25Length1 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_D25Length1.htm" />
           <HelpTOCNode Title="D25Length2 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_D25Length2.htm" />
           <HelpTOCNode Title="D25LengthControl Field" Url="html/F_Com_Datalogic_Decode_PropertyID_D25LengthControl.htm" />
           <HelpTOCNode Title="D25UserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_D25UserId.htm" />
+          <HelpTOCNode Title="DatamatrixCharacterSetMode Field" Url="html/F_Com_Datalogic_Decode_PropertyID_DatamatrixCharacterSetMode.htm" />
           <HelpTOCNode Title="DatamatrixEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_DatamatrixEnable.htm" />
           <HelpTOCNode Title="DatamatrixLength1 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_DatamatrixLength1.htm" />
           <HelpTOCNode Title="DatamatrixLength2 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_DatamatrixLength2.htm" />
@@ -212,6 +229,7 @@
           <HelpTOCNode Title="DisplayNotificationEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_DisplayNotificationEnable.htm" />
           <HelpTOCNode Title="Ean13Enable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Ean13Enable.htm" />
           <HelpTOCNode Title="Ean13SendCheck Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Ean13SendCheck.htm" />
+          <HelpTOCNode Title="Ean13SendSys Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Ean13SendSys.htm" />
           <HelpTOCNode Title="Ean13ToIsbn Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Ean13ToIsbn.htm" />
           <HelpTOCNode Title="Ean13ToIssn Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Ean13ToIssn.htm" />
           <HelpTOCNode Title="Ean13UserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Ean13UserId.htm" />
@@ -234,13 +252,16 @@
           <HelpTOCNode Title="GoodReadVibrateEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_GoodReadVibrateEnable.htm" />
           <HelpTOCNode Title="GreenSpotEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_GreenSpotEnable.htm" />
           <HelpTOCNode Title="Gs114Enable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Gs114Enable.htm" />
+          <HelpTOCNode Title="Gs114Gs1128Mode Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Gs114Gs1128Mode.htm" />
           <HelpTOCNode Title="Gs114UserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Gs114UserId.htm" />
           <HelpTOCNode Title="Gs1ExpEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Gs1ExpEnable.htm" />
+          <HelpTOCNode Title="Gs1ExpGs1128Mode Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Gs1ExpGs1128Mode.htm" />
           <HelpTOCNode Title="Gs1ExpLength1 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Gs1ExpLength1.htm" />
           <HelpTOCNode Title="Gs1ExpLength2 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Gs1ExpLength2.htm" />
           <HelpTOCNode Title="Gs1ExpLengthControl Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Gs1ExpLengthControl.htm" />
           <HelpTOCNode Title="Gs1ExpUserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Gs1ExpUserId.htm" />
           <HelpTOCNode Title="Gs1LimitEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Gs1LimitEnable.htm" />
+          <HelpTOCNode Title="Gs1LimitGs1128Mode Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Gs1LimitGs1128Mode.htm" />
           <HelpTOCNode Title="Gs1LimitUserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Gs1LimitUserId.htm" />
           <HelpTOCNode Title="GsSubstitution Field" Url="html/F_Com_Datalogic_Decode_PropertyID_GsSubstitution.htm" />
           <HelpTOCNode Title="I25Enable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_I25Enable.htm" />
@@ -267,11 +288,13 @@
           <HelpTOCNode Title="MaxicodeLength2 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MaxicodeLength2.htm" />
           <HelpTOCNode Title="MaxicodeLengthControl Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MaxicodeLengthControl.htm" />
           <HelpTOCNode Title="MaxicodeUserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MaxicodeUserId.htm" />
+          <HelpTOCNode Title="Micropdf417CharacterSetMode Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Micropdf417CharacterSetMode.htm" />
           <HelpTOCNode Title="Micropdf417Enable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Micropdf417Enable.htm" />
           <HelpTOCNode Title="Micropdf417Length1 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Micropdf417Length1.htm" />
           <HelpTOCNode Title="Micropdf417Length2 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Micropdf417Length2.htm" />
           <HelpTOCNode Title="Micropdf417LengthControl Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Micropdf417LengthControl.htm" />
           <HelpTOCNode Title="Micropdf417UserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Micropdf417UserId.htm" />
+          <HelpTOCNode Title="MicroQrCharacterSetMode Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MicroQrCharacterSetMode.htm" />
           <HelpTOCNode Title="MicroQrEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MicroQrEnable.htm" />
           <HelpTOCNode Title="MicroQrLength1 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MicroQrLength1.htm" />
           <HelpTOCNode Title="MicroQrLength2 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MicroQrLength2.htm" />
@@ -285,12 +308,17 @@
           <HelpTOCNode Title="MsiRequire2Check Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MsiRequire2Check.htm" />
           <HelpTOCNode Title="MsiSendCheck Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MsiSendCheck.htm" />
           <HelpTOCNode Title="MsiUserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MsiUserId.htm" />
+          <HelpTOCNode Title="MultiscanEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MultiscanEnable.htm" />
+          <HelpTOCNode Title="MultiscanNotificationEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MultiscanNotificationEnable.htm" />
+          <HelpTOCNode Title="MultiscanRequiredLabels Field" Url="html/F_Com_Datalogic_Decode_PropertyID_MultiscanRequiredLabels.htm" />
+          <HelpTOCNode Title="Pdf417CharacterSetMode Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Pdf417CharacterSetMode.htm" />
           <HelpTOCNode Title="Pdf417Enable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Pdf417Enable.htm" />
           <HelpTOCNode Title="Pdf417Length1 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Pdf417Length1.htm" />
           <HelpTOCNode Title="Pdf417Length2 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Pdf417Length2.htm" />
           <HelpTOCNode Title="Pdf417LengthControl Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Pdf417LengthControl.htm" />
           <HelpTOCNode Title="Pdf417UserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_Pdf417UserId.htm" />
           <HelpTOCNode Title="PicklistEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_PicklistEnable.htm" />
+          <HelpTOCNode Title="QrcodeCharacterSetMode Field" Url="html/F_Com_Datalogic_Decode_PropertyID_QrcodeCharacterSetMode.htm" />
           <HelpTOCNode Title="QrcodeEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_QrcodeEnable.htm" />
           <HelpTOCNode Title="QrcodeLength1 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_QrcodeLength1.htm" />
           <HelpTOCNode Title="QrcodeLength2 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_QrcodeLength2.htm" />
@@ -312,6 +340,7 @@
           <HelpTOCNode Title="UpcaSendSys Field" Url="html/F_Com_Datalogic_Decode_PropertyID_UpcaSendSys.htm" />
           <HelpTOCNode Title="UpcaToEan13 Field" Url="html/F_Com_Datalogic_Decode_PropertyID_UpcaToEan13.htm" />
           <HelpTOCNode Title="UpcaUserId Field" Url="html/F_Com_Datalogic_Decode_PropertyID_UpcaUserId.htm" />
+          <HelpTOCNode Title="UpcEanShortQuietZones Field" Url="html/F_Com_Datalogic_Decode_PropertyID_UpcEanShortQuietZones.htm" />
           <HelpTOCNode Title="UpceEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_UpceEnable.htm" />
           <HelpTOCNode Title="UpceSendCheck Field" Url="html/F_Com_Datalogic_Decode_PropertyID_UpceSendCheck.htm" />
           <HelpTOCNode Title="UpceSendSys Field" Url="html/F_Com_Datalogic_Decode_PropertyID_UpceSendSys.htm" />
@@ -333,23 +362,25 @@
           <HelpTOCNode Title="WedgeKeyboardDeliveryMode Field" Url="html/F_Com_Datalogic_Decode_PropertyID_WedgeKeyboardDeliveryMode.htm" />
           <HelpTOCNode Title="WedgeKeyboardEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_WedgeKeyboardEnable.htm" />
           <HelpTOCNode Title="WedgeKeyboardOnlyOnFocus Field" Url="html/F_Com_Datalogic_Decode_PropertyID_WedgeKeyboardOnlyOnFocus.htm" />
+          <HelpTOCNode Title="WedgeWebEnable Field" Url="html/F_Com_Datalogic_Decode_PropertyID_WedgeWebEnable.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="795c8ab8-937f-4fbf-a496-939e5b3efbb1" Title="ReadEventArgs Class" Url="html/T_Com_Datalogic_Decode_ReadEventArgs.htm">
+      <HelpTOCNode Id="878814f1-a2df-4c3a-a126-add1dc0e37b5" Title="ReadEventArgs Class" Url="html/T_Com_Datalogic_Decode_ReadEventArgs.htm">
         <HelpTOCNode Title="ReadEventArgs Constructor " Url="html/M_Com_Datalogic_Decode_ReadEventArgs__ctor.htm" />
-        <HelpTOCNode Id="28efa49b-1fa4-4d92-aeb9-c5d95a89640a" Title="ReadEventArgs Properties" Url="html/Properties_T_Com_Datalogic_Decode_ReadEventArgs.htm">
+        <HelpTOCNode Id="a55d57db-9555-400c-aa6c-b9a1f55dcf90" Title="ReadEventArgs Properties" Url="html/Properties_T_Com_Datalogic_Decode_ReadEventArgs.htm">
           <HelpTOCNode Title="P0 Property " Url="html/P_Com_Datalogic_Decode_ReadEventArgs_P0.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ReadEventArgs Methods" Url="html/Methods_T_Com_Datalogic_Decode_ReadEventArgs.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b9642420-a77b-45c7-bfc2-97fb85b22ee6" Title="Symbology Class" Url="html/T_Com_Datalogic_Decode_Symbology.htm">
-        <HelpTOCNode Id="b8b0a3a2-771d-4d9e-8699-d140a94b5c22" Title="Symbology Properties" Url="html/Properties_T_Com_Datalogic_Decode_Symbology.htm">
+      <HelpTOCNode Id="b69d3066-c03a-40a1-9926-917db2760b4e" Title="Symbology Class" Url="html/T_Com_Datalogic_Decode_Symbology.htm">
+        <HelpTOCNode Id="67bf5656-06ca-4602-b042-1e76435ce036" Title="Symbology Properties" Url="html/Properties_T_Com_Datalogic_Decode_Symbology.htm">
           <HelpTOCNode Title="Aztec Property " Url="html/P_Com_Datalogic_Decode_Symbology_Aztec.htm" />
           <HelpTOCNode Title="Codabar Property " Url="html/P_Com_Datalogic_Decode_Symbology_Codabar.htm" />
           <HelpTOCNode Title="Code128 Property " Url="html/P_Com_Datalogic_Decode_Symbology_Code128.htm" />
           <HelpTOCNode Title="Code32 Property " Url="html/P_Com_Datalogic_Decode_Symbology_Code32.htm" />
           <HelpTOCNode Title="Code39 Property " Url="html/P_Com_Datalogic_Decode_Symbology_Code39.htm" />
           <HelpTOCNode Title="Code93 Property " Url="html/P_Com_Datalogic_Decode_Symbology_Code93.htm" />
+          <HelpTOCNode Title="Composite Property " Url="html/P_Com_Datalogic_Decode_Symbology_Composite.htm" />
           <HelpTOCNode Title="Datamatrix Property " Url="html/P_Com_Datalogic_Decode_Symbology_Datamatrix.htm" />
           <HelpTOCNode Title="Digimarc Property " Url="html/P_Com_Datalogic_Decode_Symbology_Digimarc.htm" />
           <HelpTOCNode Title="Discrete25 Property " Url="html/P_Com_Datalogic_Decode_Symbology_Discrete25.htm" />
@@ -380,31 +411,69 @@
           <HelpTOCNode Title="Upca Property " Url="html/P_Com_Datalogic_Decode_Symbology_Upca.htm" />
           <HelpTOCNode Title="Upce Property " Url="html/P_Com_Datalogic_Decode_Symbology_Upce.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3c40c2e8-2514-4f5d-92ab-266378e3d933" Title="Symbology Methods" Url="html/Methods_T_Com_Datalogic_Decode_Symbology.htm">
+        <HelpTOCNode Id="11bee1cd-cbb3-457d-8f4a-1ffb020037e4" Title="Symbology Methods" Url="html/Methods_T_Com_Datalogic_Decode_Symbology.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Decode_Symbology_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Decode_Symbology_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1790c7a8-9545-4d0c-ab0d-6bccb4ac9e36" Title="Com.Datalogic.Decode.Configuration" Url="html/N_Com_Datalogic_Decode_Configuration.htm">
-      <HelpTOCNode Id="5be3d309-dd79-4a8b-b413-918690b07f32" Title="Aztec Class" Url="html/T_Com_Datalogic_Decode_Configuration_Aztec.htm">
+    <HelpTOCNode Id="ee67b352-2c3d-42a2-8c18-b54ec6bf120d" Title="Com.Datalogic.Decode.Configuration" Url="html/N_Com_Datalogic_Decode_Configuration.htm">
+      <HelpTOCNode Id="cbc3c21c-48ed-4934-bc79-3ba255feb8f7" Title="Aztec Class" Url="html/T_Com_Datalogic_Decode_Configuration_Aztec.htm">
         <HelpTOCNode Title="Aztec Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Aztec__ctor.htm" />
-        <HelpTOCNode Title="Aztec Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Aztec.htm" />
+        <HelpTOCNode Id="33075b61-d0d6-442b-834b-f356c298e6fe" Title="Aztec Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Aztec.htm">
+          <HelpTOCNode Title="CharacterSetMode Property " Url="html/P_Com_Datalogic_Decode_Configuration_Aztec_CharacterSetMode.htm" />
+        </HelpTOCNode>
         <HelpTOCNode Title="Aztec Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Aztec.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="9279f281-3f91-4874-ae98-f7364b332f8a" Title="BeamMode Class" Url="html/T_Com_Datalogic_Decode_Configuration_BeamMode.htm">
-        <HelpTOCNode Id="25c01115-9ebe-404c-ae7b-0bd383f21e77" Title="BeamMode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_BeamMode.htm">
+      <HelpTOCNode Id="ff2a7f36-b78b-4a61-97cf-490735d4634f" Title="BeamMode Class" Url="html/T_Com_Datalogic_Decode_Configuration_BeamMode.htm">
+        <HelpTOCNode Id="73ec26ff-d526-48b3-9ee4-7d203e554069" Title="BeamMode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_BeamMode.htm">
           <HelpTOCNode Title="ReleaseScan Property " Url="html/P_Com_Datalogic_Decode_Configuration_BeamMode_ReleaseScan.htm" />
           <HelpTOCNode Title="TargetTimeout Property " Url="html/P_Com_Datalogic_Decode_Configuration_BeamMode_TargetTimeout.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e2052537-872f-4f42-9ef7-e2afd312227b" Title="BeamMode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_BeamMode.htm">
+        <HelpTOCNode Id="ca7dc4e2-cb5f-4ec0-99f0-ba68ec97abbb" Title="BeamMode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_BeamMode.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Decode_Configuration_BeamMode_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Decode_Configuration_BeamMode_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f9b2ed4b-2c71-4f07-8075-74d91e547b53" Title="Codabar Class" Url="html/T_Com_Datalogic_Decode_Configuration_Codabar.htm">
+      <HelpTOCNode Id="75943b75-30cc-4585-9cbd-23b1be8fd275" Title="CharacterSetMode Class" Url="html/T_Com_Datalogic_Decode_Configuration_CharacterSetMode.htm">
+        <HelpTOCNode Id="649da01c-8280-4eeb-a1b8-4ff89daf8d6b" Title="CharacterSetMode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_CharacterSetMode.htm">
+          <HelpTOCNode Title="Big5 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Big5.htm" />
+          <HelpTOCNode Title="EucCn Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_EucCn.htm" />
+          <HelpTOCNode Title="EucKr Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_EucKr.htm" />
+          <HelpTOCNode Title="Gb18030 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Gb18030.htm" />
+          <HelpTOCNode Title="Gbk Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Gbk.htm" />
+          <HelpTOCNode Title="Ibm437 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Ibm437.htm" />
+          <HelpTOCNode Title="Iso88591 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso88591.htm" />
+          <HelpTOCNode Title="Iso885911 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso885911.htm" />
+          <HelpTOCNode Title="Iso885913 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso885913.htm" />
+          <HelpTOCNode Title="Iso885914 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso885914.htm" />
+          <HelpTOCNode Title="Iso885915 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso885915.htm" />
+          <HelpTOCNode Title="Iso88592 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso88592.htm" />
+          <HelpTOCNode Title="Iso88593 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso88593.htm" />
+          <HelpTOCNode Title="Iso88594 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso88594.htm" />
+          <HelpTOCNode Title="Iso88595 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso88595.htm" />
+          <HelpTOCNode Title="Iso88596 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso88596.htm" />
+          <HelpTOCNode Title="Iso88597 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso88597.htm" />
+          <HelpTOCNode Title="Iso88598 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso88598.htm" />
+          <HelpTOCNode Title="Iso88599 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Iso88599.htm" />
+          <HelpTOCNode Title="ShiftJis Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_ShiftJis.htm" />
+          <HelpTOCNode Title="UsAscii Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_UsAscii.htm" />
+          <HelpTOCNode Title="Utf16 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Utf16.htm" />
+          <HelpTOCNode Title="Utf8 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Utf8.htm" />
+          <HelpTOCNode Title="Windows1250 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Windows1250.htm" />
+          <HelpTOCNode Title="Windows1251 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Windows1251.htm" />
+          <HelpTOCNode Title="Windows1252 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Windows1252.htm" />
+          <HelpTOCNode Title="Windows1254 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Windows1254.htm" />
+          <HelpTOCNode Title="Windows1256 Property " Url="html/P_Com_Datalogic_Decode_Configuration_CharacterSetMode_Windows1256.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="574e728a-3ede-450f-b91f-5e15716aa6ab" Title="CharacterSetMode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_CharacterSetMode.htm">
+          <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Decode_Configuration_CharacterSetMode_ValueOf.htm" />
+          <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Decode_Configuration_CharacterSetMode_Values.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1ac69e8c-ae57-475d-9771-b5a1ebae3b8d" Title="Codabar Class" Url="html/T_Com_Datalogic_Decode_Configuration_Codabar.htm">
         <HelpTOCNode Title="Codabar Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Codabar__ctor.htm" />
-        <HelpTOCNode Id="485f403e-9c7a-43af-9d04-49544a76ec26" Title="Codabar Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Codabar.htm">
+        <HelpTOCNode Id="92448c74-276d-4207-8722-1e44525902b6" Title="Codabar Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Codabar.htm">
           <HelpTOCNode Title="ConvertToCLSI Property " Url="html/P_Com_Datalogic_Decode_Configuration_Codabar_ConvertToCLSI.htm" />
           <HelpTOCNode Title="EnableChecksum Property " Url="html/P_Com_Datalogic_Decode_Configuration_Codabar_EnableChecksum.htm" />
           <HelpTOCNode Title="SendChecksum Property " Url="html/P_Com_Datalogic_Decode_Configuration_Codabar_SendChecksum.htm" />
@@ -412,17 +481,17 @@
         </HelpTOCNode>
         <HelpTOCNode Title="Codabar Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Codabar.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a894569c-41e9-4210-9c21-114f5b71bd16" Title="Code128 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Code128.htm">
+      <HelpTOCNode Id="089d1501-99e4-4f85-9449-304b6f87a598" Title="Code128 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Code128.htm">
         <HelpTOCNode Title="Code128 Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Code128__ctor.htm" />
-        <HelpTOCNode Id="580271bd-80b1-4662-b3ec-2ab12a2cca4e" Title="Code128 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Code128.htm">
+        <HelpTOCNode Id="180ce05d-a296-4c8c-b240-7469f86fbd89" Title="Code128 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Code128.htm">
           <HelpTOCNode Title="Gs1128 Property " Url="html/P_Com_Datalogic_Decode_Configuration_Code128_Gs1128.htm" />
           <HelpTOCNode Title="Gs1128UserID Property " Url="html/P_Com_Datalogic_Decode_Configuration_Code128_Gs1128UserID.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Code128 Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Code128.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="fe9df2de-cf3e-48f1-bd2b-b9caeb20de35" Title="Code39 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Code39.htm">
+      <HelpTOCNode Id="d363d0d2-c3d2-44f5-a966-1301a5e529d6" Title="Code39 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Code39.htm">
         <HelpTOCNode Title="Code39 Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Code39__ctor.htm" />
-        <HelpTOCNode Id="49152371-14e1-4711-b6b0-e1da484f0c49" Title="Code39 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Code39.htm">
+        <HelpTOCNode Id="df054007-18b9-4958-9c03-848b3bb4f00b" Title="Code39 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Code39.htm">
           <HelpTOCNode Title="Code32 Property " Url="html/P_Com_Datalogic_Decode_Configuration_Code39_Code32.htm" />
           <HelpTOCNode Title="Code32UserID Property " Url="html/P_Com_Datalogic_Decode_Configuration_Code39_Code32UserID.htm" />
           <HelpTOCNode Title="EnableChecksum Property " Url="html/P_Com_Datalogic_Decode_Configuration_Code39_EnableChecksum.htm" />
@@ -433,19 +502,29 @@
         </HelpTOCNode>
         <HelpTOCNode Title="Code39 Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Code39.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="66d01b86-c357-46ea-a9c2-e620299f39e2" Title="Code93 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Code93.htm">
+      <HelpTOCNode Id="52b5e275-888a-448e-bc2a-12ac4c67d6c2" Title="Code93 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Code93.htm">
         <HelpTOCNode Title="Code93 Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Code93__ctor.htm" />
         <HelpTOCNode Title="Code93 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Code93.htm" />
         <HelpTOCNode Title="Code93 Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Code93.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="56c51e76-59c0-4243-a3b2-42d300d03e2d" Title="Datamatrix Class" Url="html/T_Com_Datalogic_Decode_Configuration_Datamatrix.htm">
+      <HelpTOCNode Id="663a6f4c-055b-4f6f-b30e-8331ff2169c5" Title="Composite Class" Url="html/T_Com_Datalogic_Decode_Configuration_Composite.htm">
+        <HelpTOCNode Title="Composite Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Composite__ctor.htm" />
+        <HelpTOCNode Id="06348b6a-4c0c-434d-8cc6-e38db3473fae" Title="Composite Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Composite.htm">
+          <HelpTOCNode Title="ConvertToGs1128 Property " Url="html/P_Com_Datalogic_Decode_Configuration_Composite_ConvertToGs1128.htm" />
+          <HelpTOCNode Title="UpcEanMode Property " Url="html/P_Com_Datalogic_Decode_Configuration_Composite_UpcEanMode.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Composite Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Composite.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="32e170a0-4dcb-4b96-bc8b-4eaec6f4282c" Title="Datamatrix Class" Url="html/T_Com_Datalogic_Decode_Configuration_Datamatrix.htm">
         <HelpTOCNode Title="Datamatrix Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Datamatrix__ctor.htm" />
-        <HelpTOCNode Title="Datamatrix Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Datamatrix.htm" />
+        <HelpTOCNode Id="66cd0af5-500b-4b91-96d3-e88f10e093f8" Title="Datamatrix Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Datamatrix.htm">
+          <HelpTOCNode Title="CharacterSetMode Property " Url="html/P_Com_Datalogic_Decode_Configuration_Datamatrix_CharacterSetMode.htm" />
+        </HelpTOCNode>
         <HelpTOCNode Title="Datamatrix Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Datamatrix.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="19a3114a-2f10-4773-aff8-38750092e347" Title="DecodingNotification Class" Url="html/T_Com_Datalogic_Decode_Configuration_DecodingNotification.htm">
+      <HelpTOCNode Id="80dd3013-76b3-4cc9-9812-51b2d07060b8" Title="DecodingNotification Class" Url="html/T_Com_Datalogic_Decode_Configuration_DecodingNotification.htm">
         <HelpTOCNode Title="DecodingNotification Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_DecodingNotification__ctor.htm" />
-        <HelpTOCNode Id="bf1dbe93-c488-4902-adf8-c660820377bf" Title="DecodingNotification Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_DecodingNotification.htm">
+        <HelpTOCNode Id="ef49cea3-1079-44f3-b1e3-f2705690a8e5" Title="DecodingNotification Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_DecodingNotification.htm">
           <HelpTOCNode Title="GoodReadAudioFile Property " Url="html/P_Com_Datalogic_Decode_Configuration_DecodingNotification_GoodReadAudioFile.htm" />
           <HelpTOCNode Title="GoodReadAudioMode Property " Url="html/P_Com_Datalogic_Decode_Configuration_DecodingNotification_GoodReadAudioMode.htm" />
           <HelpTOCNode Title="GoodReadAudioVolume Property " Url="html/P_Com_Datalogic_Decode_Configuration_DecodingNotification_GoodReadAudioVolume.htm" />
@@ -455,45 +534,46 @@
         </HelpTOCNode>
         <HelpTOCNode Title="DecodingNotification Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_DecodingNotification.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4688d681-62d6-4703-8332-ab0279c8f518" Title="Digimarc Class" Url="html/T_Com_Datalogic_Decode_Configuration_Digimarc.htm">
+      <HelpTOCNode Id="15b86deb-a2b6-48eb-bbd8-946683638b20" Title="Digimarc Class" Url="html/T_Com_Datalogic_Decode_Configuration_Digimarc.htm">
         <HelpTOCNode Title="Digimarc Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Digimarc__ctor.htm" />
-        <HelpTOCNode Id="45497028-097f-411e-85e8-22af4e9d664e" Title="Digimarc Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Digimarc.htm">
+        <HelpTOCNode Id="0fa5d756-6d50-4d51-8b84-65e8c95ed471" Title="Digimarc Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Digimarc.htm">
           <HelpTOCNode Title="Enable Property " Url="html/P_Com_Datalogic_Decode_Configuration_Digimarc_Enable.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Digimarc Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Digimarc.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="826900a0-2a0e-4fec-ba95-a3d68ae672b7" Title="Discrete25 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Discrete25.htm">
+      <HelpTOCNode Id="40dd7978-c525-4671-87d9-b13039a32748" Title="Discrete25 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Discrete25.htm">
         <HelpTOCNode Title="Discrete25 Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Discrete25__ctor.htm" />
         <HelpTOCNode Title="Discrete25 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Discrete25.htm" />
         <HelpTOCNode Title="Discrete25 Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Discrete25.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="dc64934b-3d2b-4c33-a3d2-26a2ac603b82" Title="DisplayNotification Class" Url="html/T_Com_Datalogic_Decode_Configuration_DisplayNotification.htm">
+      <HelpTOCNode Id="1974df13-ab09-44cd-89d6-c2eac02bacd2" Title="DisplayNotification Class" Url="html/T_Com_Datalogic_Decode_Configuration_DisplayNotification.htm">
         <HelpTOCNode Title="DisplayNotification Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_DisplayNotification__ctor.htm" />
-        <HelpTOCNode Id="d8b217d3-8794-411f-bd9f-deae8328c45f" Title="DisplayNotification Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_DisplayNotification.htm">
+        <HelpTOCNode Id="060567f4-133d-40ea-ac10-b9e9916ffeb2" Title="DisplayNotification Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_DisplayNotification.htm">
           <HelpTOCNode Title="Enable Property " Url="html/P_Com_Datalogic_Decode_Configuration_DisplayNotification_Enable.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="DisplayNotification Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_DisplayNotification.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7333978d-9094-4367-9f4d-328d4c3c16b5" Title="Ean13 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Ean13.htm">
+      <HelpTOCNode Id="b2eceaf0-5db8-4031-972e-8af33dc856db" Title="Ean13 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Ean13.htm">
         <HelpTOCNode Title="Ean13 Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Ean13__ctor.htm" />
-        <HelpTOCNode Id="c62558f3-399c-4970-8942-a39cf31c412b" Title="Ean13 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Ean13.htm">
+        <HelpTOCNode Id="69c05f23-b9f0-420f-8131-6a8ec761fbc4" Title="Ean13 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Ean13.htm">
           <HelpTOCNode Title="ConvertToISBN Property " Url="html/P_Com_Datalogic_Decode_Configuration_Ean13_ConvertToISBN.htm" />
           <HelpTOCNode Title="ConvertToISSN Property " Url="html/P_Com_Datalogic_Decode_Configuration_Ean13_ConvertToISSN.htm" />
           <HelpTOCNode Title="SendChecksum Property " Url="html/P_Com_Datalogic_Decode_Configuration_Ean13_SendChecksum.htm" />
+          <HelpTOCNode Title="SendSystemDigit Property " Url="html/P_Com_Datalogic_Decode_Configuration_Ean13_SendSystemDigit.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Ean13 Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Ean13.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="dcca5c5f-621b-4c24-9951-84044f95bffb" Title="Ean8 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Ean8.htm">
+      <HelpTOCNode Id="0d85e195-e251-448c-9d8f-810e0e6cd627" Title="Ean8 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Ean8.htm">
         <HelpTOCNode Title="Ean8 Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Ean8__ctor.htm" />
-        <HelpTOCNode Id="8dd66b59-5c49-4969-b161-78259f81de55" Title="Ean8 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Ean8.htm">
+        <HelpTOCNode Id="16575d1d-8fa9-4cf1-933f-a27b1ae463e9" Title="Ean8 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Ean8.htm">
           <HelpTOCNode Title="ConvertToEan13 Property " Url="html/P_Com_Datalogic_Decode_Configuration_Ean8_ConvertToEan13.htm" />
           <HelpTOCNode Title="SendChecksum Property " Url="html/P_Com_Datalogic_Decode_Configuration_Ean8_SendChecksum.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Ean8 Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Ean8.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="420a97c6-b642-4ac2-89e7-f5ea5b163670" Title="Formatting Class" Url="html/T_Com_Datalogic_Decode_Configuration_Formatting.htm">
+      <HelpTOCNode Id="51457191-41f2-4543-a440-74d61b101856" Title="Formatting Class" Url="html/T_Com_Datalogic_Decode_Configuration_Formatting.htm">
         <HelpTOCNode Title="Formatting Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Formatting__ctor.htm" />
-        <HelpTOCNode Id="b5c87c93-223c-4a72-b473-7eb5e08944c9" Title="Formatting Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Formatting.htm">
+        <HelpTOCNode Id="55da6475-55c9-4e02-ae02-1c18c0b98957" Title="Formatting Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Formatting.htm">
           <HelpTOCNode Title="GsSubstitution Property " Url="html/P_Com_Datalogic_Decode_Configuration_Formatting_GsSubstitution.htm" />
           <HelpTOCNode Title="LabelPrefix Property " Url="html/P_Com_Datalogic_Decode_Configuration_Formatting_LabelPrefix.htm" />
           <HelpTOCNode Title="LabelSuffix Property " Url="html/P_Com_Datalogic_Decode_Configuration_Formatting_LabelSuffix.htm" />
@@ -502,9 +582,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="Formatting Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Formatting.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="13eca9f0-c598-4dfa-8188-8cfbafbcac3f" Title="GoodRead Class" Url="html/T_Com_Datalogic_Decode_Configuration_GoodRead.htm">
+      <HelpTOCNode Id="e50bbb57-099c-400e-a9ae-3a0034fb3fb7" Title="GoodRead Class" Url="html/T_Com_Datalogic_Decode_Configuration_GoodRead.htm">
         <HelpTOCNode Title="GoodRead Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_GoodRead__ctor.htm" />
-        <HelpTOCNode Id="91b4ff29-3f02-40b9-905f-8a9fcf7bf8fb" Title="GoodRead Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_GoodRead.htm">
+        <HelpTOCNode Id="288411d6-0235-4827-bae9-1a96c74bd26b" Title="GoodRead Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_GoodRead.htm">
           <HelpTOCNode Title="GoodReadEnable Property " Url="html/P_Com_Datalogic_Decode_Configuration_GoodRead_GoodReadEnable.htm" />
           <HelpTOCNode Title="GoodReadLedEnable Property " Url="html/P_Com_Datalogic_Decode_Configuration_GoodRead_GoodReadLedEnable.htm" />
           <HelpTOCNode Title="GoodReadVibrateEnable Property " Url="html/P_Com_Datalogic_Decode_Configuration_GoodRead_GoodReadVibrateEnable.htm" />
@@ -512,165 +592,195 @@
         </HelpTOCNode>
         <HelpTOCNode Title="GoodRead Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_GoodRead.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e7965d71-1a04-4bba-b4ac-a4da2cce9ad6" Title="Gs1DataBar_14 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Gs1DataBar_14.htm">
+      <HelpTOCNode Id="eb120cda-2508-4d17-bdc1-2fa708cda14a" Title="Gs1DataBar_14 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Gs1DataBar_14.htm">
         <HelpTOCNode Title="Gs1DataBar_14 Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Gs1DataBar_14__ctor.htm" />
-        <HelpTOCNode Title="Gs1DataBar_14 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Gs1DataBar_14.htm" />
+        <HelpTOCNode Id="8f4df75f-5d22-4293-a6b2-204dcce07a2f" Title="Gs1DataBar_14 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Gs1DataBar_14.htm">
+          <HelpTOCNode Title="ConvertToGs1128 Property " Url="html/P_Com_Datalogic_Decode_Configuration_Gs1DataBar_14_ConvertToGs1128.htm" />
+        </HelpTOCNode>
         <HelpTOCNode Title="Gs1DataBar_14 Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Gs1DataBar_14.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="08657bc6-58c8-4694-8ebd-c00e491ea135" Title="Gs1DataBar_Expanded Class" Url="html/T_Com_Datalogic_Decode_Configuration_Gs1DataBar_Expanded.htm">
+      <HelpTOCNode Id="fe02817e-2942-4597-bf70-d0b412b4de51" Title="Gs1DataBar_Expanded Class" Url="html/T_Com_Datalogic_Decode_Configuration_Gs1DataBar_Expanded.htm">
         <HelpTOCNode Title="Gs1DataBar_Expanded Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Gs1DataBar_Expanded__ctor.htm" />
-        <HelpTOCNode Title="Gs1DataBar_Expanded Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Gs1DataBar_Expanded.htm" />
+        <HelpTOCNode Id="980bd60a-0b71-4bdf-a015-7687e3dcdea3" Title="Gs1DataBar_Expanded Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Gs1DataBar_Expanded.htm">
+          <HelpTOCNode Title="ConvertToGs1128 Property " Url="html/P_Com_Datalogic_Decode_Configuration_Gs1DataBar_Expanded_ConvertToGs1128.htm" />
+        </HelpTOCNode>
         <HelpTOCNode Title="Gs1DataBar_Expanded Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Gs1DataBar_Expanded.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d3a55ba8-af10-4be1-b8c4-5320cd3d6d60" Title="Gs1DataBar_Limited Class" Url="html/T_Com_Datalogic_Decode_Configuration_Gs1DataBar_Limited.htm">
+      <HelpTOCNode Id="9bb4ad3c-e892-4660-b9af-7f7c76606ee3" Title="Gs1DataBar_Limited Class" Url="html/T_Com_Datalogic_Decode_Configuration_Gs1DataBar_Limited.htm">
         <HelpTOCNode Title="Gs1DataBar_Limited Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Gs1DataBar_Limited__ctor.htm" />
-        <HelpTOCNode Title="Gs1DataBar_Limited Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Gs1DataBar_Limited.htm" />
+        <HelpTOCNode Id="d7a927e6-36f7-4fbd-b5d1-5a947b55ac03" Title="Gs1DataBar_Limited Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Gs1DataBar_Limited.htm">
+          <HelpTOCNode Title="ConvertToGs1128 Property " Url="html/P_Com_Datalogic_Decode_Configuration_Gs1DataBar_Limited_ConvertToGs1128.htm" />
+        </HelpTOCNode>
         <HelpTOCNode Title="Gs1DataBar_Limited Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Gs1DataBar_Limited.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="830bf883-06eb-48f8-9987-ed14f62d9c5d" Title="IntentDeliveryMode Class" Url="html/T_Com_Datalogic_Decode_Configuration_IntentDeliveryMode.htm">
-        <HelpTOCNode Id="136a1587-6d29-48a7-8dfe-e7ff870f2d1f" Title="IntentDeliveryMode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_IntentDeliveryMode.htm">
+      <HelpTOCNode Id="e3c12487-19b0-4cc0-990d-b08d78c2e917" Title="IntentDeliveryMode Class" Url="html/T_Com_Datalogic_Decode_Configuration_IntentDeliveryMode.htm">
+        <HelpTOCNode Id="ac654eae-5e15-4f09-ac86-37bb7b80837d" Title="IntentDeliveryMode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_IntentDeliveryMode.htm">
           <HelpTOCNode Title="Broadcast Property " Url="html/P_Com_Datalogic_Decode_Configuration_IntentDeliveryMode_Broadcast.htm" />
           <HelpTOCNode Title="StartActivity Property " Url="html/P_Com_Datalogic_Decode_Configuration_IntentDeliveryMode_StartActivity.htm" />
           <HelpTOCNode Title="StartService Property " Url="html/P_Com_Datalogic_Decode_Configuration_IntentDeliveryMode_StartService.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="4cae3335-e5e9-4c04-8877-42ed804b7052" Title="IntentDeliveryMode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_IntentDeliveryMode.htm">
+        <HelpTOCNode Id="575b62e2-ad93-4a0e-bf00-b9e163a976ea" Title="IntentDeliveryMode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_IntentDeliveryMode.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Decode_Configuration_IntentDeliveryMode_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Decode_Configuration_IntentDeliveryMode_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="42f2679e-d42c-4111-9245-eb65f54b3582" Title="IntentWedge Class" Url="html/T_Com_Datalogic_Decode_Configuration_IntentWedge.htm">
+      <HelpTOCNode Id="c56dd683-dacf-44f3-89b1-63c26739bc27" Title="IntentWedge Class" Url="html/T_Com_Datalogic_Decode_Configuration_IntentWedge.htm">
         <HelpTOCNode Title="IntentWedge Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_IntentWedge__ctor.htm" />
-        <HelpTOCNode Id="ca590e88-7525-49aa-9e70-e543d74d3cd6" Title="IntentWedge Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_IntentWedge.htm">
+        <HelpTOCNode Id="f280b4fb-9f95-402a-80c4-f75dd189f6e1" Title="IntentWedge Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_IntentWedge.htm">
           <HelpTOCNode Title="Action Property " Url="html/P_Com_Datalogic_Decode_Configuration_IntentWedge_Action.htm" />
           <HelpTOCNode Title="Category Property " Url="html/P_Com_Datalogic_Decode_Configuration_IntentWedge_Category.htm" />
           <HelpTOCNode Title="DeliveryMode Property " Url="html/P_Com_Datalogic_Decode_Configuration_IntentWedge_DeliveryMode.htm" />
           <HelpTOCNode Title="Enable Property " Url="html/P_Com_Datalogic_Decode_Configuration_IntentWedge_Enable.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="IntentWedge Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_IntentWedge.htm" />
-        <HelpTOCNode Id="8a1357f7-98de-4a53-ab17-c9b0e197fca4" Title="IntentWedge Fields" Url="html/Fields_T_Com_Datalogic_Decode_Configuration_IntentWedge.htm">
+        <HelpTOCNode Id="3d10d4d9-ce39-4846-a089-1886b9c12556" Title="IntentWedge Fields" Url="html/Fields_T_Com_Datalogic_Decode_Configuration_IntentWedge.htm">
           <HelpTOCNode Title="ExtraBarcodeData Field" Url="html/F_Com_Datalogic_Decode_Configuration_IntentWedge_ExtraBarcodeData.htm" />
           <HelpTOCNode Title="ExtraBarcodeString Field" Url="html/F_Com_Datalogic_Decode_Configuration_IntentWedge_ExtraBarcodeString.htm" />
           <HelpTOCNode Title="ExtraBarcodeType Field" Url="html/F_Com_Datalogic_Decode_Configuration_IntentWedge_ExtraBarcodeType.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bc07499e-b9b6-43fc-867e-c4c5b6d62917" Title="Interleaved25 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Interleaved25.htm">
+      <HelpTOCNode Id="41d15e34-b906-4060-8584-58d68bbe8db0" Title="Interleaved25 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Interleaved25.htm">
         <HelpTOCNode Title="Interleaved25 Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Interleaved25__ctor.htm" />
-        <HelpTOCNode Id="1bf18608-d9ff-455a-b398-16cac8d2b0d8" Title="Interleaved25 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Interleaved25.htm">
+        <HelpTOCNode Id="5c5b3c1d-aa0d-4a2a-87dc-d56aaee10630" Title="Interleaved25 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Interleaved25.htm">
           <HelpTOCNode Title="EnableChecksum Property " Url="html/P_Com_Datalogic_Decode_Configuration_Interleaved25_EnableChecksum.htm" />
           <HelpTOCNode Title="SendChecksum Property " Url="html/P_Com_Datalogic_Decode_Configuration_Interleaved25_SendChecksum.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Interleaved25 Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Interleaved25.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ecde465d-dde7-4e57-9738-12c2cd125b7c" Title="KeyboardWedge Class" Url="html/T_Com_Datalogic_Decode_Configuration_KeyboardWedge.htm">
+      <HelpTOCNode Id="16e737b4-8a45-4e1c-8cf8-aa1e4461ffd8" Title="KeyboardWedge Class" Url="html/T_Com_Datalogic_Decode_Configuration_KeyboardWedge.htm">
         <HelpTOCNode Title="KeyboardWedge Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_KeyboardWedge__ctor.htm" />
-        <HelpTOCNode Id="f15b8938-2fe4-42e8-8688-7fc81d9a6026" Title="KeyboardWedge Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_KeyboardWedge.htm">
+        <HelpTOCNode Id="1ca74a0a-f5f7-4219-9ab3-20b63f425d3b" Title="KeyboardWedge Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_KeyboardWedge.htm">
           <HelpTOCNode Title="Enable Property " Url="html/P_Com_Datalogic_Decode_Configuration_KeyboardWedge_Enable.htm" />
           <HelpTOCNode Title="OnlyOnFocus Property " Url="html/P_Com_Datalogic_Decode_Configuration_KeyboardWedge_OnlyOnFocus.htm" />
           <HelpTOCNode Title="WedgeMode Property " Url="html/P_Com_Datalogic_Decode_Configuration_KeyboardWedge_WedgeMode.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="KeyboardWedge Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_KeyboardWedge.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b4387fa7-3066-4146-8815-001d857e927f" Title="KeyWedgeMode Class" Url="html/T_Com_Datalogic_Decode_Configuration_KeyWedgeMode.htm">
-        <HelpTOCNode Id="2123f22e-5297-4e23-8c8c-b766cfe05440" Title="KeyWedgeMode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_KeyWedgeMode.htm">
+      <HelpTOCNode Id="b5a0d13b-6e09-4019-82aa-2b5b5f64f3f1" Title="KeyWedgeMode Class" Url="html/T_Com_Datalogic_Decode_Configuration_KeyWedgeMode.htm">
+        <HelpTOCNode Id="d7d09011-0771-4179-9003-da196cd1d23f" Title="KeyWedgeMode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_KeyWedgeMode.htm">
           <HelpTOCNode Title="KeyPressure Property " Url="html/P_Com_Datalogic_Decode_Configuration_KeyWedgeMode_KeyPressure.htm" />
           <HelpTOCNode Title="TextInjection Property " Url="html/P_Com_Datalogic_Decode_Configuration_KeyWedgeMode_TextInjection.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="736c2f36-ba50-45b5-8f1d-430cf01cca95" Title="KeyWedgeMode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_KeyWedgeMode.htm">
+        <HelpTOCNode Id="0c53d754-995e-4375-b20a-576d3ea9f061" Title="KeyWedgeMode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_KeyWedgeMode.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Decode_Configuration_KeyWedgeMode_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Decode_Configuration_KeyWedgeMode_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="aeee6374-d780-461c-832f-017dbebac667" Title="LengthControlMode Class" Url="html/T_Com_Datalogic_Decode_Configuration_LengthControlMode.htm">
-        <HelpTOCNode Id="29043c3a-ebbe-44fc-a613-c75e34dad3a0" Title="LengthControlMode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_LengthControlMode.htm">
+      <HelpTOCNode Id="111eabc7-86ce-4b0d-9e34-553d7d208cfe" Title="LengthControlMode Class" Url="html/T_Com_Datalogic_Decode_Configuration_LengthControlMode.htm">
+        <HelpTOCNode Id="2ebcbf09-a14b-4e08-9e5e-cef8cd26a348" Title="LengthControlMode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_LengthControlMode.htm">
           <HelpTOCNode Title="None Property " Url="html/P_Com_Datalogic_Decode_Configuration_LengthControlMode_None.htm" />
           <HelpTOCNode Title="OneFixed Property " Url="html/P_Com_Datalogic_Decode_Configuration_LengthControlMode_OneFixed.htm" />
           <HelpTOCNode Title="Range Property " Url="html/P_Com_Datalogic_Decode_Configuration_LengthControlMode_Range.htm" />
           <HelpTOCNode Title="TwoFixed Property " Url="html/P_Com_Datalogic_Decode_Configuration_LengthControlMode_TwoFixed.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8d47538e-8df0-4f6a-a85a-94be17580301" Title="LengthControlMode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_LengthControlMode.htm">
+        <HelpTOCNode Id="e323d44b-00f7-4bf6-b958-ab0ffca56dd0" Title="LengthControlMode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_LengthControlMode.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Decode_Configuration_LengthControlMode_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Decode_Configuration_LengthControlMode_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="58f1daf6-e4ca-4139-8428-a828fe9948e4" Title="Matrix25 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Matrix25.htm">
+      <HelpTOCNode Id="05694b79-904f-4317-97ee-ede9d6869f4d" Title="LinearQuietZones Class" Url="html/T_Com_Datalogic_Decode_Configuration_LinearQuietZones.htm">
+        <HelpTOCNode Title="LinearQuietZones Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_LinearQuietZones__ctor.htm" />
+        <HelpTOCNode Id="938dd049-39ce-4bf9-bf64-9f68c082fcf9" Title="LinearQuietZones Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_LinearQuietZones.htm">
+          <HelpTOCNode Title="UpcEanReduced Property " Url="html/P_Com_Datalogic_Decode_Configuration_LinearQuietZones_UpcEanReduced.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="LinearQuietZones Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_LinearQuietZones.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="292a9aca-e75b-426b-954b-c3c8b56e1707" Title="Matrix25 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Matrix25.htm">
         <HelpTOCNode Title="Matrix25 Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Matrix25__ctor.htm" />
         <HelpTOCNode Title="Matrix25 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Matrix25.htm" />
         <HelpTOCNode Title="Matrix25 Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Matrix25.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5694a0d5-7ed7-4689-abb8-4c1f4ee7c5d2" Title="Maxicode Class" Url="html/T_Com_Datalogic_Decode_Configuration_Maxicode.htm">
+      <HelpTOCNode Id="1634dde1-0c2a-4b40-b1cc-a06b16c1f441" Title="Maxicode Class" Url="html/T_Com_Datalogic_Decode_Configuration_Maxicode.htm">
         <HelpTOCNode Title="Maxicode Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Maxicode__ctor.htm" />
         <HelpTOCNode Title="Maxicode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Maxicode.htm" />
         <HelpTOCNode Title="Maxicode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Maxicode.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4ddff60b-0f1a-4a89-8557-0ce6aca2a73b" Title="Micropdf417 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Micropdf417.htm">
+      <HelpTOCNode Id="98eb0590-c89c-421c-949a-6886ff461d3a" Title="Micropdf417 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Micropdf417.htm">
         <HelpTOCNode Title="Micropdf417 Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Micropdf417__ctor.htm" />
-        <HelpTOCNode Title="Micropdf417 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Micropdf417.htm" />
+        <HelpTOCNode Id="8696592e-ef62-4fa1-863e-e9056e0e94be" Title="Micropdf417 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Micropdf417.htm">
+          <HelpTOCNode Title="CharacterSetMode Property " Url="html/P_Com_Datalogic_Decode_Configuration_Micropdf417_CharacterSetMode.htm" />
+        </HelpTOCNode>
         <HelpTOCNode Title="Micropdf417 Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Micropdf417.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="73c6d855-2f9a-45ff-8e55-56e40a72d3e3" Title="MicroQR Class" Url="html/T_Com_Datalogic_Decode_Configuration_MicroQR.htm">
+      <HelpTOCNode Id="07d4271f-2430-4c4f-bc10-87e654a91d87" Title="MicroQR Class" Url="html/T_Com_Datalogic_Decode_Configuration_MicroQR.htm">
         <HelpTOCNode Title="MicroQR Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_MicroQR__ctor.htm" />
-        <HelpTOCNode Title="MicroQR Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_MicroQR.htm" />
+        <HelpTOCNode Id="3ebc885a-06d4-4ec1-8330-cffeb19a4969" Title="MicroQR Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_MicroQR.htm">
+          <HelpTOCNode Title="CharacterSetMode Property " Url="html/P_Com_Datalogic_Decode_Configuration_MicroQR_CharacterSetMode.htm" />
+        </HelpTOCNode>
         <HelpTOCNode Title="MicroQR Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_MicroQR.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="68c5945e-48b9-4765-b125-f7e79e79bee4" Title="Msi Class" Url="html/T_Com_Datalogic_Decode_Configuration_Msi.htm">
+      <HelpTOCNode Id="9f36aaa5-eb10-449d-9eed-c672a4259454" Title="Msi Class" Url="html/T_Com_Datalogic_Decode_Configuration_Msi.htm">
         <HelpTOCNode Title="Msi Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Msi__ctor.htm" />
-        <HelpTOCNode Id="b9f7cf7d-82e8-4f07-81ed-60a72e87cdcc" Title="Msi Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Msi.htm">
+        <HelpTOCNode Id="fcc3f8db-21ca-4a0f-8b7a-48054e70ab0e" Title="Msi Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Msi.htm">
           <HelpTOCNode Title="Checksum2Mod11 Property " Url="html/P_Com_Datalogic_Decode_Configuration_Msi_Checksum2Mod11.htm" />
           <HelpTOCNode Title="Require2Checksum Property " Url="html/P_Com_Datalogic_Decode_Configuration_Msi_Require2Checksum.htm" />
           <HelpTOCNode Title="SendChecksum Property " Url="html/P_Com_Datalogic_Decode_Configuration_Msi_SendChecksum.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Msi Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Msi.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="258d72ed-c050-4ae3-99bb-81b05d509b57" Title="Pdf417 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Pdf417.htm">
+      <HelpTOCNode Id="f373e1d8-980e-4f9c-bce7-b50b6c65e203" Title="MultiScan Class" Url="html/T_Com_Datalogic_Decode_Configuration_MultiScan.htm">
+        <HelpTOCNode Title="MultiScan Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_MultiScan__ctor.htm" />
+        <HelpTOCNode Id="f8c58edc-eb54-4668-8e62-de61ec8b5128" Title="MultiScan Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_MultiScan.htm">
+          <HelpTOCNode Title="Enable Property " Url="html/P_Com_Datalogic_Decode_Configuration_MultiScan_Enable.htm" />
+          <HelpTOCNode Title="LabelCount Property " Url="html/P_Com_Datalogic_Decode_Configuration_MultiScan_LabelCount.htm" />
+          <HelpTOCNode Title="NotifyOnEachLabel Property " Url="html/P_Com_Datalogic_Decode_Configuration_MultiScan_NotifyOnEachLabel.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MultiScan Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_MultiScan.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2a7e0557-a7ea-49de-a2fb-cae764fe1a58" Title="Pdf417 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Pdf417.htm">
         <HelpTOCNode Title="Pdf417 Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_Pdf417__ctor.htm" />
-        <HelpTOCNode Title="Pdf417 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Pdf417.htm" />
+        <HelpTOCNode Id="10e9a21c-8c98-44c6-82eb-38a45fcb9aa7" Title="Pdf417 Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_Pdf417.htm">
+          <HelpTOCNode Title="CharacterSetMode Property " Url="html/P_Com_Datalogic_Decode_Configuration_Pdf417_CharacterSetMode.htm" />
+        </HelpTOCNode>
         <HelpTOCNode Title="Pdf417 Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_Pdf417.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="36d1f1cd-47a1-49cc-8ba0-4cdfa2529d5d" Title="PostalAustralian Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalAustralian.htm">
+      <HelpTOCNode Id="5bcf2638-6a93-4764-ae65-e5bebaf461e5" Title="PostalAustralian Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalAustralian.htm">
         <HelpTOCNode Title="PostalAustralian Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_PostalAustralian__ctor.htm" />
         <HelpTOCNode Title="PostalAustralian Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_PostalAustralian.htm" />
         <HelpTOCNode Title="PostalAustralian Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_PostalAustralian.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5631f159-ef91-492d-8689-df2f89f1bcb0" Title="PostalJapan Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalJapan.htm">
+      <HelpTOCNode Id="1438e489-0afd-432c-b7f9-15bc87afbfe7" Title="PostalJapan Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalJapan.htm">
         <HelpTOCNode Title="PostalJapan Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_PostalJapan__ctor.htm" />
         <HelpTOCNode Title="PostalJapan Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_PostalJapan.htm" />
         <HelpTOCNode Title="PostalJapan Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_PostalJapan.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="66defc41-25dd-43da-abc9-e520e0d26553" Title="PostalKix Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalKix.htm">
+      <HelpTOCNode Id="5a4f0bdf-9bfa-41a0-8921-20798f9be629" Title="PostalKix Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalKix.htm">
         <HelpTOCNode Title="PostalKix Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_PostalKix__ctor.htm" />
         <HelpTOCNode Title="PostalKix Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_PostalKix.htm" />
         <HelpTOCNode Title="PostalKix Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_PostalKix.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="48e68cb4-8a8d-4adb-9b2f-f1e52fd12618" Title="PostalRoyalMail Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalRoyalMail.htm">
+      <HelpTOCNode Id="40accd08-bf7a-4d12-ae4c-007db06d7c7e" Title="PostalRoyalMail Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalRoyalMail.htm">
         <HelpTOCNode Title="PostalRoyalMail Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_PostalRoyalMail__ctor.htm" />
-        <HelpTOCNode Id="471e2a22-5cc5-440e-82e8-fa6f189122b5" Title="PostalRoyalMail Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_PostalRoyalMail.htm">
+        <HelpTOCNode Id="b9d16ad1-44bf-4152-bf3f-cd12b428c539" Title="PostalRoyalMail Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_PostalRoyalMail.htm">
           <HelpTOCNode Title="SendChecksum Property " Url="html/P_Com_Datalogic_Decode_Configuration_PostalRoyalMail_SendChecksum.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="PostalRoyalMail Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_PostalRoyalMail.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="211a1a2a-229e-43eb-85b7-2e9e2e800f6d" Title="PostalUsPlanet Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalUsPlanet.htm">
+      <HelpTOCNode Id="7556fd36-7cd5-454b-ad25-aa9ca787cbb8" Title="PostalUsPlanet Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalUsPlanet.htm">
         <HelpTOCNode Title="PostalUsPlanet Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_PostalUsPlanet__ctor.htm" />
         <HelpTOCNode Title="PostalUsPlanet Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_PostalUsPlanet.htm" />
         <HelpTOCNode Title="PostalUsPlanet Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_PostalUsPlanet.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="02fc822c-903b-4acc-8113-f51bf2d1ecb1" Title="PostalUsPostnet Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalUsPostnet.htm">
+      <HelpTOCNode Id="9eb96ec6-a8db-4ffd-881d-2f10869a7138" Title="PostalUsPostnet Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalUsPostnet.htm">
         <HelpTOCNode Title="PostalUsPostnet Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_PostalUsPostnet__ctor.htm" />
         <HelpTOCNode Title="PostalUsPostnet Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_PostalUsPostnet.htm" />
         <HelpTOCNode Title="PostalUsPostnet Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_PostalUsPostnet.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4e4e3d2e-f741-4acc-a8ff-85eccd49a766" Title="PostalUsps4State Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalUsps4State.htm">
+      <HelpTOCNode Id="ea7580fe-bd8d-446e-a87e-4eb703e60b88" Title="PostalUsps4State Class" Url="html/T_Com_Datalogic_Decode_Configuration_PostalUsps4State.htm">
         <HelpTOCNode Title="PostalUsps4State Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_PostalUsps4State__ctor.htm" />
         <HelpTOCNode Title="PostalUsps4State Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_PostalUsps4State.htm" />
         <HelpTOCNode Title="PostalUsps4State Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_PostalUsps4State.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6f23a8bf-9a19-4079-9832-f80e3cb82644" Title="QRCode Class" Url="html/T_Com_Datalogic_Decode_Configuration_QRCode.htm">
+      <HelpTOCNode Id="0edee167-968b-46ae-aed5-78e5f72dbfb8" Title="QRCode Class" Url="html/T_Com_Datalogic_Decode_Configuration_QRCode.htm">
         <HelpTOCNode Title="QRCode Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_QRCode__ctor.htm" />
-        <HelpTOCNode Title="QRCode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_QRCode.htm" />
+        <HelpTOCNode Id="4dfc8a7f-0dcc-4ad7-94c1-03dbb28a36a1" Title="QRCode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_QRCode.htm">
+          <HelpTOCNode Title="CharacterSetMode Property " Url="html/P_Com_Datalogic_Decode_Configuration_QRCode_CharacterSetMode.htm" />
+        </HelpTOCNode>
         <HelpTOCNode Title="QRCode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_QRCode.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6fa3b544-cf58-40dd-b462-edc012c477b8" Title="ScannerOptions Class" Url="html/T_Com_Datalogic_Decode_Configuration_ScannerOptions.htm">
+      <HelpTOCNode Id="b86705d4-9f68-496c-b9d1-edf9e73b329d" Title="ScannerOptions Class" Url="html/T_Com_Datalogic_Decode_Configuration_ScannerOptions.htm">
         <HelpTOCNode Title="ScannerOptions Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_ScannerOptions__ctor.htm" />
-        <HelpTOCNode Id="6f29aaa5-bd29-4ea3-9a5a-206d8abb19b5" Title="ScannerOptions Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_ScannerOptions.htm">
+        <HelpTOCNode Id="4ad530f1-1ed5-47c3-b220-c64b3d574005" Title="ScannerOptions Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_ScannerOptions.htm">
           <HelpTOCNode Title="AimEnable Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerOptions_AimEnable.htm" />
           <HelpTOCNode Title="DecodeTimeout Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerOptions_DecodeTimeout.htm" />
           <HelpTOCNode Title="IlluminationEnable Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerOptions_IlluminationEnable.htm" />
@@ -682,13 +792,14 @@
         </HelpTOCNode>
         <HelpTOCNode Title="ScannerOptions Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_ScannerOptions.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="9fef172f-2945-4594-8696-fe5c6087c7ed" Title="ScannerProperties Class" Url="html/T_Com_Datalogic_Decode_Configuration_ScannerProperties.htm">
-        <HelpTOCNode Id="31ed273d-3824-42f5-a716-985b48399ff7" Title="ScannerProperties Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_ScannerProperties.htm">
+      <HelpTOCNode Id="7591e7f1-acc9-41e8-b8b6-a46d63036b4b" Title="ScannerProperties Class" Url="html/T_Com_Datalogic_Decode_Configuration_ScannerProperties.htm">
+        <HelpTOCNode Id="7fdc0094-1342-48cf-bcf1-390bf4f1db4d" Title="ScannerProperties Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_ScannerProperties.htm">
           <HelpTOCNode Title="Aztec Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Aztec.htm" />
           <HelpTOCNode Title="Codabar Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Codabar.htm" />
           <HelpTOCNode Title="Code128 Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Code128.htm" />
           <HelpTOCNode Title="Code39 Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Code39.htm" />
           <HelpTOCNode Title="Code93 Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Code93.htm" />
+          <HelpTOCNode Title="Composite Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Composite.htm" />
           <HelpTOCNode Title="Datamatrix Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Datamatrix.htm" />
           <HelpTOCNode Title="Digimarc Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Digimarc.htm" />
           <HelpTOCNode Title="Discrete25 Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Discrete25.htm" />
@@ -704,11 +815,13 @@
           <HelpTOCNode Title="IntentWedge Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_IntentWedge.htm" />
           <HelpTOCNode Title="Interleaved25 Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Interleaved25.htm" />
           <HelpTOCNode Title="KeyboardWedge Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_KeyboardWedge.htm" />
+          <HelpTOCNode Title="LinearQZ Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_LinearQZ.htm" />
           <HelpTOCNode Title="Matrix25 Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Matrix25.htm" />
           <HelpTOCNode Title="Maxicode Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Maxicode.htm" />
           <HelpTOCNode Title="Micropdf417 Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Micropdf417.htm" />
           <HelpTOCNode Title="MicroQr Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_MicroQr.htm" />
           <HelpTOCNode Title="Msi Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Msi.htm" />
+          <HelpTOCNode Title="MultiScan Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_MultiScan.htm" />
           <HelpTOCNode Title="P4State Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_P4State.htm" />
           <HelpTOCNode Title="PAus Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_PAus.htm" />
           <HelpTOCNode Title="Pdf417 Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_Pdf417.htm" />
@@ -722,13 +835,14 @@
           <HelpTOCNode Title="UpcA Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_UpcA.htm" />
           <HelpTOCNode Title="UpcE Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_UpcE.htm" />
           <HelpTOCNode Title="UpcEanExtensions Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_UpcEanExtensions.htm" />
+          <HelpTOCNode Title="WebWedge Property " Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_WebWedge.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f9e0e7b3-2009-4606-8694-7415465e9f91" Title="ScannerProperties Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_ScannerProperties.htm">
+        <HelpTOCNode Id="bf40a1a9-d6f7-46a2-b5b2-8c43182c5779" Title="ScannerProperties Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_ScannerProperties.htm">
           <HelpTOCNode Title="Edit Method " Url="html/M_Com_Datalogic_Decode_Configuration_ScannerProperties_Edit.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="eeeaaf67-91f4-4e98-9e02-c8b8d53e2eb5" Title="SendCodeID Class" Url="html/T_Com_Datalogic_Decode_Configuration_SendCodeID.htm">
-        <HelpTOCNode Id="eaff6271-a2e1-4fd6-a5b3-4a2f6d8531ca" Title="SendCodeID Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_SendCodeID.htm">
+      <HelpTOCNode Id="9fce7ef6-6dbb-45de-82d1-c87f8f34cb2f" Title="SendCodeID Class" Url="html/T_Com_Datalogic_Decode_Configuration_SendCodeID.htm">
+        <HelpTOCNode Id="36de9f8c-6639-4dcd-ad32-4f47a6ca3511" Title="SendCodeID Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_SendCodeID.htm">
           <HelpTOCNode Title="AimIdentifierBeforeLabel Property " Url="html/P_Com_Datalogic_Decode_Configuration_SendCodeID_AimIdentifierBeforeLabel.htm" />
           <HelpTOCNode Title="DatalogicIdentifierAfterLabel Property " Url="html/P_Com_Datalogic_Decode_Configuration_SendCodeID_DatalogicIdentifierAfterLabel.htm" />
           <HelpTOCNode Title="DatalogicIdentifierBeforeLabel Property " Url="html/P_Com_Datalogic_Decode_Configuration_SendCodeID_DatalogicIdentifierBeforeLabel.htm" />
@@ -736,88 +850,106 @@
           <HelpTOCNode Title="UserdefinedIdentifierAfterLabel Property " Url="html/P_Com_Datalogic_Decode_Configuration_SendCodeID_UserdefinedIdentifierAfterLabel.htm" />
           <HelpTOCNode Title="UserdefinedIdentifierBeforeLabel Property " Url="html/P_Com_Datalogic_Decode_Configuration_SendCodeID_UserdefinedIdentifierBeforeLabel.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="90ad2538-e418-4ef5-bad5-bf7cdaae9e35" Title="SendCodeID Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_SendCodeID.htm">
+        <HelpTOCNode Id="0ab0bf57-51de-453d-8799-518b884b963d" Title="SendCodeID Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_SendCodeID.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Decode_Configuration_SendCodeID_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Decode_Configuration_SendCodeID_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="37fd606f-c047-45f7-8b11-772ad1e094b3" Title="SymbologyBase Class" Url="html/T_Com_Datalogic_Decode_Configuration_SymbologyBase.htm">
-        <HelpTOCNode Id="2c990b03-da62-4c16-b410-5b9c42d19585" Title="SymbologyBase Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_SymbologyBase.htm">
+      <HelpTOCNode Id="46c54a18-69c6-4776-bc85-589f011980b5" Title="SymbologyBase Class" Url="html/T_Com_Datalogic_Decode_Configuration_SymbologyBase.htm">
+        <HelpTOCNode Id="d9c9212a-2169-49c4-a987-d8f64054478b" Title="SymbologyBase Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_SymbologyBase.htm">
           <HelpTOCNode Title="Enable Property " Url="html/P_Com_Datalogic_Decode_Configuration_SymbologyBase_Enable.htm" />
           <HelpTOCNode Title="UserID Property " Url="html/P_Com_Datalogic_Decode_Configuration_SymbologyBase_UserID.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="SymbologyBase Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_SymbologyBase.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e68d51fe-3bbd-4cde-905f-c541471172e3" Title="SymbologyLengths Class" Url="html/T_Com_Datalogic_Decode_Configuration_SymbologyLengths.htm">
-        <HelpTOCNode Id="e92053bd-8ffb-4519-948e-c3a78d8e77cb" Title="SymbologyLengths Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_SymbologyLengths.htm">
+      <HelpTOCNode Id="e927c775-6d40-4b23-a4e9-bac44ae2fddd" Title="SymbologyLengths Class" Url="html/T_Com_Datalogic_Decode_Configuration_SymbologyLengths.htm">
+        <HelpTOCNode Id="db78e8ed-7210-4d36-845a-67de1e07b993" Title="SymbologyLengths Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_SymbologyLengths.htm">
           <HelpTOCNode Title="Length1 Property " Url="html/P_Com_Datalogic_Decode_Configuration_SymbologyLengths_Length1.htm" />
           <HelpTOCNode Title="Length2 Property " Url="html/P_Com_Datalogic_Decode_Configuration_SymbologyLengths_Length2.htm" />
           <HelpTOCNode Title="LengthMode Property " Url="html/P_Com_Datalogic_Decode_Configuration_SymbologyLengths_LengthMode.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="SymbologyLengths Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_SymbologyLengths.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="91f979ca-6d8b-4910-a183-ff01ceb87f08" Title="ToneNotificationMode Class" Url="html/T_Com_Datalogic_Decode_Configuration_ToneNotificationMode.htm">
-        <HelpTOCNode Id="9e51f2dc-3c5a-4784-bfa5-9ea07b8b0be5" Title="ToneNotificationMode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_ToneNotificationMode.htm">
+      <HelpTOCNode Id="c044a733-9998-4fb1-b3d7-9caf488cd6d2" Title="ToneNotificationMode Class" Url="html/T_Com_Datalogic_Decode_Configuration_ToneNotificationMode.htm">
+        <HelpTOCNode Id="ca149e1f-d71f-427d-9ba6-e86597051514" Title="ToneNotificationMode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_ToneNotificationMode.htm">
           <HelpTOCNode Title="AudioFile Property " Url="html/P_Com_Datalogic_Decode_Configuration_ToneNotificationMode_AudioFile.htm" />
           <HelpTOCNode Title="Beep Property " Url="html/P_Com_Datalogic_Decode_Configuration_ToneNotificationMode_Beep.htm" />
           <HelpTOCNode Title="None Property " Url="html/P_Com_Datalogic_Decode_Configuration_ToneNotificationMode_None.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="171b1b48-57ae-49e4-8fdf-f6d9e0bf636b" Title="ToneNotificationMode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_ToneNotificationMode.htm">
+        <HelpTOCNode Id="150b2b6b-56f5-4a35-8a3a-44f67df384d7" Title="ToneNotificationMode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_ToneNotificationMode.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Decode_Configuration_ToneNotificationMode_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Decode_Configuration_ToneNotificationMode_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b3ec0299-1316-4eaa-bb2e-dc3dafd8ca00" Title="UpcA Class" Url="html/T_Com_Datalogic_Decode_Configuration_UpcA.htm">
+      <HelpTOCNode Id="cc5ac324-bfa1-427b-b224-2e59f5112958" Title="UpcA Class" Url="html/T_Com_Datalogic_Decode_Configuration_UpcA.htm">
         <HelpTOCNode Title="UpcA Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_UpcA__ctor.htm" />
-        <HelpTOCNode Id="ef196487-552f-4fdd-9e91-cf3d5b1c4607" Title="UpcA Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_UpcA.htm">
+        <HelpTOCNode Id="fde801ac-3db6-4189-835f-aa038e33a94e" Title="UpcA Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_UpcA.htm">
           <HelpTOCNode Title="ConvertToEan13 Property " Url="html/P_Com_Datalogic_Decode_Configuration_UpcA_ConvertToEan13.htm" />
           <HelpTOCNode Title="SendChecksum Property " Url="html/P_Com_Datalogic_Decode_Configuration_UpcA_SendChecksum.htm" />
           <HelpTOCNode Title="SendSystemDigit Property " Url="html/P_Com_Datalogic_Decode_Configuration_UpcA_SendSystemDigit.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="UpcA Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_UpcA.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="682e2e0d-4e0c-4afe-98dd-778bcc2f7759" Title="UpcE Class" Url="html/T_Com_Datalogic_Decode_Configuration_UpcE.htm">
+      <HelpTOCNode Id="919000bd-6f04-4c07-aa7a-e7f23c4b4d32" Title="UpcE Class" Url="html/T_Com_Datalogic_Decode_Configuration_UpcE.htm">
         <HelpTOCNode Title="UpcE Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_UpcE__ctor.htm" />
-        <HelpTOCNode Id="42befa4f-d41d-4b10-ba91-156847a9d1a0" Title="UpcE Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_UpcE.htm">
+        <HelpTOCNode Id="624dadb0-93af-40b1-827e-35a4af5c23dd" Title="UpcE Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_UpcE.htm">
           <HelpTOCNode Title="ConvertToUpcA Property " Url="html/P_Com_Datalogic_Decode_Configuration_UpcE_ConvertToUpcA.htm" />
           <HelpTOCNode Title="SendChecksum Property " Url="html/P_Com_Datalogic_Decode_Configuration_UpcE_SendChecksum.htm" />
           <HelpTOCNode Title="SendSystemDigit Property " Url="html/P_Com_Datalogic_Decode_Configuration_UpcE_SendSystemDigit.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="UpcE Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_UpcE.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="daad256b-b8d0-4bd6-94f4-e2cb6621e7ce" Title="UpcEanExtensions Class" Url="html/T_Com_Datalogic_Decode_Configuration_UpcEanExtensions.htm">
+      <HelpTOCNode Id="5ad106dd-4b91-4b26-9847-9fe1d45af563" Title="UpcEanCompositeMode Class" Url="html/T_Com_Datalogic_Decode_Configuration_UpcEanCompositeMode.htm">
+        <HelpTOCNode Id="0eb8b53b-61e1-4c94-8e21-36a33e21cc0b" Title="UpcEanCompositeMode Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_UpcEanCompositeMode.htm">
+          <HelpTOCNode Title="AlwaysLinked Property " Url="html/P_Com_Datalogic_Decode_Configuration_UpcEanCompositeMode_AlwaysLinked.htm" />
+          <HelpTOCNode Title="Auto Property " Url="html/P_Com_Datalogic_Decode_Configuration_UpcEanCompositeMode_Auto.htm" />
+          <HelpTOCNode Title="NeverLinked Property " Url="html/P_Com_Datalogic_Decode_Configuration_UpcEanCompositeMode_NeverLinked.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a383a698-0862-4f8b-b9de-5d526614c336" Title="UpcEanCompositeMode Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_UpcEanCompositeMode.htm">
+          <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Decode_Configuration_UpcEanCompositeMode_ValueOf.htm" />
+          <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Decode_Configuration_UpcEanCompositeMode_Values.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e2877a17-db2b-47fe-abe0-2dbd9797150b" Title="UpcEanExtensions Class" Url="html/T_Com_Datalogic_Decode_Configuration_UpcEanExtensions.htm">
         <HelpTOCNode Title="UpcEanExtensions Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_UpcEanExtensions__ctor.htm" />
-        <HelpTOCNode Id="4319598f-e0df-461a-9c63-1f9bebbe6f87" Title="UpcEanExtensions Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_UpcEanExtensions.htm">
+        <HelpTOCNode Id="1601a52a-2082-431f-89ea-8891e647e18f" Title="UpcEanExtensions Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_UpcEanExtensions.htm">
           <HelpTOCNode Title="Enable2Digit Property " Url="html/P_Com_Datalogic_Decode_Configuration_UpcEanExtensions_Enable2Digit.htm" />
           <HelpTOCNode Title="Enable5Digit Property " Url="html/P_Com_Datalogic_Decode_Configuration_UpcEanExtensions_Enable5Digit.htm" />
           <HelpTOCNode Title="Require Property " Url="html/P_Com_Datalogic_Decode_Configuration_UpcEanExtensions_Require.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="UpcEanExtensions Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_UpcEanExtensions.htm" />
       </HelpTOCNode>
+      <HelpTOCNode Id="ea72bed4-2518-4075-91cb-108e9b8f438d" Title="WebWedge Class" Url="html/T_Com_Datalogic_Decode_Configuration_WebWedge.htm">
+        <HelpTOCNode Title="WebWedge Constructor " Url="html/M_Com_Datalogic_Decode_Configuration_WebWedge__ctor.htm" />
+        <HelpTOCNode Id="37c63970-24c3-4c60-8895-75c450e794e4" Title="WebWedge Properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_WebWedge.htm">
+          <HelpTOCNode Title="Enable Property " Url="html/P_Com_Datalogic_Decode_Configuration_WebWedge_Enable.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="WebWedge Methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_WebWedge.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="937acd1e-b782-4314-8ea5-909a768705d8" Title="Com.Datalogic.Device" Url="html/N_Com_Datalogic_Device.htm">
-      <HelpTOCNode Id="54137e66-0bef-41df-bae9-257ff365f31f" Title="BootType Class" Url="html/T_Com_Datalogic_Device_BootType.htm">
-        <HelpTOCNode Id="a8f9565c-101f-4a4f-a997-516fed6816b3" Title="BootType Properties" Url="html/Properties_T_Com_Datalogic_Device_BootType.htm">
+    <HelpTOCNode Id="d02dde2a-55da-4dc1-bf0f-fd8f1e2f99d0" Title="Com.Datalogic.Device" Url="html/N_Com_Datalogic_Device.htm">
+      <HelpTOCNode Id="fd439843-7983-498c-9250-6a6853f774ea" Title="BootType Class" Url="html/T_Com_Datalogic_Device_BootType.htm">
+        <HelpTOCNode Id="976fc5b5-46bb-41d3-b9e3-dd79b14ca888" Title="BootType Properties" Url="html/Properties_T_Com_Datalogic_Device_BootType.htm">
           <HelpTOCNode Title="EnterpriseReset Property " Url="html/P_Com_Datalogic_Device_BootType_EnterpriseReset.htm" />
           <HelpTOCNode Title="FactoryReset Property " Url="html/P_Com_Datalogic_Device_BootType_FactoryReset.htm" />
           <HelpTOCNode Title="Reset Property " Url="html/P_Com_Datalogic_Device_BootType_Reset.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3540a753-b298-42eb-a883-a9fd27a1584c" Title="BootType Methods" Url="html/Methods_T_Com_Datalogic_Device_BootType.htm">
+        <HelpTOCNode Id="1f937828-b99f-4ffc-ad77-065da6bf0e95" Title="BootType Methods" Url="html/Methods_T_Com_Datalogic_Device_BootType.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Device_BootType_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Device_BootType_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="116c036d-0147-4ef9-8410-528fb9615931" Title="DeviceException Class" Url="html/T_Com_Datalogic_Device_DeviceException.htm">
-        <HelpTOCNode Id="90b84c91-fea1-4c2b-b8fd-5cce5eec3ca3" Title="DeviceException Constructor " Url="html/Overload_Com_Datalogic_Device_DeviceException__ctor.htm">
+      <HelpTOCNode Id="0595400b-e9e0-4e32-bcb2-a66d23ac9e71" Title="DeviceException Class" Url="html/T_Com_Datalogic_Device_DeviceException.htm">
+        <HelpTOCNode Id="d773eb2a-a27e-40c4-8983-2591c29d61d5" Title="DeviceException Constructor " Url="html/Overload_Com_Datalogic_Device_DeviceException__ctor.htm">
           <HelpTOCNode Title="DeviceException Constructor " Url="html/M_Com_Datalogic_Device_DeviceException__ctor.htm" />
           <HelpTOCNode Title="DeviceException Constructor (Int32)" Url="html/M_Com_Datalogic_Device_DeviceException__ctor_1.htm" />
           <HelpTOCNode Title="DeviceException Constructor (String)" Url="html/M_Com_Datalogic_Device_DeviceException__ctor_2.htm" />
           <HelpTOCNode Title="DeviceException Constructor (String, Int32)" Url="html/M_Com_Datalogic_Device_DeviceException__ctor_3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="28f811eb-f6d1-49cf-9fed-cb368466f781" Title="DeviceException Properties" Url="html/Properties_T_Com_Datalogic_Device_DeviceException.htm">
+        <HelpTOCNode Id="1846913e-707e-4254-a8ba-04360c73763b" Title="DeviceException Properties" Url="html/Properties_T_Com_Datalogic_Device_DeviceException.htm">
           <HelpTOCNode Title="ErrorNumber Property " Url="html/P_Com_Datalogic_Device_DeviceException_ErrorNumber.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5792d6e2-747a-4a53-9093-17ea19e89c48" Title="DeviceException Fields" Url="html/Fields_T_Com_Datalogic_Device_DeviceException.htm">
+        <HelpTOCNode Id="01fa8e92-6c46-457f-ae95-23ba4456203b" Title="DeviceException Fields" Url="html/Fields_T_Com_Datalogic_Device_DeviceException.htm">
           <HelpTOCNode Title="DeviceServiceError Field" Url="html/F_Com_Datalogic_Device_DeviceException_DeviceServiceError.htm" />
           <HelpTOCNode Title="GenericError Field" Url="html/F_Com_Datalogic_Device_DeviceException_GenericError.htm" />
           <HelpTOCNode Title="InputServiceError Field" Url="html/F_Com_Datalogic_Device_DeviceException_InputServiceError.htm" />
@@ -830,32 +962,32 @@
           <HelpTOCNode Title="WakeupSourceError Field" Url="html/F_Com_Datalogic_Device_DeviceException_WakeupSourceError.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d2b7934f-493f-4712-bc02-a13e8668abc4" Title="ErrorManager Class" Url="html/T_Com_Datalogic_Device_ErrorManager.htm">
+      <HelpTOCNode Id="55dd6fc5-e460-4f3f-9f4d-432789ea3b87" Title="ErrorManager Class" Url="html/T_Com_Datalogic_Device_ErrorManager.htm">
         <HelpTOCNode Title="ErrorManager Constructor " Url="html/M_Com_Datalogic_Device_ErrorManager__ctor.htm" />
-        <HelpTOCNode Id="77768983-352a-4605-82ee-029c71e42488" Title="ErrorManager Properties" Url="html/Properties_T_Com_Datalogic_Device_ErrorManager.htm">
+        <HelpTOCNode Id="e5dda5c0-bba5-41a9-96ee-6b906f5dea42" Title="ErrorManager Properties" Url="html/Properties_T_Com_Datalogic_Device_ErrorManager.htm">
           <HelpTOCNode Title="Errors Property " Url="html/P_Com_Datalogic_Device_ErrorManager_Errors.htm" />
           <HelpTOCNode Title="LastError Property " Url="html/P_Com_Datalogic_Device_ErrorManager_LastError.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="dd4a885f-e2f1-4f92-8606-c2524d196a66" Title="ErrorManager Methods" Url="html/Methods_T_Com_Datalogic_Device_ErrorManager.htm">
+        <HelpTOCNode Id="59666dc9-2ce5-4367-965f-c359662ef9bc" Title="ErrorManager Methods" Url="html/Methods_T_Com_Datalogic_Device_ErrorManager.htm">
           <HelpTOCNode Title="AreExceptionsEnabled Method " Url="html/M_Com_Datalogic_Device_ErrorManager_AreExceptionsEnabled.htm" />
           <HelpTOCNode Title="ClearErrors Method " Url="html/M_Com_Datalogic_Device_ErrorManager_ClearErrors.htm" />
           <HelpTOCNode Title="EnableExceptions Method " Url="html/M_Com_Datalogic_Device_ErrorManager_EnableExceptions.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="424354dc-c7f0-4007-bbbf-bcf39e477220" Title="Com.Datalogic.Device.Configuration" Url="html/N_Com_Datalogic_Device_Configuration.htm">
-      <HelpTOCNode Id="77eaee4f-3a23-4ebb-99fb-55e1796fc429" Title="BooleanProperty Class" Url="html/T_Com_Datalogic_Device_Configuration_BooleanProperty.htm">
+    <HelpTOCNode Id="e90a040a-4a2e-450e-af47-b85e44e2ada7" Title="Com.Datalogic.Device.Configuration" Url="html/N_Com_Datalogic_Device_Configuration.htm">
+      <HelpTOCNode Id="8c4c52f3-dfce-4d3e-ae64-162c47d98df2" Title="BooleanProperty Class" Url="html/T_Com_Datalogic_Device_Configuration_BooleanProperty.htm">
         <HelpTOCNode Title="BooleanProperty Constructor " Url="html/M_Com_Datalogic_Device_Configuration_BooleanProperty__ctor.htm" />
         <HelpTOCNode Title="BooleanProperty Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_BooleanProperty.htm" />
         <HelpTOCNode Title="BooleanProperty Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_BooleanProperty.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="af4cac1e-b5ec-415a-b860-2fef40f69945" Title="CharacterProperty Class" Url="html/T_Com_Datalogic_Device_Configuration_CharacterProperty.htm">
+      <HelpTOCNode Id="943d4683-6471-49db-9edd-1e1c8d7f9c22" Title="CharacterProperty Class" Url="html/T_Com_Datalogic_Device_Configuration_CharacterProperty.htm">
         <HelpTOCNode Title="CharacterProperty Constructor " Url="html/M_Com_Datalogic_Device_Configuration_CharacterProperty__ctor.htm" />
         <HelpTOCNode Title="CharacterProperty Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_CharacterProperty.htm" />
         <HelpTOCNode Title="CharacterProperty Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_CharacterProperty.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a2ab4822-42a3-4bff-89de-ddcf496b2adc" Title="ConfigException Class" Url="html/T_Com_Datalogic_Device_Configuration_ConfigException.htm">
-        <HelpTOCNode Id="f9330e32-e036-471d-83f5-e53120dc4516" Title="ConfigException Constructor " Url="html/Overload_Com_Datalogic_Device_Configuration_ConfigException__ctor.htm">
+      <HelpTOCNode Id="ac30661a-12ad-468c-aead-613e4f58fd48" Title="ConfigException Class" Url="html/T_Com_Datalogic_Device_Configuration_ConfigException.htm">
+        <HelpTOCNode Id="28e2cde8-43f0-41ab-a60d-2ffb05a86a40" Title="ConfigException Constructor " Url="html/Overload_Com_Datalogic_Device_Configuration_ConfigException__ctor.htm">
           <HelpTOCNode Title="ConfigException Constructor " Url="html/M_Com_Datalogic_Device_Configuration_ConfigException__ctor.htm" />
           <HelpTOCNode Title="ConfigException Constructor (Int32)" Url="html/M_Com_Datalogic_Device_Configuration_ConfigException__ctor_2.htm" />
           <HelpTOCNode Title="ConfigException Constructor (String)" Url="html/M_Com_Datalogic_Device_Configuration_ConfigException__ctor_3.htm" />
@@ -863,12 +995,12 @@
           <HelpTOCNode Title="ConfigException Constructor (String, Int32)" Url="html/M_Com_Datalogic_Device_Configuration_ConfigException__ctor_4.htm" />
           <HelpTOCNode Title="ConfigException Constructor (String, Int32[], Int32)" Url="html/M_Com_Datalogic_Device_Configuration_ConfigException__ctor_5.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="44a58ce8-514f-41a5-8173-e36383ed6343" Title="ConfigException Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_ConfigException.htm">
+        <HelpTOCNode Id="9adface2-e2da-40b8-a1e8-639f417613d0" Title="ConfigException Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_ConfigException.htm">
           <HelpTOCNode Title="BadIdBuffer Property " Url="html/P_Com_Datalogic_Device_Configuration_ConfigException_BadIdBuffer.htm" />
           <HelpTOCNode Title="BadIdLength Property " Url="html/P_Com_Datalogic_Device_Configuration_ConfigException_BadIdLength.htm" />
           <HelpTOCNode Title="ErrorNumber Property " Url="html/P_Com_Datalogic_Device_Configuration_ConfigException_ErrorNumber.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="93680a4d-e4c2-4a8e-b9c0-dbcfd8d9d81b" Title="ConfigException Fields" Url="html/Fields_T_Com_Datalogic_Device_Configuration_ConfigException.htm">
+        <HelpTOCNode Id="0ec6fa3f-5c07-413f-a821-9428bbbdeb51" Title="ConfigException Fields" Url="html/Fields_T_Com_Datalogic_Device_Configuration_ConfigException.htm">
           <HelpTOCNode Title="BarcodeServiceError Field" Url="html/F_Com_Datalogic_Device_Configuration_ConfigException_BarcodeServiceError.htm" />
           <HelpTOCNode Title="CommitError Field" Url="html/F_Com_Datalogic_Device_Configuration_ConfigException_CommitError.htm" />
           <HelpTOCNode Title="DecoderBusyError Field" Url="html/F_Com_Datalogic_Device_Configuration_ConfigException_DecoderBusyError.htm" />
@@ -881,50 +1013,50 @@
           <HelpTOCNode Title="ValueError Field" Url="html/F_Com_Datalogic_Device_Configuration_ConfigException_ValueError.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e4507b7b-c9a8-4076-8f02-d37f0ddc9772" Title="EnumProperty Class" Url="html/T_Com_Datalogic_Device_Configuration_EnumProperty.htm">
+      <HelpTOCNode Id="11341e74-8c11-4d20-a6a8-e9b184b854d6" Title="EnumProperty Class" Url="html/T_Com_Datalogic_Device_Configuration_EnumProperty.htm">
         <HelpTOCNode Title="EnumProperty Constructor " Url="html/M_Com_Datalogic_Device_Configuration_EnumProperty__ctor.htm" />
-        <HelpTOCNode Id="129cbc5f-1fbd-42e7-b29d-77ba5b897bf2" Title="EnumProperty Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_EnumProperty.htm">
+        <HelpTOCNode Id="11b4bf7e-7145-45ac-8831-0220792f2f8b" Title="EnumProperty Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_EnumProperty.htm">
           <HelpTOCNode Title="Enum Property " Url="html/P_Com_Datalogic_Device_Configuration_EnumProperty_Enum.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="EnumProperty Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_EnumProperty.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="8541646e-cc4a-470d-bf02-359399c6ca5a" Title="IPropertyEditor Interface" Url="html/T_Com_Datalogic_Device_Configuration_IPropertyEditor.htm">
-        <HelpTOCNode Id="aee6ea47-9d1b-498d-b6b9-d980ffeca2f1" Title="IPropertyEditor Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_IPropertyEditor.htm">
+      <HelpTOCNode Id="7972ca2c-50d3-45c0-adbd-fadddab99148" Title="IPropertyEditor Interface" Url="html/T_Com_Datalogic_Device_Configuration_IPropertyEditor.htm">
+        <HelpTOCNode Id="fe47e248-405c-4306-b369-b3e372558182" Title="IPropertyEditor Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_IPropertyEditor.htm">
           <HelpTOCNode Title="CommitProperties Method " Url="html/M_Com_Datalogic_Device_Configuration_IPropertyEditor_CommitProperties.htm" />
           <HelpTOCNode Title="SetPropertyInts Method " Url="html/M_Com_Datalogic_Device_Configuration_IPropertyEditor_SetPropertyInts.htm" />
           <HelpTOCNode Title="SetPropertyStrings Method " Url="html/M_Com_Datalogic_Device_Configuration_IPropertyEditor_SetPropertyStrings.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8078b4d1-f4d4-4fd9-8abc-200b4a2865a6" Title="IPropertyGetter Interface" Url="html/T_Com_Datalogic_Device_Configuration_IPropertyGetter.htm">
-        <HelpTOCNode Id="dd5a1fb1-7c13-4876-9db2-711212e2fc19" Title="IPropertyGetter Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_IPropertyGetter.htm">
+      <HelpTOCNode Id="4cf23686-3def-4ec5-b3b8-fad44de039cf" Title="IPropertyGetter Interface" Url="html/T_Com_Datalogic_Device_Configuration_IPropertyGetter.htm">
+        <HelpTOCNode Id="f68612b7-b95f-477e-9b0d-92157c4488f5" Title="IPropertyGetter Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_IPropertyGetter.htm">
           <HelpTOCNode Title="GetPropertyAvailability Method " Url="html/M_Com_Datalogic_Device_Configuration_IPropertyGetter_GetPropertyAvailability.htm" />
           <HelpTOCNode Title="GetPropertyInts Method " Url="html/M_Com_Datalogic_Device_Configuration_IPropertyGetter_GetPropertyInts.htm" />
           <HelpTOCNode Title="GetPropertyRanges Method " Url="html/M_Com_Datalogic_Device_Configuration_IPropertyGetter_GetPropertyRanges.htm" />
           <HelpTOCNode Title="GetPropertyStrings Method " Url="html/M_Com_Datalogic_Device_Configuration_IPropertyGetter_GetPropertyStrings.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b8051a53-cdcb-4e20-ab45-a87fdc7bf998" Title="NumericProperty Class" Url="html/T_Com_Datalogic_Device_Configuration_NumericProperty.htm">
-        <HelpTOCNode Id="cda3f805-5765-44bb-a203-8662f215f30b" Title="NumericProperty Constructor " Url="html/Overload_Com_Datalogic_Device_Configuration_NumericProperty__ctor.htm">
+      <HelpTOCNode Id="3bd12f73-9326-404f-a48c-256ed2531c58" Title="NumericProperty Class" Url="html/T_Com_Datalogic_Device_Configuration_NumericProperty.htm">
+        <HelpTOCNode Id="5a8cc31a-5c4f-47f2-8b18-dfd9590b1f75" Title="NumericProperty Constructor " Url="html/Overload_Com_Datalogic_Device_Configuration_NumericProperty__ctor.htm">
           <HelpTOCNode Title="NumericProperty Constructor (Int32)" Url="html/M_Com_Datalogic_Device_Configuration_NumericProperty__ctor.htm" />
           <HelpTOCNode Title="NumericProperty Constructor (Int32, Int32, Int32)" Url="html/M_Com_Datalogic_Device_Configuration_NumericProperty__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3283c704-b736-41aa-aae6-4b63873e829c" Title="NumericProperty Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_NumericProperty.htm">
+        <HelpTOCNode Id="ac1d3e6f-b6ee-43e3-873a-d77f847bb4e6" Title="NumericProperty Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_NumericProperty.htm">
           <HelpTOCNode Title="Max Property " Url="html/P_Com_Datalogic_Device_Configuration_NumericProperty_Max.htm" />
           <HelpTOCNode Title="Min Property " Url="html/P_Com_Datalogic_Device_Configuration_NumericProperty_Min.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2c25f705-6f96-42d7-a758-3f2933c85cb1" Title="NumericProperty Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_NumericProperty.htm">
-          <HelpTOCNode Id="46b77d26-10eb-4dcc-bdf8-f07e20dacc7b" Title="Set Method " Url="html/Overload_Com_Datalogic_Device_Configuration_NumericProperty_Set.htm">
+        <HelpTOCNode Id="b8e8eaaa-08ac-4b49-8ed8-9d966a94d00d" Title="NumericProperty Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_NumericProperty.htm">
+          <HelpTOCNode Id="e7a0ecb7-d283-40fc-9783-764cecb85d8f" Title="Set Method " Url="html/Overload_Com_Datalogic_Device_Configuration_NumericProperty_Set.htm">
             <HelpTOCNode Title="Set Method (Integer)" Url="html/M_Com_Datalogic_Device_Configuration_NumericProperty_Set.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4fbae4c0-d21d-4646-8315-bfc08fdce003" Title="Property Class" Url="html/T_Com_Datalogic_Device_Configuration_Property.htm">
+      <HelpTOCNode Id="537d98bd-2b85-4a10-9104-49bd451249bb" Title="Property Class" Url="html/T_Com_Datalogic_Device_Configuration_Property.htm">
         <HelpTOCNode Title="Property Constructor " Url="html/M_Com_Datalogic_Device_Configuration_Property__ctor.htm" />
-        <HelpTOCNode Id="86c9dd1b-cd21-401b-a759-b4354606290c" Title="Property Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_Property.htm">
+        <HelpTOCNode Id="58b9f9b6-2276-4cdc-9d99-d662882ac912" Title="Property Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_Property.htm">
           <HelpTOCNode Title="Id Property " Url="html/P_Com_Datalogic_Device_Configuration_Property_Id.htm" />
           <HelpTOCNode Title="IsSupported Property " Url="html/P_Com_Datalogic_Device_Configuration_Property_IsSupported.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="1585e801-d5f5-4824-8362-29e1d72676e1" Title="Property Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_Property.htm">
+        <HelpTOCNode Id="ddbf3c9e-f2ef-4bd4-8d16-4622dc2938ad" Title="Property Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_Property.htm">
           <HelpTOCNode Title="FindPropertybyId Method " Url="html/M_Com_Datalogic_Device_Configuration_Property_FindPropertybyId.htm" />
           <HelpTOCNode Title="Get Method " Url="html/M_Com_Datalogic_Device_Configuration_Property_Get.htm" />
           <HelpTOCNode Title="Load Method " Url="html/M_Com_Datalogic_Device_Configuration_Property_Load.htm" />
@@ -934,39 +1066,39 @@
           <HelpTOCNode Title="Storelist Method " Url="html/M_Com_Datalogic_Device_Configuration_Property_Storelist.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4ac2d071-525a-4da9-b170-78ec9d9413d4" Title="PropertyGroup Class" Url="html/T_Com_Datalogic_Device_Configuration_PropertyGroup.htm">
-        <HelpTOCNode Id="96d7786d-bf3a-42f6-b77a-45dca21e4290" Title="PropertyGroup Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_PropertyGroup.htm">
+      <HelpTOCNode Id="87120404-dbff-4bbc-ae60-6159e6443f99" Title="PropertyGroup Class" Url="html/T_Com_Datalogic_Device_Configuration_PropertyGroup.htm">
+        <HelpTOCNode Id="fb605383-c94e-43dc-beb1-90b356d3b3d6" Title="PropertyGroup Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_PropertyGroup.htm">
           <HelpTOCNode Title="Groups Property " Url="html/P_Com_Datalogic_Device_Configuration_PropertyGroup_Groups.htm" />
           <HelpTOCNode Title="IsFullySupported Property " Url="html/P_Com_Datalogic_Device_Configuration_PropertyGroup_IsFullySupported.htm" />
           <HelpTOCNode Title="IsSupported Property " Url="html/P_Com_Datalogic_Device_Configuration_PropertyGroup_IsSupported.htm" />
           <HelpTOCNode Title="Properties Property " Url="html/P_Com_Datalogic_Device_Configuration_PropertyGroup_Properties.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="06170945-5fb7-4c4c-ab86-8f2d54afeb69" Title="PropertyGroup Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_PropertyGroup.htm">
+        <HelpTOCNode Id="9d580c66-22d2-458a-8444-53a76031e185" Title="PropertyGroup Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_PropertyGroup.htm">
           <HelpTOCNode Title="Load Method " Url="html/M_Com_Datalogic_Device_Configuration_PropertyGroup_Load.htm" />
           <HelpTOCNode Title="Store Method " Url="html/M_Com_Datalogic_Device_Configuration_PropertyGroup_Store.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="06f369a3-ad16-476f-bf4b-0c5f90471f97" Title="TextProperty Class" Url="html/T_Com_Datalogic_Device_Configuration_TextProperty.htm">
+      <HelpTOCNode Id="856cf458-5659-428b-8d37-db40cb8d83f5" Title="TextProperty Class" Url="html/T_Com_Datalogic_Device_Configuration_TextProperty.htm">
         <HelpTOCNode Title="TextProperty Constructor " Url="html/M_Com_Datalogic_Device_Configuration_TextProperty__ctor.htm" />
         <HelpTOCNode Title="TextProperty Properties" Url="html/Properties_T_Com_Datalogic_Device_Configuration_TextProperty.htm" />
         <HelpTOCNode Title="TextProperty Methods" Url="html/Methods_T_Com_Datalogic_Device_Configuration_TextProperty.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="91524f85-4d19-416d-8c73-9412951bd699" Title="Com.Datalogic.Device.Info" Url="html/N_Com_Datalogic_Device_Info.htm">
-      <HelpTOCNode Id="a45378d9-0550-4300-85f6-aa0af19a48fe" Title="BarcodeScannerType Class" Url="html/T_Com_Datalogic_Device_Info_BarcodeScannerType.htm">
-        <HelpTOCNode Id="7a1bff7a-ac08-471c-b269-4bda6068ad72" Title="BarcodeScannerType Properties" Url="html/Properties_T_Com_Datalogic_Device_Info_BarcodeScannerType.htm">
+    <HelpTOCNode Id="f0f9d330-b37e-4ede-90b3-aca9ae08d822" Title="Com.Datalogic.Device.Info" Url="html/N_Com_Datalogic_Device_Info.htm">
+      <HelpTOCNode Id="d66d3c5e-89a9-4ca3-a280-f4e8ffe7d368" Title="BarcodeScannerType Class" Url="html/T_Com_Datalogic_Device_Info_BarcodeScannerType.htm">
+        <HelpTOCNode Id="c7287d8d-4d19-4501-9486-c4eb9d9bb969" Title="BarcodeScannerType Properties" Url="html/Properties_T_Com_Datalogic_Device_Info_BarcodeScannerType.htm">
           <HelpTOCNode Title="None Property " Url="html/P_Com_Datalogic_Device_Info_BarcodeScannerType_None.htm" />
           <HelpTOCNode Title="OneDimensionalReader Property " Url="html/P_Com_Datalogic_Device_Info_BarcodeScannerType_OneDimensionalReader.htm" />
           <HelpTOCNode Title="TwoDimensionalReader Property " Url="html/P_Com_Datalogic_Device_Info_BarcodeScannerType_TwoDimensionalReader.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ba11b7a6-962a-45b4-a4d1-1bccc9d36685" Title="BarcodeScannerType Methods" Url="html/Methods_T_Com_Datalogic_Device_Info_BarcodeScannerType.htm">
+        <HelpTOCNode Id="9c89964b-9401-4976-a19a-cb8c5b72e735" Title="BarcodeScannerType Methods" Url="html/Methods_T_Com_Datalogic_Device_Info_BarcodeScannerType.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Device_Info_BarcodeScannerType_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Device_Info_BarcodeScannerType_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f3c262e7-a9e7-4171-baeb-7dc81a3f48c1" Title="BatteryInfo Class" Url="html/T_Com_Datalogic_Device_Info_BatteryInfo.htm">
+      <HelpTOCNode Id="08435e33-0708-42db-ae35-c330a13635e6" Title="BatteryInfo Class" Url="html/T_Com_Datalogic_Device_Info_BatteryInfo.htm">
         <HelpTOCNode Title="BatteryInfo Constructor " Url="html/M_Com_Datalogic_Device_Info_BatteryInfo__ctor.htm" />
-        <HelpTOCNode Id="846ff058-147f-48fd-8f91-74fd0cf6648d" Title="BatteryInfo Properties" Url="html/Properties_T_Com_Datalogic_Device_Info_BatteryInfo.htm">
+        <HelpTOCNode Id="6e99758c-b3ae-4588-911c-71ce24d01ddb" Title="BatteryInfo Properties" Url="html/Properties_T_Com_Datalogic_Device_Info_BatteryInfo.htm">
           <HelpTOCNode Title="Capacity Property " Url="html/P_Com_Datalogic_Device_Info_BatteryInfo_Capacity.htm" />
           <HelpTOCNode Title="Manufacturer Property " Url="html/P_Com_Datalogic_Device_Info_BatteryInfo_Manufacturer.htm" />
           <HelpTOCNode Title="SerialNumber Property " Url="html/P_Com_Datalogic_Device_Info_BatteryInfo_SerialNumber.htm" />
@@ -974,8 +1106,8 @@
           <HelpTOCNode Title="Year Property " Url="html/P_Com_Datalogic_Device_Info_BatteryInfo_Year.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ac5d06de-db60-4db3-b823-50cd8ab16175" Title="KeyboardType Class" Url="html/T_Com_Datalogic_Device_Info_KeyboardType.htm">
-        <HelpTOCNode Id="c5e1ee33-1598-4c28-b8bc-23d498c82242" Title="KeyboardType Properties" Url="html/Properties_T_Com_Datalogic_Device_Info_KeyboardType.htm">
+      <HelpTOCNode Id="ca408b72-9467-459a-be53-3f512eef0e75" Title="KeyboardType Class" Url="html/T_Com_Datalogic_Device_Info_KeyboardType.htm">
+        <HelpTOCNode Id="75d4bc32-eb8d-4a50-9b6e-b6b8d32e5f17" Title="KeyboardType Properties" Url="html/Properties_T_Com_Datalogic_Device_Info_KeyboardType.htm">
           <HelpTOCNode Title="AlphaNumeric Property " Url="html/P_Com_Datalogic_Device_Info_KeyboardType_AlphaNumeric.htm" />
           <HelpTOCNode Title="EBusiness Property " Url="html/P_Com_Datalogic_Device_Info_KeyboardType_EBusiness.htm" />
           <HelpTOCNode Title="FullAlphaNumeric Property " Url="html/P_Com_Datalogic_Device_Info_KeyboardType_FullAlphaNumeric.htm" />
@@ -983,14 +1115,14 @@
           <HelpTOCNode Title="Numeric Property " Url="html/P_Com_Datalogic_Device_Info_KeyboardType_Numeric.htm" />
           <HelpTOCNode Title="Qwerty Property " Url="html/P_Com_Datalogic_Device_Info_KeyboardType_Qwerty.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="331eb984-d3d3-42f6-bb51-abf73822340e" Title="KeyboardType Methods" Url="html/Methods_T_Com_Datalogic_Device_Info_KeyboardType.htm">
+        <HelpTOCNode Id="3ec25a60-f2f5-47ce-b040-6954380446b9" Title="KeyboardType Methods" Url="html/Methods_T_Com_Datalogic_Device_Info_KeyboardType.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Device_Info_KeyboardType_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Device_Info_KeyboardType_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f04d61c6-fe97-43c2-baab-10db7d8733a4" Title="SYSTEM Class" Url="html/T_Com_Datalogic_Device_Info_SYSTEM.htm">
+      <HelpTOCNode Id="7ced76b7-a2b0-4191-bb33-9ca7b6ba119c" Title="SYSTEM Class" Url="html/T_Com_Datalogic_Device_Info_SYSTEM.htm">
         <HelpTOCNode Title="SYSTEM Constructor " Url="html/M_Com_Datalogic_Device_Info_SYSTEM__ctor.htm" />
-        <HelpTOCNode Id="cb9231b5-6e4b-4c4a-9eaf-21bb6ca18796" Title="SYSTEM Properties" Url="html/Properties_T_Com_Datalogic_Device_Info_SYSTEM.htm">
+        <HelpTOCNode Id="6a5e8ca8-1014-4e88-bcf3-c7edd88e2d46" Title="SYSTEM Properties" Url="html/Properties_T_Com_Datalogic_Device_Info_SYSTEM.htm">
           <HelpTOCNode Title="BarcodeScannerType Property " Url="html/P_Com_Datalogic_Device_Info_SYSTEM_BarcodeScannerType.htm" />
           <HelpTOCNode Title="BatteryInfo Property " Url="html/P_Com_Datalogic_Device_Info_SYSTEM_BatteryInfo.htm" />
           <HelpTOCNode Title="BootType Property " Url="html/P_Com_Datalogic_Device_Info_SYSTEM_BootType.htm" />
@@ -1003,14 +1135,14 @@
           <HelpTOCNode Title="Versions Property " Url="html/P_Com_Datalogic_Device_Info_SYSTEM_Versions.htm" />
           <HelpTOCNode Title="WifiType Property " Url="html/P_Com_Datalogic_Device_Info_SYSTEM_WifiType.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="22b42a78-43b2-4dd6-a6a2-4fb0a78de45a" Title="SYSTEM Fields" Url="html/Fields_T_Com_Datalogic_Device_Info_SYSTEM.htm">
+        <HelpTOCNode Id="aafc0142-b1fa-443e-85e3-d134b58cc09a" Title="SYSTEM Fields" Url="html/Fields_T_Com_Datalogic_Device_Info_SYSTEM.htm">
           <HelpTOCNode Title="SdkVersion Field" Url="html/F_Com_Datalogic_Device_Info_SYSTEM_SdkVersion.htm" />
           <HelpTOCNode Title="SdkVersionInt Field" Url="html/F_Com_Datalogic_Device_Info_SYSTEM_SdkVersionInt.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="33ef5687-36cc-474a-b152-ed2a33c30c35" Title="SYSTEM.Version Class" Url="html/T_Com_Datalogic_Device_Info_SYSTEM_Version.htm">
+      <HelpTOCNode Id="bb6d45c9-5803-48b3-b269-894f63a79ad0" Title="SYSTEM.Version Class" Url="html/T_Com_Datalogic_Device_Info_SYSTEM_Version.htm">
         <HelpTOCNode Title="SYSTEM.Version Constructor " Url="html/M_Com_Datalogic_Device_Info_SYSTEM_Version__ctor.htm" />
-        <HelpTOCNode Id="4387b5bd-6653-4ead-8bba-7cf851d7854a" Title="Version Fields" Url="html/Fields_T_Com_Datalogic_Device_Info_SYSTEM_Version.htm">
+        <HelpTOCNode Id="f39fc78f-a475-4305-9721-09c0de703b7f" Title="Version Fields" Url="html/Fields_T_Com_Datalogic_Device_Info_SYSTEM_Version.htm">
           <HelpTOCNode Title="ActionDeviceInfo Field" Url="html/F_Com_Datalogic_Device_Info_SYSTEM_Version_ActionDeviceInfo.htm" />
           <HelpTOCNode Title="ExtraDeviceId Field" Url="html/F_Com_Datalogic_Device_Info_SYSTEM_Version_ExtraDeviceId.htm" />
           <HelpTOCNode Title="ExtraDeviceName Field" Url="html/F_Com_Datalogic_Device_Info_SYSTEM_Version_ExtraDeviceName.htm" />
@@ -1022,56 +1154,56 @@
           <HelpTOCNode Title="SdkVersionMinor Field" Url="html/F_Com_Datalogic_Device_Info_SYSTEM_Version_SdkVersionMinor.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8bbba58a-86be-4ef7-a545-bb0d3dcf4f9e" Title="WiFiType Class" Url="html/T_Com_Datalogic_Device_Info_WiFiType.htm">
-        <HelpTOCNode Id="89f5e2c6-b769-4daf-a2d0-220abe1459ea" Title="WiFiType Properties" Url="html/Properties_T_Com_Datalogic_Device_Info_WiFiType.htm">
+      <HelpTOCNode Id="512812e5-e66d-4705-b28c-7b483f27ca61" Title="WiFiType Class" Url="html/T_Com_Datalogic_Device_Info_WiFiType.htm">
+        <HelpTOCNode Id="dd448bc6-3d66-4afe-be19-152632802bf0" Title="WiFiType Properties" Url="html/Properties_T_Com_Datalogic_Device_Info_WiFiType.htm">
           <HelpTOCNode Title="Abg Property " Url="html/P_Com_Datalogic_Device_Info_WiFiType_Abg.htm" />
           <HelpTOCNode Title="Abgn Property " Url="html/P_Com_Datalogic_Device_Info_WiFiType_Abgn.htm" />
           <HelpTOCNode Title="Bg Property " Url="html/P_Com_Datalogic_Device_Info_WiFiType_Bg.htm" />
           <HelpTOCNode Title="Bgn Property " Url="html/P_Com_Datalogic_Device_Info_WiFiType_Bgn.htm" />
           <HelpTOCNode Title="None Property " Url="html/P_Com_Datalogic_Device_Info_WiFiType_None.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="140d0ff2-833d-4e94-83a6-6d2e3a3c3f52" Title="WiFiType Methods" Url="html/Methods_T_Com_Datalogic_Device_Info_WiFiType.htm">
+        <HelpTOCNode Id="d36fc816-6a2a-43b3-8739-84ee7f2ab0a1" Title="WiFiType Methods" Url="html/Methods_T_Com_Datalogic_Device_Info_WiFiType.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Device_Info_WiFiType_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Device_Info_WiFiType_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="cac55c46-e7f1-4438-aaf9-2d3815c14020" Title="Com.Datalogic.Device.Input" Url="html/N_Com_Datalogic_Device_Input.htm">
-      <HelpTOCNode Id="aad5ff6e-5112-4494-830a-7dd766e21114" Title="AutoScanTriggerRange Class" Url="html/T_Com_Datalogic_Device_Input_AutoScanTriggerRange.htm">
-        <HelpTOCNode Id="f1ce5d40-48d8-4690-b2c4-17292ae78ecc" Title="AutoScanTriggerRange Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_AutoScanTriggerRange.htm">
+    <HelpTOCNode Id="86a9ed51-e438-4ead-9cd8-0832fd6f5087" Title="Com.Datalogic.Device.Input" Url="html/N_Com_Datalogic_Device_Input.htm">
+      <HelpTOCNode Id="1d7f10e7-a7ab-4e83-90a8-a2eac2945938" Title="AutoScanTriggerRange Class" Url="html/T_Com_Datalogic_Device_Input_AutoScanTriggerRange.htm">
+        <HelpTOCNode Id="200d16d1-2a8b-4fdf-be5f-d91a35bce63a" Title="AutoScanTriggerRange Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_AutoScanTriggerRange.htm">
           <HelpTOCNode Title="Id Property " Url="html/P_Com_Datalogic_Device_Input_AutoScanTriggerRange_Id.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_Com_Datalogic_Device_Input_AutoScanTriggerRange_Name.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="541d8ca9-6ae2-4f2c-b80b-701a40935c2f" Title="IAutoScanTrigger Interface" Url="html/T_Com_Datalogic_Device_Input_IAutoScanTrigger.htm">
-        <HelpTOCNode Id="b4ff9c65-9f5c-4886-ba66-6acf28e94d50" Title="IAutoScanTrigger Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_IAutoScanTrigger.htm">
+      <HelpTOCNode Id="17223100-f4bd-43d1-82fd-c6d0f244551f" Title="IAutoScanTrigger Interface" Url="html/T_Com_Datalogic_Device_Input_IAutoScanTrigger.htm">
+        <HelpTOCNode Id="893a931d-5aa9-45aa-8874-101fee70a00c" Title="IAutoScanTrigger Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_IAutoScanTrigger.htm">
           <HelpTOCNode Title="SupportedRanges Property " Url="html/P_Com_Datalogic_Device_Input_IAutoScanTrigger_SupportedRanges.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d63817d8-6a84-4261-bd67-f1baee30c722" Title="IAutoScanTrigger Methods" Url="html/Methods_T_Com_Datalogic_Device_Input_IAutoScanTrigger.htm">
+        <HelpTOCNode Id="f3e5ce67-aba2-49d9-9ccb-400316c5ceae" Title="IAutoScanTrigger Methods" Url="html/Methods_T_Com_Datalogic_Device_Input_IAutoScanTrigger.htm">
           <HelpTOCNode Title="SetCurrentRange Method " Url="html/M_Com_Datalogic_Device_Input_IAutoScanTrigger_SetCurrentRange.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="726b14ad-eca0-4a71-b63e-102f81ac224b" Title="ITrigger Interface" Url="html/T_Com_Datalogic_Device_Input_ITrigger.htm">
-        <HelpTOCNode Id="20a2e9d0-abc9-4b2c-9864-b3bed5d1ca2f" Title="ITrigger Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_ITrigger.htm">
+      <HelpTOCNode Id="13332fa4-fdbf-4506-96e2-bce8c87ab558" Title="ITrigger Interface" Url="html/T_Com_Datalogic_Device_Input_ITrigger.htm">
+        <HelpTOCNode Id="30fed309-0056-47ce-a81e-66ee0aaf9932" Title="ITrigger Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_ITrigger.htm">
           <HelpTOCNode Title="Id Property " Url="html/P_Com_Datalogic_Device_Input_ITrigger_Id.htm" />
           <HelpTOCNode Title="IsEnabled Property " Url="html/P_Com_Datalogic_Device_Input_ITrigger_IsEnabled.htm" />
           <HelpTOCNode Title="Name Property " Url="html/P_Com_Datalogic_Device_Input_ITrigger_Name.htm" />
           <HelpTOCNode Title="ScanCode Property " Url="html/P_Com_Datalogic_Device_Input_ITrigger_ScanCode.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e5d59c39-5a2e-4484-bdb1-620cf940050b" Title="ITrigger Methods" Url="html/Methods_T_Com_Datalogic_Device_Input_ITrigger.htm">
+        <HelpTOCNode Id="76306a31-d4aa-4088-a876-30048a00c6e3" Title="ITrigger Methods" Url="html/Methods_T_Com_Datalogic_Device_Input_ITrigger.htm">
           <HelpTOCNode Title="SetEnabled Method " Url="html/M_Com_Datalogic_Device_Input_ITrigger_SetEnabled.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="6580fdd8-2622-4fdc-a674-32c9aa71d348" Title="KeyboardManager Class" Url="html/T_Com_Datalogic_Device_Input_KeyboardManager.htm">
+      <HelpTOCNode Id="d329ebc9-2d17-4e8d-95bb-ace6444f7aca" Title="KeyboardManager Class" Url="html/T_Com_Datalogic_Device_Input_KeyboardManager.htm">
         <HelpTOCNode Title="KeyboardManager Constructor " Url="html/M_Com_Datalogic_Device_Input_KeyboardManager__ctor.htm" />
-        <HelpTOCNode Id="c76fb5e9-b228-4d16-b9f3-149627dd3fa8" Title="KeyboardManager Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_KeyboardManager.htm">
+        <HelpTOCNode Id="27d32e20-3a1b-4f58-930f-0a8590ff2e19" Title="KeyboardManager Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_KeyboardManager.htm">
           <HelpTOCNode Title="AvailableTriggers Property " Url="html/P_Com_Datalogic_Device_Input_KeyboardManager_AvailableTriggers.htm" />
           <HelpTOCNode Title="IsInputLocked Property " Url="html/P_Com_Datalogic_Device_Input_KeyboardManager_IsInputLocked.htm" />
           <HelpTOCNode Title="MappedIntents Property " Url="html/P_Com_Datalogic_Device_Input_KeyboardManager_MappedIntents.htm" />
           <HelpTOCNode Title="MappedKeyCodes Property " Url="html/P_Com_Datalogic_Device_Input_KeyboardManager_MappedKeyCodes.htm" />
           <HelpTOCNode Title="MappedUnicodes Property " Url="html/P_Com_Datalogic_Device_Input_KeyboardManager_MappedUnicodes.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0f2ec4e9-e036-4527-83d2-2fd1305975d0" Title="KeyboardManager Methods" Url="html/Methods_T_Com_Datalogic_Device_Input_KeyboardManager.htm">
+        <HelpTOCNode Id="9a55c12d-7d54-4af6-b35d-6a6d93c18e67" Title="KeyboardManager Methods" Url="html/Methods_T_Com_Datalogic_Device_Input_KeyboardManager.htm">
           <HelpTOCNode Title="ClearAllMappings Method " Url="html/M_Com_Datalogic_Device_Input_KeyboardManager_ClearAllMappings.htm" />
           <HelpTOCNode Title="ClearMapping Method " Url="html/M_Com_Datalogic_Device_Input_KeyboardManager_ClearMapping.htm" />
           <HelpTOCNode Title="DisableKey Method " Url="html/M_Com_Datalogic_Device_Input_KeyboardManager_DisableKey.htm" />
@@ -1085,7 +1217,7 @@
           <HelpTOCNode Title="MapKeyCode Method " Url="html/M_Com_Datalogic_Device_Input_KeyboardManager_MapKeyCode.htm" />
           <HelpTOCNode Title="MapUnicode Method " Url="html/M_Com_Datalogic_Device_Input_KeyboardManager_MapUnicode.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8d240a1c-631d-4116-8fd1-57250489d8dc" Title="KeyboardManager Fields" Url="html/Fields_T_Com_Datalogic_Device_Input_KeyboardManager.htm">
+        <HelpTOCNode Id="669c1099-232f-43e8-869d-a5d991da22b0" Title="KeyboardManager Fields" Url="html/Fields_T_Com_Datalogic_Device_Input_KeyboardManager.htm">
           <HelpTOCNode Title="TriggerIdAutoscan Field" Url="html/F_Com_Datalogic_Device_Input_KeyboardManager_TriggerIdAutoscan.htm" />
           <HelpTOCNode Title="TriggerIdFront Field" Url="html/F_Com_Datalogic_Device_Input_KeyboardManager_TriggerIdFront.htm" />
           <HelpTOCNode Title="TriggerIdLeft Field" Url="html/F_Com_Datalogic_Device_Input_KeyboardManager_TriggerIdLeft.htm" />
@@ -1093,9 +1225,9 @@
           <HelpTOCNode Title="TriggerIdRight Field" Url="html/F_Com_Datalogic_Device_Input_KeyboardManager_TriggerIdRight.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="27d8266d-180e-48f1-972d-a105e88ab400" Title="KeyboardManager.VScanCode Class" Url="html/T_Com_Datalogic_Device_Input_KeyboardManager_VScanCode.htm">
+      <HelpTOCNode Id="572860a3-a294-4928-a06f-87d9d3a8f57e" Title="KeyboardManager.VScanCode Class" Url="html/T_Com_Datalogic_Device_Input_KeyboardManager_VScanCode.htm">
         <HelpTOCNode Title="KeyboardManager.VScanCode Constructor " Url="html/M_Com_Datalogic_Device_Input_KeyboardManager_VScanCode__ctor.htm" />
-        <HelpTOCNode Id="6c6c9431-149c-466d-aa6b-ad5288fcf885" Title="VScanCode Fields" Url="html/Fields_T_Com_Datalogic_Device_Input_KeyboardManager_VScanCode.htm">
+        <HelpTOCNode Id="7b2c40bc-9144-4790-b7b4-1db4516633c8" Title="VScanCode Fields" Url="html/Fields_T_Com_Datalogic_Device_Input_KeyboardManager_VScanCode.htm">
           <HelpTOCNode Title="Vscan0 Field" Url="html/F_Com_Datalogic_Device_Input_KeyboardManager_VScanCode_Vscan0.htm" />
           <HelpTOCNode Title="Vscan1 Field" Url="html/F_Com_Datalogic_Device_Input_KeyboardManager_VScanCode_Vscan1.htm" />
           <HelpTOCNode Title="Vscan102nd Field" Url="html/F_Com_Datalogic_Device_Input_KeyboardManager_VScanCode_Vscan102nd.htm" />
@@ -1550,93 +1682,93 @@
           <HelpTOCNode Title="VscanZoomreset Field" Url="html/F_Com_Datalogic_Device_Input_KeyboardManager_VScanCode_VscanZoomreset.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b5afa300-261c-441f-9594-283a3f6e1503" Title="KeyCodeEntry Class" Url="html/T_Com_Datalogic_Device_Input_KeyCodeEntry.htm">
-        <HelpTOCNode Id="c813bc06-b975-464f-b9d3-9dcc62062634" Title="KeyCodeEntry Constructor " Url="html/Overload_Com_Datalogic_Device_Input_KeyCodeEntry__ctor.htm">
+      <HelpTOCNode Id="2b307d77-fcf2-4a88-8059-593d313f7971" Title="KeyCodeEntry Class" Url="html/T_Com_Datalogic_Device_Input_KeyCodeEntry.htm">
+        <HelpTOCNode Id="e9736fb3-16eb-46d5-bbfd-40830215816f" Title="KeyCodeEntry Constructor " Url="html/Overload_Com_Datalogic_Device_Input_KeyCodeEntry__ctor.htm">
           <HelpTOCNode Title="KeyCodeEntry Constructor (Int32)" Url="html/M_Com_Datalogic_Device_Input_KeyCodeEntry__ctor.htm" />
           <HelpTOCNode Title="KeyCodeEntry Constructor (Int32, Int32)" Url="html/M_Com_Datalogic_Device_Input_KeyCodeEntry__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d719e903-6877-430f-885e-122d226385f5" Title="KeyCodeEntry Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_KeyCodeEntry.htm">
+        <HelpTOCNode Id="60b859de-1c3c-4bf3-8c6a-9449398b14bf" Title="KeyCodeEntry Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_KeyCodeEntry.htm">
           <HelpTOCNode Title="KeyCode Property " Url="html/P_Com_Datalogic_Device_Input_KeyCodeEntry_KeyCode.htm" />
           <HelpTOCNode Title="MetaState Property " Url="html/P_Com_Datalogic_Device_Input_KeyCodeEntry_MetaState.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="df9a229d-acbf-4a1f-b95b-2a5c05a22a14" Title="TouchManager Class" Url="html/T_Com_Datalogic_Device_Input_TouchManager.htm">
+      <HelpTOCNode Id="1ecb14ab-1016-4500-a286-a4167afde5e1" Title="TouchManager Class" Url="html/T_Com_Datalogic_Device_Input_TouchManager.htm">
         <HelpTOCNode Title="TouchManager Constructor " Url="html/M_Com_Datalogic_Device_Input_TouchManager__ctor.htm" />
-        <HelpTOCNode Id="4c73a608-4389-43af-8fba-a81e0a1ab3fb" Title="TouchManager Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_TouchManager.htm">
+        <HelpTOCNode Id="12f9e29f-a5ae-49ef-8945-b2a238bb80de" Title="TouchManager Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_TouchManager.htm">
           <HelpTOCNode Title="IsInputLocked Property " Url="html/P_Com_Datalogic_Device_Input_TouchManager_IsInputLocked.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="9ede776d-f715-45e4-9592-82118b299bd0" Title="TouchManager Methods" Url="html/Methods_T_Com_Datalogic_Device_Input_TouchManager.htm">
+        <HelpTOCNode Id="84f93790-4055-43b7-8aa9-54657edd1234" Title="TouchManager Methods" Url="html/Methods_T_Com_Datalogic_Device_Input_TouchManager.htm">
           <HelpTOCNode Title="LockInput Method " Url="html/M_Com_Datalogic_Device_Input_TouchManager_LockInput.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b1ee32c6-5855-446d-a7dc-c4a9937d5320" Title="VScanEntry Class" Url="html/T_Com_Datalogic_Device_Input_VScanEntry.htm">
+      <HelpTOCNode Id="6ed3b5cc-b162-43dd-a78a-8ccf8d374500" Title="VScanEntry Class" Url="html/T_Com_Datalogic_Device_Input_VScanEntry.htm">
         <HelpTOCNode Title="VScanEntry Constructor " Url="html/M_Com_Datalogic_Device_Input_VScanEntry__ctor.htm" />
-        <HelpTOCNode Id="e314b459-6735-4955-a5ad-ec6155123ee2" Title="VScanEntry Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_VScanEntry.htm">
+        <HelpTOCNode Id="59d26d8b-0207-4ba1-a0fb-8381f650e69a" Title="VScanEntry Properties" Url="html/Properties_T_Com_Datalogic_Device_Input_VScanEntry.htm">
           <HelpTOCNode Title="VScanCode Property " Url="html/P_Com_Datalogic_Device_Input_VScanEntry_VScanCode.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="51e99070-7669-4b4c-8deb-a891a4038ea0" Title="Com.Datalogic.Device.Location" Url="html/N_Com_Datalogic_Device_Location.htm">
-      <HelpTOCNode Id="72b59705-993c-40e2-91ec-07c67ad55c0f" Title="LocationManager Class" Url="html/T_Com_Datalogic_Device_Location_LocationManager.htm">
+    <HelpTOCNode Id="5deb284e-909d-4a4f-a2e6-806baab40b24" Title="Com.Datalogic.Device.Location" Url="html/N_Com_Datalogic_Device_Location.htm">
+      <HelpTOCNode Id="326b92a4-d6e9-422f-a1ad-c9a80176a356" Title="LocationManager Class" Url="html/T_Com_Datalogic_Device_Location_LocationManager.htm">
         <HelpTOCNode Title="LocationManager Constructor " Url="html/M_Com_Datalogic_Device_Location_LocationManager__ctor.htm" />
-        <HelpTOCNode Id="8c010e1b-afd7-4f21-b8d7-176abd831fa9" Title="LocationManager Methods" Url="html/Methods_T_Com_Datalogic_Device_Location_LocationManager.htm">
+        <HelpTOCNode Id="10418dd5-5bcb-43ef-8026-d6e0a1f45046" Title="LocationManager Methods" Url="html/Methods_T_Com_Datalogic_Device_Location_LocationManager.htm">
           <HelpTOCNode Title="SetLocationMode Method " Url="html/M_Com_Datalogic_Device_Location_LocationManager_SetLocationMode.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="dd6ced22-71cd-4b09-8846-6c9fc280804e" Title="LocationMode Class" Url="html/T_Com_Datalogic_Device_Location_LocationMode.htm">
-        <HelpTOCNode Id="3b9767de-c629-435d-b9de-e07a3dfc41bd" Title="LocationMode Properties" Url="html/Properties_T_Com_Datalogic_Device_Location_LocationMode.htm">
+      <HelpTOCNode Id="de7db19e-a6f0-4ffb-a78c-2633225c31c5" Title="LocationMode Class" Url="html/T_Com_Datalogic_Device_Location_LocationMode.htm">
+        <HelpTOCNode Id="89df1d66-8af3-46b0-8839-732f933829e8" Title="LocationMode Properties" Url="html/Properties_T_Com_Datalogic_Device_Location_LocationMode.htm">
           <HelpTOCNode Title="Network Property " Url="html/P_Com_Datalogic_Device_Location_LocationMode_Network.htm" />
           <HelpTOCNode Title="Off Property " Url="html/P_Com_Datalogic_Device_Location_LocationMode_Off.htm" />
           <HelpTOCNode Title="Sensors Property " Url="html/P_Com_Datalogic_Device_Location_LocationMode_Sensors.htm" />
           <HelpTOCNode Title="SensorsAndNetwork Property " Url="html/P_Com_Datalogic_Device_Location_LocationMode_SensorsAndNetwork.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0e04e573-cfe2-4a24-9df5-1c8f2fd9e74a" Title="LocationMode Methods" Url="html/Methods_T_Com_Datalogic_Device_Location_LocationMode.htm">
+        <HelpTOCNode Id="6ae3ba4c-832e-4818-af26-5425529d52ec" Title="LocationMode Methods" Url="html/Methods_T_Com_Datalogic_Device_Location_LocationMode.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Device_Location_LocationMode_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Device_Location_LocationMode_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="046fceeb-8086-4a58-a1be-cff0bb883fee" Title="Com.Datalogic.Device.Nfc" Url="html/N_Com_Datalogic_Device_Nfc.htm">
-      <HelpTOCNode Id="d03411e4-56cc-470e-b7dc-cbe9d5cf0d9e" Title="NfcManager Class" Url="html/T_Com_Datalogic_Device_Nfc_NfcManager.htm">
+    <HelpTOCNode Id="e20e06d3-3c85-4bf0-92d9-9133667a7073" Title="Com.Datalogic.Device.Nfc" Url="html/N_Com_Datalogic_Device_Nfc.htm">
+      <HelpTOCNode Id="335bc658-f645-457f-a4bb-f0b3035a57bb" Title="NfcManager Class" Url="html/T_Com_Datalogic_Device_Nfc_NfcManager.htm">
         <HelpTOCNode Title="NfcManager Constructor " Url="html/M_Com_Datalogic_Device_Nfc_NfcManager__ctor.htm" />
-        <HelpTOCNode Id="0efc87f0-4d29-420a-81d8-bf878b92cb33" Title="NfcManager Methods" Url="html/Methods_T_Com_Datalogic_Device_Nfc_NfcManager.htm">
+        <HelpTOCNode Id="f85a51fc-43f8-4be0-b25f-7bcb38db1885" Title="NfcManager Methods" Url="html/Methods_T_Com_Datalogic_Device_Nfc_NfcManager.htm">
           <HelpTOCNode Title="EnableNfcAdapter Method " Url="html/M_Com_Datalogic_Device_Nfc_NfcManager_EnableNfcAdapter.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="bb20c84f-031c-4eef-8350-f52be7c5b85a" Title="Com.Datalogic.Device.Notification" Url="html/N_Com_Datalogic_Device_Notification.htm">
-      <HelpTOCNode Id="a66299fb-4ccc-4269-8cee-4fb950ec5efc" Title="Led Class" Url="html/T_Com_Datalogic_Device_Notification_Led.htm">
-        <HelpTOCNode Id="4f1d6762-7790-4b42-80f8-a560b4a8e3da" Title="Led Properties" Url="html/Properties_T_Com_Datalogic_Device_Notification_Led.htm">
+    <HelpTOCNode Id="f3129cf4-6a75-43fa-bfa2-139b08f36fa9" Title="Com.Datalogic.Device.Notification" Url="html/N_Com_Datalogic_Device_Notification.htm">
+      <HelpTOCNode Id="e7514215-01df-476e-b6b8-8d3bef1be6f8" Title="Led Class" Url="html/T_Com_Datalogic_Device_Notification_Led.htm">
+        <HelpTOCNode Id="4775841f-0000-4a17-af48-a215368c3f40" Title="Led Properties" Url="html/Properties_T_Com_Datalogic_Device_Notification_Led.htm">
           <HelpTOCNode Title="LedGoodRead Property " Url="html/P_Com_Datalogic_Device_Notification_Led_LedGoodRead.htm" />
           <HelpTOCNode Title="LedGreenSpot Property " Url="html/P_Com_Datalogic_Device_Notification_Led_LedGreenSpot.htm" />
           <HelpTOCNode Title="LedNotification Property " Url="html/P_Com_Datalogic_Device_Notification_Led_LedNotification.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="20dc33b6-346e-4931-8cae-1209828e8a7c" Title="Led Methods" Url="html/Methods_T_Com_Datalogic_Device_Notification_Led.htm">
+        <HelpTOCNode Id="863cf58a-924d-47d4-b6b6-27e53c681631" Title="Led Methods" Url="html/Methods_T_Com_Datalogic_Device_Notification_Led.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Device_Notification_Led_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Device_Notification_Led_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="71c40afa-16e6-4e80-94f5-c680911be561" Title="LedManager Class" Url="html/T_Com_Datalogic_Device_Notification_LedManager.htm">
+      <HelpTOCNode Id="0d8d6f2a-092c-4a2c-b52a-dd4bb50b254f" Title="LedManager Class" Url="html/T_Com_Datalogic_Device_Notification_LedManager.htm">
         <HelpTOCNode Title="LedManager Constructor " Url="html/M_Com_Datalogic_Device_Notification_LedManager__ctor.htm" />
-        <HelpTOCNode Id="55c234b1-b9c0-4062-8302-99f2e53dd702" Title="LedManager Methods" Url="html/Methods_T_Com_Datalogic_Device_Notification_LedManager.htm">
-          <HelpTOCNode Id="a68b59e1-6588-4927-b505-8e1e1f3f11c0" Title="BlinkLed Method " Url="html/Overload_Com_Datalogic_Device_Notification_LedManager_BlinkLed.htm">
+        <HelpTOCNode Id="7636fb2b-58c7-46d1-8747-660736f32cd5" Title="LedManager Methods" Url="html/Methods_T_Com_Datalogic_Device_Notification_LedManager.htm">
+          <HelpTOCNode Id="79cd9c61-d493-49f1-8ed9-355ddd1880bf" Title="BlinkLed Method " Url="html/Overload_Com_Datalogic_Device_Notification_LedManager_BlinkLed.htm">
             <HelpTOCNode Title="BlinkLed Method (Led, Int32, Int32, Int32)" Url="html/M_Com_Datalogic_Device_Notification_LedManager_BlinkLed.htm" />
             <HelpTOCNode Title="BlinkLed Method (Led, Int32, Int32, Int32, Int32)" Url="html/M_Com_Datalogic_Device_Notification_LedManager_BlinkLed_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="26afe70b-eca4-4403-8edd-15bf9c7759d7" Title="SetLed Method " Url="html/Overload_Com_Datalogic_Device_Notification_LedManager_SetLed.htm">
+          <HelpTOCNode Id="56af99d7-d898-4141-b01a-5104893486ed" Title="SetLed Method " Url="html/Overload_Com_Datalogic_Device_Notification_LedManager_SetLed.htm">
             <HelpTOCNode Title="SetLed Method (Led, Boolean)" Url="html/M_Com_Datalogic_Device_Notification_LedManager_SetLed.htm" />
             <HelpTOCNode Title="SetLed Method (Led, Boolean, Int32)" Url="html/M_Com_Datalogic_Device_Notification_LedManager_SetLed_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="173fedf7-9e99-4ce6-a637-1325606103ad" Title="Com.Datalogic.Device.Power" Url="html/N_Com_Datalogic_Device_Power.htm">
-      <HelpTOCNode Id="d6aa52b2-786b-4e54-91f4-2290a3a75b36" Title="PowerManager Class" Url="html/T_Com_Datalogic_Device_Power_PowerManager.htm">
+    <HelpTOCNode Id="ddba2ab2-6ac3-4ad5-b0fa-7b5c02ae396a" Title="Com.Datalogic.Device.Power" Url="html/N_Com_Datalogic_Device_Power.htm">
+      <HelpTOCNode Id="5f87943c-2588-4fd1-8218-756411110faa" Title="PowerManager Class" Url="html/T_Com_Datalogic_Device_Power_PowerManager.htm">
         <HelpTOCNode Title="PowerManager Constructor " Url="html/M_Com_Datalogic_Device_Power_PowerManager__ctor.htm" />
-        <HelpTOCNode Id="1d5b8fe5-12ed-40cc-aceb-8af97f1660b5" Title="PowerManager Properties" Url="html/Properties_T_Com_Datalogic_Device_Power_PowerManager.htm">
+        <HelpTOCNode Id="7aae0053-ba07-4081-95de-5c2e6113cf5e" Title="PowerManager Properties" Url="html/Properties_T_Com_Datalogic_Device_Power_PowerManager.htm">
           <HelpTOCNode Title="WakeupReason Property " Url="html/P_Com_Datalogic_Device_Power_PowerManager_WakeupReason.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c897ed75-f509-4e97-969d-b70bd6090afc" Title="PowerManager Methods" Url="html/Methods_T_Com_Datalogic_Device_Power_PowerManager.htm">
+        <HelpTOCNode Id="80ddd914-5448-436f-a06e-d32f36173053" Title="PowerManager Methods" Url="html/Methods_T_Com_Datalogic_Device_Power_PowerManager.htm">
           <HelpTOCNode Title="ActivateWakeup Method " Url="html/M_Com_Datalogic_Device_Power_PowerManager_ActivateWakeup.htm" />
           <HelpTOCNode Title="ClearWakeup Method " Url="html/M_Com_Datalogic_Device_Power_PowerManager_ClearWakeup.htm" />
           <HelpTOCNode Title="GetSuspendTimeout Method " Url="html/M_Com_Datalogic_Device_Power_PowerManager_GetSuspendTimeout.htm" />
@@ -1646,8 +1778,8 @@
           <HelpTOCNode Title="SetSuspendTimeout Method " Url="html/M_Com_Datalogic_Device_Power_PowerManager_SetSuspendTimeout.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="51413e98-c2d5-4155-8c34-21f4ca8f9f75" Title="SuspendTimeout Class" Url="html/T_Com_Datalogic_Device_Power_SuspendTimeout.htm">
-        <HelpTOCNode Id="a40c9150-a660-4733-9fd2-50506b5fa933" Title="SuspendTimeout Properties" Url="html/Properties_T_Com_Datalogic_Device_Power_SuspendTimeout.htm">
+      <HelpTOCNode Id="27d7847a-f948-48b0-8114-e3913f4d3511" Title="SuspendTimeout Class" Url="html/T_Com_Datalogic_Device_Power_SuspendTimeout.htm">
+        <HelpTOCNode Id="7fb2265d-f27c-40a2-a973-702c7eace49d" Title="SuspendTimeout Properties" Url="html/Properties_T_Com_Datalogic_Device_Power_SuspendTimeout.htm">
           <HelpTOCNode Title="Minutes1 Property " Url="html/P_Com_Datalogic_Device_Power_SuspendTimeout_Minutes1.htm" />
           <HelpTOCNode Title="Minutes10 Property " Url="html/P_Com_Datalogic_Device_Power_SuspendTimeout_Minutes10.htm" />
           <HelpTOCNode Title="Minutes15 Property " Url="html/P_Com_Datalogic_Device_Power_SuspendTimeout_Minutes15.htm" />
@@ -1661,15 +1793,15 @@
           <HelpTOCNode Title="Seconds15 Property " Url="html/P_Com_Datalogic_Device_Power_SuspendTimeout_Seconds15.htm" />
           <HelpTOCNode Title="Seconds30 Property " Url="html/P_Com_Datalogic_Device_Power_SuspendTimeout_Seconds30.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="718ef075-245e-4fa9-b253-eb6d0615db5b" Title="SuspendTimeout Methods" Url="html/Methods_T_Com_Datalogic_Device_Power_SuspendTimeout.htm">
+        <HelpTOCNode Id="04bf20b6-e747-4592-9788-f909dd102628" Title="SuspendTimeout Methods" Url="html/Methods_T_Com_Datalogic_Device_Power_SuspendTimeout.htm">
           <HelpTOCNode Title="FromSeconds Method " Url="html/M_Com_Datalogic_Device_Power_SuspendTimeout_FromSeconds.htm" />
           <HelpTOCNode Title="ToSeconds Method " Url="html/M_Com_Datalogic_Device_Power_SuspendTimeout_ToSeconds.htm" />
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Device_Power_SuspendTimeout_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Device_Power_SuspendTimeout_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="3e84595c-6705-4216-9ba6-0eb8fd149409" Title="WakeupSource Class" Url="html/T_Com_Datalogic_Device_Power_WakeupSource.htm">
-        <HelpTOCNode Id="99cfc46b-ad17-4abc-936a-c896caa485ff" Title="WakeupSource Properties" Url="html/Properties_T_Com_Datalogic_Device_Power_WakeupSource.htm">
+      <HelpTOCNode Id="d42fbca8-e777-44f6-aae0-09e1d1f79eca" Title="WakeupSource Class" Url="html/T_Com_Datalogic_Device_Power_WakeupSource.htm">
+        <HelpTOCNode Id="65ce8f6f-9968-42ef-a4f5-6a7c73cccc6a" Title="WakeupSource Properties" Url="html/Properties_T_Com_Datalogic_Device_Power_WakeupSource.htm">
           <HelpTOCNode Title="Accelerometer Property " Url="html/P_Com_Datalogic_Device_Power_WakeupSource_Accelerometer.htm" />
           <HelpTOCNode Title="PowerIn Property " Url="html/P_Com_Datalogic_Device_Power_WakeupSource_PowerIn.htm" />
           <HelpTOCNode Title="PowerKey Property " Url="html/P_Com_Datalogic_Device_Power_WakeupSource_PowerKey.htm" />
@@ -1683,60 +1815,60 @@
           <HelpTOCNode Title="Wifi Property " Url="html/P_Com_Datalogic_Device_Power_WakeupSource_Wifi.htm" />
           <HelpTOCNode Title="Wwan Property " Url="html/P_Com_Datalogic_Device_Power_WakeupSource_Wwan.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="77355c38-f5a2-483f-9772-ef78a66172df" Title="WakeupSource Methods" Url="html/Methods_T_Com_Datalogic_Device_Power_WakeupSource.htm">
+        <HelpTOCNode Id="8109914a-188c-46b1-9b74-eabfcb50412a" Title="WakeupSource Methods" Url="html/Methods_T_Com_Datalogic_Device_Power_WakeupSource.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Device_Power_WakeupSource_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Device_Power_WakeupSource_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="8a5b3448-4a1f-4a4e-b10f-6d19df702b9d" Title="Com.Datalogic.Softspot" Url="html/N_Com_Datalogic_Softspot.htm">
-      <HelpTOCNode Id="0deac752-a33d-4823-9477-1d2bc866a31c" Title="ActionType Class" Url="html/T_Com_Datalogic_Softspot_ActionType.htm">
-        <HelpTOCNode Id="a6060ac6-ddac-4574-a425-175b2a1c1891" Title="ActionType Properties" Url="html/Properties_T_Com_Datalogic_Softspot_ActionType.htm">
+    <HelpTOCNode Id="6963da3b-99b1-45bf-9dc9-49d672fb6b32" Title="Com.Datalogic.Softspot" Url="html/N_Com_Datalogic_Softspot.htm">
+      <HelpTOCNode Id="174ae38a-4f90-47af-8f8b-0b872497fd56" Title="ActionType Class" Url="html/T_Com_Datalogic_Softspot_ActionType.htm">
+        <HelpTOCNode Id="9e22fede-c2da-4158-94ff-aab9929720fe" Title="ActionType Properties" Url="html/Properties_T_Com_Datalogic_Softspot_ActionType.htm">
           <HelpTOCNode Title="Application Property " Url="html/P_Com_Datalogic_Softspot_ActionType_Application.htm" />
           <HelpTOCNode Title="Scan Property " Url="html/P_Com_Datalogic_Softspot_ActionType_Scan.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="4d589d2f-68d7-4a9c-b69b-149ff92fb5fa" Title="ActionType Methods" Url="html/Methods_T_Com_Datalogic_Softspot_ActionType.htm">
+        <HelpTOCNode Id="47f91d5d-ad88-40f3-8fed-98d34a8087ad" Title="ActionType Methods" Url="html/Methods_T_Com_Datalogic_Softspot_ActionType.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Softspot_ActionType_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Softspot_ActionType_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8f26b41e-416b-4de2-a7de-1c75b6b7e863" Title="DecodedDuration Class" Url="html/T_Com_Datalogic_Softspot_DecodedDuration.htm">
-        <HelpTOCNode Id="74bd2e34-5222-4572-98b3-28b8bf2d35ad" Title="DecodedDuration Properties" Url="html/Properties_T_Com_Datalogic_Softspot_DecodedDuration.htm">
+      <HelpTOCNode Id="2fce6fea-7c92-4166-b237-96744f691d74" Title="DecodedDuration Class" Url="html/T_Com_Datalogic_Softspot_DecodedDuration.htm">
+        <HelpTOCNode Id="e22c4eb6-cead-458b-ae26-939890554351" Title="DecodedDuration Properties" Url="html/Properties_T_Com_Datalogic_Softspot_DecodedDuration.htm">
           <HelpTOCNode Title="Sec0 Property " Url="html/P_Com_Datalogic_Softspot_DecodedDuration_Sec0.htm" />
           <HelpTOCNode Title="Sec1 Property " Url="html/P_Com_Datalogic_Softspot_DecodedDuration_Sec1.htm" />
           <HelpTOCNode Title="Sec2 Property " Url="html/P_Com_Datalogic_Softspot_DecodedDuration_Sec2.htm" />
           <HelpTOCNode Title="Sec3 Property " Url="html/P_Com_Datalogic_Softspot_DecodedDuration_Sec3.htm" />
           <HelpTOCNode Title="Sec4 Property " Url="html/P_Com_Datalogic_Softspot_DecodedDuration_Sec4.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b49c0d12-50d3-46b5-a707-b0671748b2f3" Title="DecodedDuration Methods" Url="html/Methods_T_Com_Datalogic_Softspot_DecodedDuration.htm">
+        <HelpTOCNode Id="a0e3b9d9-aa87-4fc1-a361-0539a9a9edb0" Title="DecodedDuration Methods" Url="html/Methods_T_Com_Datalogic_Softspot_DecodedDuration.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Softspot_DecodedDuration_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Softspot_DecodedDuration_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="cc8639c1-45a9-4262-9c64-aa0fa37b602e" Title="ImageEnum Class" Url="html/T_Com_Datalogic_Softspot_ImageEnum.htm">
-        <HelpTOCNode Id="fd57b551-b925-4ae0-a302-e90971b0a3da" Title="ImageEnum Properties" Url="html/Properties_T_Com_Datalogic_Softspot_ImageEnum.htm">
+      <HelpTOCNode Id="10eac8ad-f1a2-4396-a2ce-9e34d8a09b19" Title="ImageEnum Class" Url="html/T_Com_Datalogic_Softspot_ImageEnum.htm">
+        <HelpTOCNode Id="b2a41ea4-9bb3-47fd-b7a9-6c46f98ae116" Title="ImageEnum Properties" Url="html/Properties_T_Com_Datalogic_Softspot_ImageEnum.htm">
           <HelpTOCNode Title="GreenBarcode Property " Url="html/P_Com_Datalogic_Softspot_ImageEnum_GreenBarcode.htm" />
           <HelpTOCNode Title="GreenBarcodeNumeric Property " Url="html/P_Com_Datalogic_Softspot_ImageEnum_GreenBarcodeNumeric.htm" />
           <HelpTOCNode Title="RedTarget Property " Url="html/P_Com_Datalogic_Softspot_ImageEnum_RedTarget.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="14f892eb-3e91-48c6-a060-0ac9723c4b4e" Title="ImageEnum Methods" Url="html/Methods_T_Com_Datalogic_Softspot_ImageEnum.htm">
+        <HelpTOCNode Id="79198240-d48e-4e3d-ac07-19c5c22459cd" Title="ImageEnum Methods" Url="html/Methods_T_Com_Datalogic_Softspot_ImageEnum.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Softspot_ImageEnum_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Softspot_ImageEnum_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="da9e5235-7ef8-42e5-9835-7522ba2ae11f" Title="ImageState Class" Url="html/T_Com_Datalogic_Softspot_ImageState.htm">
-        <HelpTOCNode Id="e72c23a6-c386-4b2e-a142-0a1d7c20cb6e" Title="ImageState Properties" Url="html/Properties_T_Com_Datalogic_Softspot_ImageState.htm">
+      <HelpTOCNode Id="8ab738fd-e5b7-40e4-87d2-199307e78f19" Title="ImageState Class" Url="html/T_Com_Datalogic_Softspot_ImageState.htm">
+        <HelpTOCNode Id="399a2fa1-8ec4-42b5-8171-cfd8505e442a" Title="ImageState Properties" Url="html/Properties_T_Com_Datalogic_Softspot_ImageState.htm">
           <HelpTOCNode Title="Decoded Property " Url="html/P_Com_Datalogic_Softspot_ImageState_Decoded.htm" />
           <HelpTOCNode Title="Normal Property " Url="html/P_Com_Datalogic_Softspot_ImageState_Normal.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="898d7f9a-5653-420c-8d2a-115ba8a4697b" Title="ImageState Methods" Url="html/Methods_T_Com_Datalogic_Softspot_ImageState.htm">
+        <HelpTOCNode Id="04b0217b-80cf-4c88-a037-45cacf1945c6" Title="ImageState Methods" Url="html/Methods_T_Com_Datalogic_Softspot_ImageState.htm">
           <HelpTOCNode Title="ValueOf Method " Url="html/M_Com_Datalogic_Softspot_ImageState_ValueOf.htm" />
           <HelpTOCNode Title="Values Method " Url="html/M_Com_Datalogic_Softspot_ImageState_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="6d7f0aa1-d953-4c01-84f3-b830e060cd23" Title="SoftSpot Class" Url="html/T_Com_Datalogic_Softspot_SoftSpot.htm">
+      <HelpTOCNode Id="883891fc-b630-44d5-8393-007186fae05d" Title="SoftSpot Class" Url="html/T_Com_Datalogic_Softspot_SoftSpot.htm">
         <HelpTOCNode Title="SoftSpot Constructor " Url="html/M_Com_Datalogic_Softspot_SoftSpot__ctor.htm" />
-        <HelpTOCNode Id="401b8e3e-9adb-4225-a238-040c7196ed6d" Title="SoftSpot Properties" Url="html/Properties_T_Com_Datalogic_Softspot_SoftSpot.htm">
+        <HelpTOCNode Id="00515283-a557-4564-ac52-ff74dc6b80c3" Title="SoftSpot Properties" Url="html/Properties_T_Com_Datalogic_Softspot_SoftSpot.htm">
           <HelpTOCNode Title="Enabled Property " Url="html/P_Com_Datalogic_Softspot_SoftSpot_Enabled.htm" />
           <HelpTOCNode Title="LockState Property " Url="html/P_Com_Datalogic_Softspot_SoftSpot_LockState.htm" />
           <HelpTOCNode Title="Position Property " Url="html/P_Com_Datalogic_Softspot_SoftSpot_Position.htm" />
@@ -1746,7 +1878,7 @@
           <HelpTOCNode Title="ScaleMax Property " Url="html/P_Com_Datalogic_Softspot_SoftSpot_ScaleMax.htm" />
           <HelpTOCNode Title="ScaleMin Property " Url="html/P_Com_Datalogic_Softspot_SoftSpot_ScaleMin.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a81471ea-cb35-4cb3-9433-12349ff7670f" Title="SoftSpot Methods" Url="html/Methods_T_Com_Datalogic_Softspot_SoftSpot.htm">
+        <HelpTOCNode Id="83b96ed4-e18b-4999-83f5-0adef569df1e" Title="SoftSpot Methods" Url="html/Methods_T_Com_Datalogic_Softspot_SoftSpot.htm">
           <HelpTOCNode Title="GetImage Method " Url="html/M_Com_Datalogic_Softspot_SoftSpot_GetImage.htm" />
           <HelpTOCNode Title="Hide Method " Url="html/M_Com_Datalogic_Softspot_SoftSpot_Hide.htm" />
           <HelpTOCNode Title="Lock Method " Url="html/M_Com_Datalogic_Softspot_SoftSpot_Lock.htm" />
@@ -1755,16 +1887,16 @@
           <HelpTOCNode Title="SetVibrator Method " Url="html/M_Com_Datalogic_Softspot_SoftSpot_SetVibrator.htm" />
           <HelpTOCNode Title="Show Method " Url="html/M_Com_Datalogic_Softspot_SoftSpot_Show.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="36d97f68-4cfb-4b6a-b14b-e68385ef7818" Title="SoftSpot Fields" Url="html/Fields_T_Com_Datalogic_Softspot_SoftSpot.htm">
+        <HelpTOCNode Id="1e53f24a-7e6a-43c9-9c36-53e3df7b045f" Title="SoftSpot Fields" Url="html/Fields_T_Com_Datalogic_Softspot_SoftSpot.htm">
           <HelpTOCNode Title="TimeoutMillis Field" Url="html/F_Com_Datalogic_Softspot_SoftSpot_TimeoutMillis.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e9782977-2feb-4ded-8530-cfcab5b8efe0" Title="SoftSpot.Point Class" Url="html/T_Com_Datalogic_Softspot_SoftSpot_Point.htm">
-        <HelpTOCNode Id="e8e361e2-7c57-4a6d-987e-cdeddb781023" Title="Point Constructor " Url="html/Overload_Com_Datalogic_Softspot_SoftSpot_Point__ctor.htm">
+      <HelpTOCNode Id="2dba098d-6f67-453f-982f-2b4006cd7a91" Title="SoftSpot.Point Class" Url="html/T_Com_Datalogic_Softspot_SoftSpot_Point.htm">
+        <HelpTOCNode Id="9db26c3c-058d-4148-a6a1-2a96bdbafbc0" Title="Point Constructor " Url="html/Overload_Com_Datalogic_Softspot_SoftSpot_Point__ctor.htm">
           <HelpTOCNode Title="SoftSpot.Point Constructor " Url="html/M_Com_Datalogic_Softspot_SoftSpot_Point__ctor.htm" />
           <HelpTOCNode Title="SoftSpot.Point Constructor (Int32, Int32)" Url="html/M_Com_Datalogic_Softspot_SoftSpot_Point__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="9d44cb56-34f0-4f85-9927-55891a271c9d" Title="Point Properties" Url="html/Properties_T_Com_Datalogic_Softspot_SoftSpot_Point.htm">
+        <HelpTOCNode Id="3fd739a5-2f86-42ff-891b-853f95c9dbfe" Title="Point Properties" Url="html/Properties_T_Com_Datalogic_Softspot_SoftSpot_Point.htm">
           <HelpTOCNode Title="X Property " Url="html/P_Com_Datalogic_Softspot_SoftSpot_Point_X.htm" />
           <HelpTOCNode Title="Y Property " Url="html/P_Com_Datalogic_Softspot_SoftSpot_Point_Y.htm" />
         </HelpTOCNode>
