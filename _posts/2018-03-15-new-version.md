@@ -1,13 +1,13 @@
 ---
 layout: post
-title: SDK Version 1.8.89 is now available
+title: SDK Version 1.9.91 is now available
 date: 2018-03-15 11:00:00 +0100
 ---
 
-**Version 1.8.89** is now available for download. Follow the directions on the <a href="{{ site.baseurl }}/quick-start">Quick Start</a> page to get started. You can also download directly from <a href="https://www.nuget.org/packages/datalogic-xamarin-sdk/1.8.89">NuGet here</a>.
+**Version 1.9.91** is now available for download. Follow the directions on the <a href="{{ site.baseurl }}/quick-start">Quick Start</a> page to get started. You can also download directly from <a href="https://www.nuget.org/packages/datalogic-xamarin-sdk/1.9.91">NuGet here</a>.
 
 
-#### Support all Datalogic Android SDK 1.6,1.7,1.8 features:
+#### Support all Datalogic Android SDK 1.6,1.7,1.8, 1.9 features:
 
 
 * Multi Scan
@@ -23,6 +23,8 @@ date: 2018-03-15 11:00:00 +0100
 * Composite symbology support
 * Web Wedge functionality
 * GS1 DataBar conversion to GS1-128
+
+* Added support for Code 39 with short margins
 
 
 * Linear quiet zone configuration, only EAN/UPC for now
@@ -59,6 +61,7 @@ date: 2018-03-15 11:00:00 +0100
 ##### Added public fields
 
 {% include x-link.html uri='F.Com.Datalogic.Decode.PropertyID#AztecCharacterSetMode' %}
+{% include x-link.html uri='F.Com.Datalogic.Decode.PropertyID#Code39ShortQuietZones' %}
 {% include x-link.html uri='F.Com.Datalogic.Decode.PropertyID#CompositeEanUpcMode' %}
 {% include x-link.html uri='F.Com.Datalogic.Decode.PropertyID#CompositeEnable' %}
 {% include x-link.html uri='F.Com.Datalogic.Decode.PropertyID#CompositeGs1128Mode' %}
@@ -173,13 +176,15 @@ date: 2018-03-15 11:00:00 +0100
 {% include x-link.html uri='P.Com.Datalogic.Decode.Configuration.UpcEanCompositeMode#AlwaysLinked' %}
 {% include x-link.html uri='P.Com.Datalogic.Decode.Configuration.UpcEanCompositeMode#Auto' %}
 {% include x-link.html uri='P.Com.Datalogic.Decode.Configuration.UpcEanCompositeMode#NeverLinked' %}
+{% include x-link.html uri='P.Com.Datalogic.Decode.Configuration.LinearQuietZones#Code39Reduced' %}
+
 
 
 
 
 ##### Changed public fields
 
-Updated version from 1.5 to 1.8.
+Updated version from 1.5 to 1.9
 {% include x-link.html uri='F.Com.Datalogic.Device.Info.SYSTEM.Version#SdkVersionMinor' %}
 
 

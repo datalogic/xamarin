@@ -382,7 +382,9 @@
   <HelpKINode Title="Code39Length1 field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code39Length1.htm" />
   <HelpKINode Title="Code39Length2 field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code39Length2.htm" />
   <HelpKINode Title="Code39LengthControl field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code39LengthControl.htm" />
+  <HelpKINode Title="Code39Reduced property" Url="html/P_Com_Datalogic_Decode_Configuration_LinearQuietZones_Code39Reduced.htm" />
   <HelpKINode Title="Code39SendCheck field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code39SendCheck.htm" />
+  <HelpKINode Title="Code39ShortQuietZones field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code39ShortQuietZones.htm" />
   <HelpKINode Title="Code39UserId field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code39UserId.htm" />
   <HelpKINode Title="Code93 class">
     <HelpKINode Title="Code93 Class" Url="html/T_Com_Datalogic_Decode_Configuration_Code93.htm" />
@@ -1774,6 +1776,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_LinearQuietZones.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_LinearQuietZones.htm" />
   </HelpKINode>
+  <HelpKINode Title="LinearQuietZones.Code39Reduced property" Url="html/P_Com_Datalogic_Decode_Configuration_LinearQuietZones_Code39Reduced.htm" />
   <HelpKINode Title="LinearQuietZones.LinearQuietZones constructor" Url="html/M_Com_Datalogic_Decode_Configuration_LinearQuietZones__ctor.htm" />
   <HelpKINode Title="LinearQuietZones.UpcEanReduced property" Url="html/P_Com_Datalogic_Decode_Configuration_LinearQuietZones_UpcEanReduced.htm" />
   <HelpKINode Title="LinearQZ property" Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_LinearQZ.htm" />
@@ -2206,6 +2209,7 @@
   <HelpKINode Title="PropertyID.Code39Length2 field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code39Length2.htm" />
   <HelpKINode Title="PropertyID.Code39LengthControl field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code39LengthControl.htm" />
   <HelpKINode Title="PropertyID.Code39SendCheck field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code39SendCheck.htm" />
+  <HelpKINode Title="PropertyID.Code39ShortQuietZones field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code39ShortQuietZones.htm" />
   <HelpKINode Title="PropertyID.Code39UserId field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code39UserId.htm" />
   <HelpKINode Title="PropertyID.Code93Enable field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code93Enable.htm" />
   <HelpKINode Title="PropertyID.Code93Length1 field" Url="html/F_Com_Datalogic_Decode_PropertyID_Code93Length1.htm" />
@@ -2374,11 +2378,11 @@
     <HelpKINode Title="methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_QRCode.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_QRCode.htm" />
   </HelpKINode>
-  <HelpKINode Title="QrCode property" Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_QrCode.htm" />
   <HelpKINode Title="Qrcode property">
     <HelpKINode Title="BarcodeID.Qrcode Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_Qrcode.htm" />
     <HelpKINode Title="Symbology.Qrcode Property " Url="html/P_Com_Datalogic_Decode_Symbology_Qrcode.htm" />
   </HelpKINode>
+  <HelpKINode Title="QrCode property" Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_QrCode.htm" />
   <HelpKINode Title="QRCode.CharacterSetMode property" Url="html/P_Com_Datalogic_Decode_Configuration_QRCode_CharacterSetMode.htm" />
   <HelpKINode Title="QRCode.QRCode constructor" Url="html/M_Com_Datalogic_Decode_Configuration_QRCode__ctor.htm" />
   <HelpKINode Title="QrcodeCharacterSetMode field" Url="html/F_Com_Datalogic_Decode_PropertyID_QrcodeCharacterSetMode.htm" />
@@ -2804,11 +2808,11 @@
     <HelpKINode Title="methods" Url="html/Methods_T_Com_Datalogic_Decode_Configuration_UpcA.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Com_Datalogic_Decode_Configuration_UpcA.htm" />
   </HelpKINode>
-  <HelpKINode Title="UpcA property" Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_UpcA.htm" />
   <HelpKINode Title="Upca property">
     <HelpKINode Title="BarcodeID.Upca Property " Url="html/P_Com_Datalogic_Decode_BarcodeID_Upca.htm" />
     <HelpKINode Title="Symbology.Upca Property " Url="html/P_Com_Datalogic_Decode_Symbology_Upca.htm" />
   </HelpKINode>
+  <HelpKINode Title="UpcA property" Url="html/P_Com_Datalogic_Decode_Configuration_ScannerProperties_UpcA.htm" />
   <HelpKINode Title="UpcA.ConvertToEan13 property" Url="html/P_Com_Datalogic_Decode_Configuration_UpcA_ConvertToEan13.htm" />
   <HelpKINode Title="UpcA.SendChecksum property" Url="html/P_Com_Datalogic_Decode_Configuration_UpcA_SendChecksum.htm" />
   <HelpKINode Title="UpcA.SendSystemDigit property" Url="html/P_Com_Datalogic_Decode_Configuration_UpcA_SendSystemDigit.htm" />
